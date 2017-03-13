@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# get predictor variables\nfnames <- list.files(path=paste(system.file(package=\"dismo\"), '/ex', sep=''), \n                     pattern='grd', full.names=TRUE )\npredictors <- stack(fnames) # refer http://www.worldclim.org/bioclim for details about predictors\nplot(predictors)\n\n# occurrence data\noccurence <- paste(system.file(package=\"dismo\"), '/ex/bradypus.csv', sep='')\nocc <- read.table(occurence, header=TRUE, sep=',')[,-1]\nfold <- kfold(occ, k=5)\nocctest <- occ[fold == 1, ]\nocctrain <- occ[fold != 1, ]\n\n# fit model, biome is a categorical variable\nme <- maxent(predictors, occtrain, factors='biome')\n\n# see the maxent results in a browser:\n# me\n\n# use \"args\"\nme2 <- maxent(predictors, occtrain, factors='biome', args=c(\"-J\", \"-P\"))\nme2\n# plot showing importance of each variable\nplot(me)\n# response curves\nresponse(me)\n\n# predict to entire dataset\nr <- predict(me, predictors) \n\n# with some options:\n# r <- predict(me, predictors, args=c(\"outputformat=raw\"), progress='text', \n#      filename='maxent_prediction.grd')\n\nplot(r)\npoints(occ)\n\n#testing\n# background data\nbg <- randomPoints(predictors, 1000)\n\n#simplest way to use 'evaluate'\ne1 <- evaluate(me, p=occtest, a=bg, x=predictors)\n\n# alternative 1\n# extract values\npvtest <- data.frame(extract(predictors, occtest))\navtest <- data.frame(extract(predictors, bg))\n\ne2 <- evaluate(me, p=pvtest, a=avtest)\n\n# alternative 2 \n# predict to testing points \ntestp <- predict(me, pvtest) \nhead(testp)\ntesta <- predict(me, avtest) \n\ne3 <- evaluate(p=testp, a=testa)\ne3\nthreshold(e3)\n\nplot(e3, 'ROC')\n",
+    "created" : 1489337247395.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2017756680",
+    "id" : "57AEA198",
+    "lastKnownWriteTime" : 1489344715,
+    "last_content_update" : 1489344715423,
+    "path" : "~/Documents/research/Megan_ASU/bats_modeling/maxent_example.R",
+    "project_path" : "maxent_example.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

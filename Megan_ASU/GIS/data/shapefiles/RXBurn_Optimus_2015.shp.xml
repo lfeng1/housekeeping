@@ -1,0 +1,400 @@
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20170220</CreaDate>
+		<CreaTime>08264000</CreaTime>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncDate>20170320</SyncDate>
+		<SyncTime>14181400</SyncTime>
+		<ModDate>20170320</ModDate>
+		<ModTime>14181400</ModTime>
+		<DataProperties><lineage><Process ToolSource="C:\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AssignDomainToField" Date="20110114" Time="130450">AssignDomainToField "Database Connections\IWeb@SDE.sde\S_R08_OZF.ProjectArea" DATA_SOURCE FSMetadata_DATA_SOURCE_1 # "Database Connections\IWeb@SDE.sde\S_R08_OZF.ProjectArea"</Process><Process ToolSource="C:\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\AssignDomainToField" Date="20121219" Time="065746">AssignDomainToField C:\sde_tools\connections\S_R08_OZF@infraweb1.fs.usda.gov_5151.sde\S_R08_OZF.Activities\S_R08_OZF.ProjectArea DATA_SOURCE FSMetadata_DATA_SOURCE #</Process><Process ToolSource="C:\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\AssignDomainToField" Date="20121219" Time="075649">AssignDomainToField C:\sde_tools\connections\S_R08_OZF@infraweb1.fs.usda.gov_5151.sde\S_R08_OZF.Activities\S_R08_OZF.ProjectArea DATA_SOURCE FSMetadata_DATA_SOURCE 1</Process><Process ToolSource="C:\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\AssignDomainToField" Date="20121219" Time="075651">AssignDomainToField C:\sde_tools\connections\S_R08_OZF@infraweb1.fs.usda.gov_5151.sde\S_R08_OZF.Activities\S_R08_OZF.ProjectArea DATA_SOURCE FSMetadata_DATA_SOURCE 4</Process><Process ToolSource="C:\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\AssignDomainToField" Date="20121219" Time="075652">AssignDomainToField C:\sde_tools\connections\S_R08_OZF@infraweb1.fs.usda.gov_5151.sde\S_R08_OZF.Activities\S_R08_OZF.ProjectArea DATA_SOURCE FSMetadata_DATA_SOURCE 5</Process><Process ToolSource="C:\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\AssignDomainToField" Date="20121219" Time="075654">AssignDomainToField C:\sde_tools\connections\S_R08_OZF@infraweb1.fs.usda.gov_5151.sde\S_R08_OZF.Activities\S_R08_OZF.ProjectArea DATA_SOURCE FSMetadata_DATA_SOURCE 3</Process><Process ToolSource="C:\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\AssignDomainToField" Date="20121219" Time="075656">AssignDomainToField C:\sde_tools\connections\S_R08_OZF@infraweb1.fs.usda.gov_5151.sde\S_R08_OZF.Activities\S_R08_OZF.ProjectArea DATA_SOURCE FSMetadata_DATA_SOURCE 2</Process></lineage><itemProps><itemLocation><linkage Sync="TRUE">file://\\CAESER-0014\J\RXBurn_Optimus_2015.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><itemName Sync="TRUE">RXBurn_Optimus_2015</itemName><imsContentType Sync="TRUE">002</imsContentType><itemSize Sync="TRUE">0.000</itemSize></itemProps><copyHistory><copy source="E:\OZ_Fire\RXBurns\RxBurn_Optimus_FY15_FY18" dest="\\LSE304-H04274\E\Daniel's data\RxBurn_Optimus_FY15_FY18" date="20160412" time="07474800"></copy></copyHistory><coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><csUnits Sync="TRUE">Linear Unit: Foot_US (0.304801)</csUnits><projcsn Sync="TRUE">NAD_1983_StatePlane_Arkansas_North_FIPS_0301_Feet</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.4'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_Arkansas_North_FIPS_0301_Feet&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,1312333.333333333],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-92.0],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,34.93333333333333],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,36.23333333333333],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,34.33333333333334],UNIT[&amp;quot;Foot_US&amp;quot;,0.3048006096012192],AUTHORITY[&amp;quot;EPSG&amp;quot;,3433]]&lt;/WKT&gt;&lt;XOrigin&gt;-122328300&lt;/XOrigin&gt;&lt;YOrigin&gt;-93908400&lt;/YOrigin&gt;&lt;XYScale&gt;36424925.367318623&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.0032808333333333331&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102651&lt;/WKID&gt;&lt;LatestWKID&gt;3433&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml></coordRef></DataProperties><ArcGISFormat>1.0</ArcGISFormat><ArcGISstyle>North American Profile of ISO19115 2003</ArcGISstyle></Esri>
+	<idinfo>
+		<descript>
+			<langdata Sync="TRUE">en</langdata>
+			<abstract>An area within which one or more activities are aggregated or organized.</abstract>
+		</descript>
+		<citation>
+			<citeinfo>
+				<origin>REQUIRED: The name of an organization or individual that developed the data set.</origin>
+				<pubdate>REQUIRED: The date when the data set is published or otherwise made available for release.</pubdate>
+				<title Sync="TRUE">ProjectArea</title>
+				<ftname Sync="TRUE">ProjectArea</ftname>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink Sync="TRUE">Server=IWEBDB; Service=sde:oracle11g:/:SDE; User=S_R08_OZF; Version=SDE.DEFAULT</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>REQUIRED: The basis on which the time period of content information is determined.</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>REQUIRED: The year (and optionally month, or month and day) for which the data set corresponds to the ground.</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>REQUIRED: The state of the data set.</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">REQUIRED: Western-most coordinate of the limit of coverage expressed in longitude.</westbc>
+				<eastbc Sync="TRUE">REQUIRED: Eastern-most coordinate of the limit of coverage expressed in longitude.</eastbc>
+				<northbc Sync="TRUE">REQUIRED: Northern-most coordinate of the limit of coverage expressed in latitude.</northbc>
+				<southbc Sync="TRUE">REQUIRED: Southern-most coordinate of the limit of coverage expressed in latitude.</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt>
+				<themekey>Activities</themekey>
+			</theme>
+		</keywords>
+		<accconst>REQUIRED: Restrictions and legal prerequisites for accessing the data set.</accconst>
+		<useconst>The Forest Service uses the most current and complete data available. GIS data and product accuracy may vary.  They may be developed from sources of differing accuracy; accurate only at certain scales; based on modeling or interpretation; incomplete while being created or revised; etc. Using GIS products for purposes other than those for which they were created, may yield inaccurate or misleading results. The Forest Service reserves the right to correct, update, modify or replace GIS products without notification.</useconst>
+		<natvform Sync="TRUE">Personal GeoDatabase Feature Class</natvform>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>USDA Forest Service / I-Web</cntorg>
+				</cntorgp>
+			</cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native>
+		<crossref>
+			<citeinfo>
+				<title>FACTS Web Page</title>
+				<onlink>http://fsweb.ftcol.wo.fs.fed.us/frs/facts</onlink>
+			</citeinfo>
+		</crossref>
+	</idinfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.4.0.5524</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="eng"></languageCode>
+			<countryCode value="USA" Sync="TRUE"></countryCode></dataLang>
+		<idCitation>
+			<resTitle Sync="TRUE">RXBurn_Optimus_2015</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"></PresFormCd>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd>
+		</spatRpType>
+	</dataIdInfo>
+	<metainfo>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+					<cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+					<city>REQUIRED: The city of the address.</city>
+					<state>REQUIRED: The state or province of the address.</state>
+					<postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+				</cntaddr>
+				<cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+			</cntinfo>
+		</metc>
+		<metd Sync="TRUE">20081121</metd>
+	</metainfo>
+	<mdLang>
+		<languageCode Sync="TRUE" value="eng"></languageCode>
+		<countryCode value="USA" Sync="TRUE"></countryCode></mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"></CharSetCd>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"></ScopeCd>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<distinfo>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc>
+	</distinfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc Sync="TRUE">002</orDesc>
+					<linkage Sync="TRUE">Server=IWEBDB; Service=sde:oracle11g:/:SDE; User=S_R08_OZF; Version=SDE.DEFAULT</linkage>
+					<protocol Sync="TRUE">ArcSDE Connection</protocol>
+				</onLineSrc>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">Personal GeoDatabase Feature Class</formatName>
+			</distorFormat>
+		</distributor>
+		<distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf><esriterm Name="RXBurn_Optimus_2015"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo>
+	<spatRepInfo>
+		<VectSpatRep><geometObjs Name="RXBurn_Optimus_2015"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo>
+	<mdDateSt Sync="TRUE">20170320</mdDateSt>
+	<eainfo>
+		<detailed Name="RXBurn_Optimus_2015">
+			<enttyp>
+				<enttypl Sync="TRUE">RXBurn_Optimus_2015</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">0</enttypc>
+				<enttypd>An area within which one or more activities are aggregated or organized.</enttypd>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+				<attalias Sync="TRUE">OBJECTID</attalias>
+				<attrtype Sync="TRUE">Integer</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atprecis Sync="TRUE">10</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CN</attrlabl>
+				<attalias Sync="TRUE">CN</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">34</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Globally unique identifier across all Forest Service databases, foreign key to most Forest Service National Application databases.</attrdef>
+				<attrdomv>
+					<udom>A unique code generated by Oracle.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">ID</attrlabl>
+				<attalias Sync="TRUE">ID</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>An identifier for this project - may be user-defined or system-assigned, depending on the ProjectType.  This column duplicates data in Oracle, and may be overwritten by synchronization processes.</attrdef>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Name</attrlabl>
+				<attalias Sync="TRUE">NAME</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>The name (if any) of the project.  This column duplicates data in Oracle, and may be overwritten by synchronization processes.</attrdef>
+			</attr>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><subtype>
+				<stname Sync="TRUE">Other</stname>
+				<stcode Sync="TRUE">1</stcode>
+				<stfield>
+					<stfldnm Sync="TRUE">ProjectType</stfldnm>
+					<stflddv Sync="TRUE">1</stflddv>
+					<stflddd>
+						<domname Sync="TRUE">FSMetadata_DATA_SOURCE</domname>
+						<domdesc Sync="TRUE"></domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE"></domowner>
+						<domfldtp Sync="TRUE">String</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">DATA_SOURCE</stfldnm>
+					<stflddv Sync="TRUE">1</stflddv>
+					<stflddd><domname Sync="TRUE">FSMetadata_DATA_SOURCE</domname><domdesc Sync="TRUE"></domdesc><domtype Sync="TRUE">Coded Value</domtype><mrgtype Sync="TRUE">Default value</mrgtype><splttype Sync="TRUE">Duplicate</splttype><domowner Sync="TRUE"></domowner><domfldtp Sync="TRUE">String</domfldtp></stflddd></stfield>
+			</subtype>
+			<subtype>
+				<stname Sync="TRUE">SAIPlan</stname>
+				<stcode Sync="TRUE">4</stcode>
+				<stfield>
+					<stfldnm Sync="TRUE">ProjectType</stfldnm>
+					<stflddv Sync="TRUE">4</stflddv>
+					<stflddd>
+						<domname Sync="TRUE">FSMetadata_DATA_SOURCE</domname>
+						<domdesc Sync="TRUE"></domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE"></domowner>
+						<domfldtp Sync="TRUE">String</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">DATA_SOURCE</stfldnm>
+					<stflddv Sync="TRUE">4</stflddv>
+					<stflddd><domname Sync="TRUE">FSMetadata_DATA_SOURCE</domname><domdesc Sync="TRUE"></domdesc><domtype Sync="TRUE">Coded Value</domtype><mrgtype Sync="TRUE">Default value</mrgtype><splttype Sync="TRUE">Duplicate</splttype><domowner Sync="TRUE"></domowner><domfldtp Sync="TRUE">String</domfldtp></stflddd></stfield>
+			</subtype>
+			<attr>
+				<attrlabl Sync="TRUE">REV_DATE</attrlabl>
+				<attalias Sync="TRUE">REV_DATE</attalias>
+				<attrtype Sync="TRUE">Date</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Date of feature creation or latest update.</attrdef>
+				<attrdefs>FS Feature Level Metadata standard column.  http://www.fs.fed.us/gac/metadata/feature_level.html</attrdefs>
+				<attrdomv>
+					<udom>The revision date field is populated with the compilation date for the feature. Tasks associated with each revision should be documented in the process steps of theme-based metadata.</udom>
+				</attrdomv>
+			</attr>
+			<subtype>
+				<stname Sync="TRUE">NEPA</stname>
+				<stcode Sync="TRUE">2</stcode>
+				<stfield>
+					<stfldnm Sync="TRUE">ProjectType</stfldnm>
+					<stflddv Sync="TRUE">2</stflddv>
+					<stflddd>
+						<domname Sync="TRUE">FSMetadata_DATA_SOURCE</domname>
+						<domdesc Sync="TRUE"></domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE"></domowner>
+						<domfldtp Sync="TRUE">String</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">DATA_SOURCE</stfldnm>
+					<stflddv Sync="TRUE">2</stflddv>
+					<stflddd><domname Sync="TRUE">FSMetadata_DATA_SOURCE</domname><domdesc Sync="TRUE"></domdesc><domtype Sync="TRUE">Coded Value</domtype><mrgtype Sync="TRUE">Default value</mrgtype><splttype Sync="TRUE">Duplicate</splttype><domowner Sync="TRUE"></domowner><domfldtp Sync="TRUE">String</domfldtp></stflddd></stfield>
+			</subtype>
+			<attr>
+				<attrlabl Sync="TRUE">ACCURACY</attrlabl>
+				<attalias Sync="TRUE">ACCURACY</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Distance (+/-), in dataset distance units, of expected difference between feature and real world object locations.</attrdef>
+				<attrdefs>FS Feature Level Metadata standard column.  http://www.fs.fed.us/gac/metadata/feature_level.htm</attrdefs>
+			</attr>
+			<attr><attrlabl Sync="TRUE">PROJECTTYP</attrlabl><attalias Sync="TRUE">PROJECTTYP</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">10</attwidth><atprecis Sync="TRUE">10</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl Sync="TRUE">GlobalID</attrlabl>
+				<attalias Sync="TRUE">GLOBALID</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">38</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Globally Unique Identifier for each feature, managed by ESRI software.</attrdef>
+			</attr>
+			<attr><attrlabl Sync="TRUE">DATA_SOURC</attrlabl><attalias Sync="TRUE">DATA_SOURC</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl Sync="TRUE">Shape_Area</attrlabl>
+				<attalias Sync="TRUE">Shape_Area</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr><attrlabl Sync="TRUE">MODIFIED_D</attrlabl><attalias Sync="TRUE">MODIFIED_D</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SHAPE_Leng</attrlabl><attalias Sync="TRUE">SHAPE_Leng</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Perimeter</attrlabl><attalias Sync="TRUE">Perimeter</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Area</attrlabl><attalias Sync="TRUE">Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Acres</attrlabl><attalias Sync="TRUE">Acres</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Hectares</attrlabl><attalias Sync="TRUE">Hectares</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><subtype>
+				<stname Sync="TRUE">TimberSale</stname>
+				<stcode Sync="TRUE">3</stcode>
+				<stfield>
+					<stfldnm Sync="TRUE">ProjectType</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">FSMetadata_DATA_SOURCE</domname>
+						<domdesc Sync="TRUE"></domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE"></domowner>
+						<domfldtp Sync="TRUE">String</domfldtp>
+					</stflddd>
+					<stflddv Sync="TRUE">3</stflddv></stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">DATA_SOURCE</stfldnm>
+					<stflddv Sync="TRUE">3</stflddv>
+					<stflddd><domname Sync="TRUE">FSMetadata_DATA_SOURCE</domname><domdesc Sync="TRUE"></domdesc><domtype Sync="TRUE">Coded Value</domtype><mrgtype Sync="TRUE">Default value</mrgtype><splttype Sync="TRUE">Duplicate</splttype><domowner Sync="TRUE"></domowner><domfldtp Sync="TRUE">String</domfldtp></stflddd></stfield>
+			</subtype>
+			<attr><attrlabl Sync="TRUE">Shape_Le_1</attrlabl><attalias Sync="TRUE">Shape_Le_1</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><subtype>
+				<stname Sync="TRUE">BDPlan</stname>
+				<stcode Sync="TRUE">5</stcode>
+				<stfield>
+					<stfldnm Sync="TRUE">ProjectType</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">FSMetadata_DATA_SOURCE</domname>
+						<domdesc Sync="TRUE"></domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE"></domowner>
+						<domfldtp Sync="TRUE">String</domfldtp>
+					</stflddd>
+					<stflddv Sync="TRUE">5</stflddv></stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">DATA_SOURCE</stfldnm>
+					<stflddv Sync="TRUE">5</stflddv>
+					<stflddd><domname Sync="TRUE">FSMetadata_DATA_SOURCE</domname><domdesc Sync="TRUE"></domdesc><domtype Sync="TRUE">Coded Value</domtype><mrgtype Sync="TRUE">Default value</mrgtype><splttype Sync="TRUE">Duplicate</splttype><domowner Sync="TRUE"></domowner><domfldtp Sync="TRUE">String</domfldtp></stflddd></stfield>
+			</subtype>
+		</detailed>
+		<overview>
+			<dsoverv>ProjectArea is a feature class in the Activities feature dataset</dsoverv>
+		</overview>
+	</eainfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srcscale>Best available source with a target scale of 1:24000 for Continental U.S., Puerto Rico, and Hawaii and 1:63360 for Alaska.</srcscale>
+			</srcinfo>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\x\LOCALS~1\Temp\ProjectArea.xml</srcused>
+				<date Sync="TRUE">20070326</date>
+				<time Sync="TRUE">14265700</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\x\LOCALS~1\Temp\ProjectArea.xml</srcused>
+				<date Sync="TRUE">20070416</date>
+				<time Sync="TRUE">03055600</time>
+			</procstep>
+			<procstep>
+				<procdesc Sync="TRUE">Metadata imported.</procdesc>
+				<srcused Sync="TRUE">C:\DOCUME~1\x\LOCALS~1\Temp\ProjectArea.xml</srcused>
+				<date Sync="TRUE">20070613</date>
+				<time Sync="TRUE">10315500</time>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\PVCS\common\IWeb\GIS\db\MetadataHTM\MetadataHTM\Activities\ProjectArea.xml</srcused><date Sync="TRUE">20081121</date><time Sync="TRUE">15182600</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\ds.fs.fed.us\EFS\FS\Reference\GIS\r08_ozf\Data\IWebGDB.mdb</srcused><procdate Sync="TRUE">20100901</procdate><proctime Sync="TRUE">15513900</proctime></procstep></lineage>
+		<posacc>
+			<horizpa>
+				<horizpar>
+          Accuracy testing must use NSSDA testing guidelines or be reported based on compiled, published test reports appropriate for the data collection method and equipment. The method of determining accuracy should be documented in the process step of the dataset metadata record.  If published accuracy results are used, use the statement 'Compiled to meet ___ (meters, feet) horizontal accuracy at 95% confidence interval' in the metadata record, and identify the testing source used. If accuracy is locally tested to NSSDA standards, the statement 'Tested to meet ___ (meters, feet) horizontal accuracy at 95% confidence interval' should be added to the metadata record.
+          Accuracy for legacy data may be reported according to the accuracy standard in place at the time of data collection (typically National Map Accuracy Standards).  Document the standard used in the metadata record.
+          (For more information, see: http://www.fgdc.gov/standards/documents/standards/accuracy/chapter3.pdf)
+        </horizpar>
+			</horizpa>
+		</posacc>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<cordsysn>
+				<geogcsn>Forest appropriate. Metadata record must include complete projection definition. Projection information must be attached to dataset. NAD83.</geogcsn>
+			</cordsysn>
+		</horizsys>
+	</spref>
+	<refSysInfo><RefSystem><refSysID><identCode code="3433" Sync="TRUE"></identCode><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">6.12(9.3.0.0)</idVersion></refSysID></RefSystem></refSysInfo></metadata>

@@ -1,0 +1,2592 @@
+SPCD,COMMON_NAME,GENUS,SPECIES,VARIETY,SUBSPECIES,SPECIES_SYMBOL
+11,Pacific silver fir,Abies,amabilis,,,ABAM
+12,balsam fir,Abies,balsamea,,,ABBA
+14,Santa Lucia or bristlecone fir,Abies,bracteata,,,ABBR
+15,white fir,Abies,concolor,,,ABCO
+16,Fraser fir,Abies,fraseri,,,ABFR
+17,grand fir,Abies,grandis,,,ABGR
+18,corkbark fir,Abies,lasiocarpa,arizonica,,ABLAA
+19,subalpine fir,Abies,lasiocarpa,,,ABLA
+20,California red fir,Abies,magnifica,,,ABMA
+22,noble fir,Abies,procera,,,ABPR
+21,Shasta red fir,Abies,shastensis,,,ABSH
+10,fir spp.,Abies,spp.,,,ABIES
+6001,blackbrush wattle,Acacia,anegadensis,,,ACAN4
+6002,mulga,Acacia,aneura,,,ACAN10
+6003,auri,Acacia,auriculiformis,,,ACAU
+6004,small Philippine acacia,Acacia,confusa,,,ACCO
+303,sweet acacia,Acacia,farnesiana,,,ACFA
+304,catclaw acacia,Acacia,greggii,,,ACGR
+6006,koa,Acacia,koa,,,ACKO
+6007,koaoha,Acacia,koaia,,,ACKO2
+6008,porknut,Acacia,macracantha,,,ACMA
+6009,black wattle,Acacia,mangium,,,ACMA12
+6010,black wattle,Acacia,mearnsii,,,ACME80
+6011,blackwood,Acacia,melanoxylon,,,ACME
+6012,spineless wattle,Acacia,muricata,,,ACMU
+6013,gum arabic tree,Acacia,nilotica,,,ACNI2
+6014,South Wales wattle,Acacia,parramattensis,,,ACPA81
+6015,Acacia polyacantha,Acacia,polyacantha,,,ACPO3
+300,acacia spp.,Acacia,spp.,,,ACACI
+6018,poponax,Acacia,tortuosa,,,ACTO
+311,Florida maple,Acer,barbatum,,,ACBA3
+5145,hedge maple,Acer,campestre,,,ACCA5
+5146,vine maple,Acer,circinatum,,,ACCI
+5147,Amur maple,Acer,ginnala,,,ACGI
+321,Rocky Mountain maple,Acer,glabrum,,,ACGL
+322,bigtooth maple,Acer,grandidentatum,,,ACGR3
+5148,paperbark maple,Acer,griseum,,,ACGR14
+323,chalk maple,Acer,leucoderme,,,ACLE
+312,bigleaf maple,Acer,macrophyllum,,,ACMA3
+5149,Painted maple,Acer,mono,,,ACMO10
+313,boxelder,Acer,negundo,,,ACNE2
+314,black maple,Acer,nigrum,,,ACNI5
+5150,Japanese maple,Acer,palmatum,,,ACPA2
+315,striped maple,Acer,pensylvanicum,,,ACPE
+320,Norway maple,Acer,platanoides,,,ACPL
+5151,sycamore maple,Acer,pseudoplatanus,,,ACPS
+316,red maple,Acer,rubrum,,,ACRU
+317,silver maple,Acer,saccharinum,,,ACSA2
+318,sugar maple,Acer,saccharum,,,ACSA3
+319,mountain maple,Acer,spicatum,,,ACSP2
+310,maple spp.,Acer,spp.,,,ACER
+5152,tatarian maple,Acer,tataricum,,,ACTA80
+5154,Freeman maple,Acer,x freemanii,,,ACFR
+6021,hollowheart,Acnistus,arborescens,,,ACAR
+906,"Everglades palm, paurotis-palm",Acoelorraphe,wrightii,,,ACWR4
+6023,grugru palm,Acrocomia,media,,,ACME2
+6025,baobab,Adansonia,digitata,,,ADDI3
+6026,wild lime,Adelia,ricinella,,,ADRI
+6028,red beadtree,Adenanthera,pavonina,,,ADPA
+6029,beadtree,Adenanthera,spp.,,,ADENA
+6032,Caribbean spiritweed,Aegiphila,martinicensis,,,AEMA
+333,California buckeye,Aesculus,californica,,,AECA
+332,yellow buckeye,Aesculus,flava,,,AEFL
+331,Ohio buckeye,Aesculus,glabra,,,AEGL
+334,Texas buckeye,Aesculus,glabra,arguta,,AEGLA
+5163,horse chestnut,Aesculus,hippocastanum,,,AEHI
+5164,bottlebrush buckeye,Aesculus,parviflora,,,AEPA2
+336,red buckeye,Aesculus,pavia,,,AEPA
+330,"buckeye, horsechestnut spp.",Aesculus,spp.,,,AESCU
+337,painted buckeye,Aesculus,sylvatica,,,AESY
+6036,kauri,Agathis,australis,,,AGAU4
+6037,Queensland kauri,Agathis,robusta,,,AGRO6
+6042,Titimel,Aglaia,mariannensis,,,AGMA14
+6043,mesecheues,Aglaia,palauensis,,,AGPA19
+6044,"karasyu, marasau",Aglaia,ponapensis,,,AGPO4
+6046,laga ali,Aglaia,samoensis,,,AGSA9
+6047,Aglaia,Aglaia,spp.,,,AGLAI
+6048,Olomea,Aidia,cochinchinensis,,,AICO2
+6049,Aidia racemosa,Aidia,racemosa,,,AIRA2
+341,ailanthus,Ailanthus,altissima,,,AIAL
+6051,ailanthus,Ailanthus,spp.,,,AILAN
+6053,Aiphanes minima,Aiphanes,minima,,,AIMI
+6055,cream albizia,Albizia,adinocephala,,,ALAD
+6056,naked albizia,Albizia,carbonaria,,,ALCA8
+6057,Chinese albizia,Albizia,chinensis,,,ALCH2
+6058,ukall ra ngebard,Albizia,falcataria,,,ALFA5
+345,"mimosa, silktree",Albizia,julibrissin,,,ALJU
+6059,woman's tongue,Albizia,lebbeck,,,ALLE
+6060,tall albizia,Albizia,procera,,,ALPR
+6061,ukall ra ngebard,Albizia,retusa,,,ALRE
+6062,whiteflower albizia,Albizia,saponaria,,,ALSA10
+6063,albizia,Albizia,spp.,,,ALBIZ
+6064,achiotillo,Alchornea,latifolia,,,ALLA
+6066,palo de gallina,Alchorneopsis,floribunda,,,ALFL3
+6069,Hawaii alectryon,Alectryon,macrococcus,,,ALMA
+6073,alectryon,Alectryon,spp.,,,ALECT
+6075,Indian walnut,Aleurites,moluccana,,,ALMO2
+6077,aleurites,Aleurites,spp.,,,ALEUR
+6078,lumbang,Aleurites,trisperma,,,ALTR11
+6080,palo blanco,Allophylus,crassinervis,,,ALCR9
+6082,palo de caja,Allophylus,racemosus,,,ALRA
+6083,Allophylus,Allophylus,spp.,,,ALLOP
+6084,chebeludes,Allophylus,ternatus,,,ALTE13
+6085,"ebeludes, chebeludes",Allophylus,timorensis,,,ALTI2
+355,European alder,Alnus,glutinosa,,,ALGL2
+5188,gray alder,Alnus,incana,,,ALIN2
+6086,Nepal alder,Alnus,nepalensis,,,ALNE2
+353,Arizona alder,Alnus,oblongifolia,,,ALOB2
+352,white alder,Alnus,rhombifolia,,,ALRH2
+351,red alder,Alnus,rubra,,,ALRU2
+5190,hazel alder,Alnus,serrulata,,,ALSE2
+350,alder spp.,Alnus,spp.,,,ALNUS
+5192,green alder,Alnus,viridis,,,ALVI5
+6088,"chelebiob, elebiong",Alphitonia,carolinensis,,,ALCA21
+6089,Hawaii kauilatree,Alphitonia,ponderosa,,,ALPO3
+6090,Alphitonia,Alphitonia,spp.,,,ALPHI
+6091,toi,Alphitonia,zizyphoides,,,ALZI
+6092,helecho gigante de la sierra,Alsophila,bryophila,,,ALBR4
+6093,Alsophila portoricensis,Alsophila,portoricensis,,,ALPO7
+6095,deviltree,Alstonia,macrophylla,,,ALMA16
+6096,Alstonia pacifica,Alstonia,pacifica,,,ALPA22
+6097,alstonia,Alstonia,spp.,,,ALSTO
+357,common serviceberry,Amelanchier,arborea,,,AMAR3
+5203,Allegheny serviceberry,Amelanchier,laevis,,,AMLA
+358,roundleaf serviceberry,Amelanchier,sanguinea,,,AMSA
+356,serviceberry spp.,Amelanchier,spp.,,,AMELA
+6101,black calabash,Amphitecna,latifolia,,,AMLA4
+6103,balsam torchwood,Amyris,balsamifera,,,AMBA2
+852,sea torchwood,Amyris,elemifera,,,AMEL
+6107,cashew,Anacardium,occidentale,,,ANOC
+6106,anacardium,Anacardium,spp.,,,ANACA
+6108,Anacolosa glochidiiformis,Anacolosa,glochidiiformis,,,ANGL5
+6109,Anacolosa insularis,Anacolosa,insularis,,,ANIN13
+6111,Anadenanthera peregrina,Anadenanthera,peregrina,,,ANPE13
+6114,cabbagebark tree,Andira,inermis,,,ANIN
+6118,dermarm,Angiopteris,evecta,,,ANEV
+6120,canelillo,Aniba,bracteata,,,ANBR7
+6124,Annona cherimola,Annona,cherimola,,,ANCH9
+6125,ilama,Annona,diversifolia,,,ANDI11
+853,pond-apple,Annona,glabra,,,ANGL4
+6127,mountain soursop,Annona,montana,,,ANMO
+6128,soursop,Annona,muricata,,,ANMU2
+6129,custard apple,Annona,reticulata,,,ANRE
+6130,Annona,Annona,spp.,,,ANNON
+6131,sugar apple,Annona,squamosa,,,ANSQ
+6137,Antidesma bunius,Antidesma,bunius,,,ANBU3
+6135,Kapua china laurel,Antidesma,kapuae,,,ANKA
+6138,Antidesma kusaiense,Antidesma,kusaiense,,,ANKU3
+6139,ha a,Antidesma,platyphyllum,,,ANPL2
+6142,Antidesma ponapense,Antidesma,ponapense,,,ANPO8
+6143,hame,Antidesma,pulvinatum,,,ANPU2
+6144,Antidesma sphaerocarpum,Antidesma,sphaerocarpum,,,ANSP14
+6145,chinalaurel,Antidesma,spp.,,,ANTID
+6146,placa chiquitu,Antirhea,acutata,,,ANAC4
+6147,pegwood,Antirhea,coriacea,,,ANCO3
+6148,Antirhea inconspicua,Antirhea,inconspicua,,,ANIN2
+6149,palo iloron,Antirhea,lucida,,,ANLU3
+6150,quina roja,Antirhea,obtusifolia,,,ANOB2
+6151,Puerto Rico quina,Antirhea,portoricensis,,,ANPO3
+6152,Sintenis' quina,Antirhea,sintenisii,,,ANSI
+5232,Japanese angelica tree,Aralia,elata,,,AREL8
+5233,devil's walkingstick,Aralia,spinosa,,,ARSP2
+6154,parana pine,Araucaria,angustifolia,,,ARAN15
+6155,New Caledonia pine,Araucaria,columnaris,,,ARCO32
+6156,Norfolk Island Pine,Araucaria,excelsa,,,AREX4
+6157,Norfolk Island pine,Araucaria,heterophylla,,,ARHE12
+6158,Araucaria,Araucaria,spp.,,,ARAUC2
+362,Arizona madrone,Arbutus,arizonica,,,ARAR2
+361,Pacific madrone,Arbutus,menziesii,,,ARME
+360,madrone spp.,Arbutus,spp.,,,ARBUT
+363,Texas madrone,Arbutus,xalapensis,,,ARXA80
+6159,Alexandra palm,Archontophoenix,alexandrae,,,ARAL
+6161,shoebutton,Ardisia,elliptica,,,AREL4
+6162,ausubon,Ardisia,glauciflora,,,ARGL11
+6163,mountain marlberry,Ardisia,luquillensis,,,ARLU3
+6164,Guadeloupe marlberry,Ardisia,obovata,,,AROB2
+6165,China-shrub,Ardisia,solanacea,,,ARSO
+6166,marlberry,Ardisia,spp.,,,ARDIS
+6167,betelnut,Areca,catechu,,,ARCA41
+6169,cabo-negro,Arenga,pinnata,,,ARPI6
+6171,breadfruit,Artocarpus,altilis,,,ARAL7
+6173,Artocarpus heterophyllus,Artocarpus,heterophyllus,,,ARHE2
+6175,"dugdug, Marianas breadfruit",Artocarpus,mariannensis,,,ARMA28
+6176,Artocarpus nobilis,Artocarpus,nobilis,,,ARNO
+6177,Marang,Artocarpus,odoratissimus,,,AROD2
+6178,meduu,Artocarpus,spp.,,,ARTOC
+6179,taputoi,Arytera,brackenridgei,,,ARBR11
+6181,afia,Ascarina,diffusa,,,ASDI14
+5256,smallflower pawpaw,Asimina,parviflora,,,ASPA18
+367,pawpaw,Asimina,triloba,,,ASTR
+6185,Astronidium navigatorum,Astronidium,navigatorum,,,ASNA10
+6186,meskui,Astronidium,palauense,,,ASPA37
+6187,Astronidium pickeringii,Astronidium,pickeringii,,,ASPI11
+6188,Astronidium samoense,Astronidium,samoense,,,ASSA23
+6189,Astronidium,Astronidium,spp.,,,ASTRO4
+6190,Astronidium subcordata,Astronidium,subcordata,,,ASSU31
+6193,ifi ifi,Atuna,racemosa,,,ATRA2
+6197,Bilimbi,Averrhoa,bilimbi,,,AVBI
+6198,carambola,Averrhoa,carambola,,,AVCA
+6199,Averrhoa,Averrhoa,spp.,,,AVERR
+6200,biut,Avicennia,alba,,,AVAL
+986,black-mangrove,Avicennia,germinans,,,AVGE
+6203,Avicennia marina,Avicennia,marina,,,AVMA3
+6205,Avicennia,Avicennia,spp.,,,AVICE
+6206,neem,Azadirachta,indica,,,AZIN2
+6208,Saitamu,Baccaurea,taitensis,,,BATA
+5259,silverling,Baccharis,glomeruliflora,,,BAGL
+5260,eastern baccharis,Baccharis,halimifolia,,,BAHA
+5261,peach palm,Bactris,gasipaes,,,BAGA2
+6213,ralm,Badusa,palauensis,,,BAPA8
+6215,bamboo,Bambusa,spp.,,,BAMBU
+6216,common bamboo,Bambusa,vulgaris,,,BAVU2
+6217,Puerto Rico palo de ramon,Banara,portoricensis,,,BAPO
+6219,Vanderbilt's palo de ramon,Banara,vanderbiltii,,,BAVA2
+6220,sea putat,Barringtonia,asiatica,,,BAAS3
+6221,langaasag,Barringtonia,racemosa,,,BARA5
+6222,falaga,Barringtonia,samoensis,,,BASA9
+6223,Barringtonia,Barringtonia,spp.,,,BARRI
+6224,Bastardiopsis eggersii,Bastardiopsis,eggersii,,,BAEG6
+6225,Bauhinia binata,Bauhinia,binata,,,BABI6
+6241,Texasplume,Bauhinia,lunarioides,,,BALU
+6226,Napoleon's plume,Bauhinia,monandra,,,BAMO2
+6227,petite flamboyant bauhinia,Bauhinia,multinervia,,,BAMU3
+6228,railroadfence,Bauhinia,pauletia,,,BAPA3
+6229,butterfly tree,Bauhinia,purpurea,,,BAPU
+6230,bauhinia,Bauhinia,spp.,,,BAUHI
+6231,St. Thomas tree,Bauhinia,tomentosa,,,BATO
+6232,mountain ebony,Bauhinia,variegata,,,BAVA
+6233,slugwood,Beilschmiedia,pendula,,,BEPE
+6235,Caribbean myrtlecroton,Bernardia,dichotoma,,,BEDI2
+371,yellow birch,Betula,alleghaniensis,,,BEAL2
+372,sweet birch,Betula,lenta,,,BELE
+373,river birch,Betula,nigra,,,BENI
+374,water birch,Betula,occidentalis,,,BEOC2
+375,paper birch,Betula,papyrifera,,,BEPA
+5279,European white birch,Betula,pendula,,,BEPE3
+5280,Asian white birch,Betula,platyphylla,,,BEPL2
+379,gray birch,Betula,populifolia,,,BEPO
+5281,downy birch,Betula,pubescens,,,BEPU5
+370,birch spp.,Betula,spp.,,,BETUL
+377,Virginia roundleaf birch,Betula,uber,,,BEUB
+378,northwestern paper birch,Betula,x utahensis,,,BEUT
+6236,Javanese bishopwood,Bischofia,javanica,,,BIJA
+6237,bishopwood,Bischofia,spp.,,,BISCH
+6238,lipsticktree,Bixa,orellana,,,BIOR
+6239,bixa,Bixa,spp.,,,BIXA
+6240,akee,Blighia,sapida,,,BLSA2
+6242,akupa,Bobea,brevipes,,,BOBR3
+6243,ahakea lau nui,Bobea,elatior,,,BOEL3
+6244,Hawaii dogweed,Bobea,sandwicensis,,,BOSA2
+6245,ahakea,Bobea,spp.,,,BOBEA
+6246,ahakea,Bobea,timonioides,,,BOTI
+6247,parrotweed,Bocconia,frutescens,,,BOFR2
+6248,bocconia,Bocconia,spp.,,,BOCCO
+6250,virgata,Boehmeria,virgata,,,BOVI7
+6251,white alling,Bontia,daphnoides,,,BODA
+6253,Bourreria radula,Bourreria,radula,,,BORA2
+6255,bodywood,Bourreria,succulenta,,,BOSU2
+6257,roble de guayo,Bourreria,virgata,,,BOVI2
+6260,kanawao,Broussaisia,arguta,,,BRAR6
+6262,paper mulberry,Broussonetia,papyrifera,,,BRPA4
+6264,angels-trumpet,Brugmansia,candida,,,BRCA12
+6266,Oriental mangrove,Bruguiera,gymnorhiza,,,BRGY3
+6267,smallflower bruguiera,Bruguiera,parviflora,,,BRPA15
+6268,Oriental mangrove,Bruguiera,sexangula,,,BRSE11
+6269,bruguiera,Bruguiera,spp.,,,BRUGU
+6270,West Indian sumac,Brunellia,comocladiifolia,,,BRCO6
+6272,American brunfelsia,Brunfelsia,americana,,,BRAM4
+6273,Serpentine Hill raintree,Brunfelsia,densifolia,,,BRDE4
+6274,vega blanca,Brunfelsia,lactea,,,BRLA5
+6275,Puerto Rico raintree,Brunfelsia,portoricensis,,,BRPO3
+6277,omail,Buchanania,engleriana,,,BUEN
+6278,gasu,Buchanania,merrillii,,,BUME4
+6279,"omail, deuachel",Buchanania,palawensis,,,BUPA16
+6280,Buchanania,Buchanania,spp.,,,BUCHA
+6283,fourleaf buchenavia,Buchenavia,tetraphylla,,,BUTE4
+6284,gregorywood,Bucida,buceras,,,BUBU
+5322,fountain butterflybush,Buddleja,alternifolia,,,BUAL
+6286,dogtail,Buddleja,asiatica,,,BUAS
+6294,cafe falso,Bunchosia,glandulifera,,,BUGL2
+6295,cafe forastero,Bunchosia,glandulosa,,,BUGL
+6297,Bunchosia polystachia,Bunchosia,polystachia,,,BUPO5
+6299,Burckella richii,Burckella,richii,,,BURI3
+854,gumbo limbo,Bursera,simaruba,,,BUSI
+6303,Buxus laevigata,Buxus,laevigata,,,BULA10
+6304,Puerto Rico box,Buxus,portoricensis,,,BUPO
+5329,common box,Buxus,sempervirens,,,BUSE2
+6306,Vahl's box,Buxus,vahlii,,,BUVA
+6308,maricao cimun,Byrsonima,crassifolia,,,BYCR
+6311,Long Key locustberry,Byrsonima,lucida,,,BYLU
+6313,doncella,Byrsonima,spicata,,,BYSP
+6315,almendrillo,Byrsonima,wadsworthii,,,BYWA
+6317,divi divi,Caesalpinia,coriaria,,,CACO28
+6318,uhiuhi,Caesalpinia,kavaiensis,,,CAKA5
+6319,pride-of-Barbados,Caesalpinia,pulcherrima,,,CAPU13
+6320,sappanwood,Caesalpinia,sappan,,,CASA28
+6316,nicker,Caesalpinia,spp.,,,CAESA
+6325,Surinamese stickpea,Calliandra,surinamensis,,,CASU33
+6326,caparosa,Callicarpa,ampla,,,CAAM14
+6328,crimson bottlebrush,Callistemon,citrinus,,,CACI15
+6329,weeping bottlebrush,Callistemon,viminalis,,,CAVI23
+6331,Callitris columellaris,Callitris,columellaris,,,CACO2
+81,incense-cedar,Calocedrus,decurrens,,,CADE27
+6337,Caloncoba echinata,Caloncoba,echinata,,,CAEC2
+6338,Antilles calophyllum,Calophyllum,antillanum,,,CAAN22
+6341,Alexandrian laurel,Calophyllum,inophyllum,,,CAIN4
+6342,tamanu,Calophyllum,neo-ebudicum,,,CANE31
+6343,chesemolech,Calophyllum,pelewense,,,CAPE15
+6344,"olebtaches, chesemolech",Calophyllum,soulattri,,,CASO12
+6345,calophyllum,Calophyllum,spp.,,,CALOP
+6346,roostertree,Calotropis,procera,,,CAPR
+6347,calotropis,Calotropis,spp.,,,CALOT
+6350,degame,Calycophyllum,candidissimum,,,CACA73
+6351,Kiaerskov's lidflower,Calyptranthes,kiaerskovii,,,CAKI
+6352,limoncillo,Calyptranthes,krugii,,,CAKR
+6353,Luquillo forest lidflower,Calyptranthes,luquillensis,,,CALU12
+6354,pale lidflower,Calyptranthes,pallens,,,CAPA8
+6355,Puerto Rico lidflower,Calyptranthes,portoricensis,,,CAPO9
+6356,limoncillo de monte,Calyptranthes,sintenisii,,,CASI8
+6358,Thomas' lidflower,Calyptranthes,thomasiana,,,CATH3
+6359,myrtle of the river,Calyptranthes,zuzygium,,,CAZU
+6360,Puerto Rico manac,Calyptronoma,rivalis,,,CARI3
+5363,camellia,Camellia,japonica,,,CAJA9
+5364,tea,Camellia,sinensis,,,CASI16
+6367,Campnosperma brevipetiolata,Campnosperma,brevipetiolata,,,CABR42
+6366,"kelela charm, kiu",Campnosperma,brevipetiolatum,,,CABR18
+6370,ilang-ilang,Cananga,odorata,,,CAOD
+6373,mesecheues,Canarium,hirsutum,,,CAHI14
+6374,lukerr,Canarium,indicum,,,CAIN42
+6372,mafoa,Canarium,mafoa,,,CAHA39
+6375,Pili Nut,Canarium,ovatum,,,CAOV7
+6377,Canarium,Canarium,spp.,,,CANAR2
+6378,maali,Canarium,vitiense,,,CAVI26
+6379,Canarium vulgare,Canarium,vulgare,,,CAVU9
+6380,wild cinnamon,Canella,winteriana,,,CAWI
+6383,burro blanco,Capparis,amplissima,,,CAAM13
+6384,caper,Capparis,baducca,,,CABA2
+6386,Jamaican caper,Capparis,cynophallophora,,,CACY
+6387,falseteeth,Capparis,flexuosa,,,CAFL2
+6389,broadleaf caper,Capparis,hastata,,,CAHA9
+6390,linguam,Capparis,indica,,,CAIN5
+5375,Siberian peashrub,Caragana,arborescens,,,CAAR18
+6393,crabwood,Carapa,guianensis,,,CAGU6
+6395,papaya,Carica,papaya,,,CAPA23
+6396,papaya,Carica,spp.,,,CARIC
+6397,scorpionbush,Carmona,retusa,,,CARE22
+6398,scorpionbush,Carmona,spp.,,,CARMO
+5378,European hornbeam,Carpinus,betulus,,,CABE8
+391,"American hornbeam, musclewood",Carpinus,caroliniana,,,CACA18
+409,mockernut hickory,Carya,alba,,,CAAL27
+401,water hickory,Carya,aquatica,,,CAAQ2
+413,southern shagbark hickory,Carya,carolinae-septentrionalis,,,CACA38
+402,bitternut hickory,Carya,cordiformis,,,CACO15
+411,scrub hickory,Carya,floridana,,,CAFL6
+403,pignut hickory,Carya,glabra,,,CAGL8
+404,pecan,Carya,illinoinensis,,,CAIL2
+405,shellbark hickory,Carya,laciniosa,,,CALA21
+406,nutmeg hickory,Carya,myristiciformis,,,CAMY
+412,red hickory,Carya,ovalis,,,CAOV3
+407,shagbark hickory,Carya,ovata,,,CAOV2
+410,sand hickory,Carya,pallida,,,CAPA24
+400,hickory spp.,Carya,spp.,,,CARYA
+408,black hickory,Carya,texana,,,CATE9
+6399,fish tail palm,Caryota,mitis,,,CAMI36
+6400,Caryota,Caryota,spp.,,,CARYO
+6401,fishtail palm,Caryota,urens,,,CAUR3
+6402,rabo de ranton,Casearia,aculeata,,,CAAC3
+6403,gia verde,Casearia,arborea,,,CAAR8
+6405,keuert,Casearia,cauliflora,,,CACA28
+6406,wild honeytree,Casearia,decandra,,,CADE11
+6407,Guyanese wild coffee,Casearia,guianensis,,,CAGU2
+6408,Casearia,Casearia,spp.,,,CASEA
+6410,crackopen,Casearia,sylvestris,,,CASY2
+6415,golden shower,Cassia,fistula,,,CAFI3
+6417,pink shower,Cassia,grandis,,,CAGR11
+6418,apple blossom,Cassia,javanica,,,CAJA3
+6420,kassod tree,Cassia,siamea,,,CASI4
+6422,Cassia,Cassia,spp.,,,CASSI
+6425,marbletree,Cassine,xylocarpa,,,CAXY
+6427,goatwood,Cassipourea,guianensis,,,CAGU3
+5401,Japanese chestnut,Castanea,crenata,,,CACR27
+421,American chestnut,Castanea,dentata,,,CADE12
+424,Chinese chestnut,Castanea,mollissima,,,CAMO83
+422,Allegheny chinkapin,Castanea,pumila,,,CAPU9
+423,Ozark chinkapin,Castanea,pumila,ozarkensis,,CAPUO
+5402,European chestnut,Castanea,sativa,,,CASA27
+420,chestnut spp.,Castanea,spp.,,,CASTA
+6429,goatbush,Castela,erecta,,,CAER3
+6430,Panama rubbertree,Castilla,elastica,,,CAEL5
+6433,river sheoak,Casuarina,cunninghamiana,,,CACU8
+6434,beach sheoak,Casuarina,equisetifolia,,,CAEQ
+856,gray sheoak,Casuarina,glauca,,,CAGL11
+857,belah,Casuarina,lepidophloia,,,CALE28
+6437,"gagu,australian pine",Casuarina,litorea,,,CALI8
+855,sheoak spp.,Casuarina,spp.,,,CASUA
+451,southern catalpa,Catalpa,bignonioides,,,CABI8
+6439,Haitian catalpa,Catalpa,longissima,,,CALO8
+5411,Chinese catalpa,Catalpa,ovata,,,CAOV5
+452,northern catalpa,Catalpa,speciosa,,,CASP8
+450,catalpa spp.,Catalpa,spp.,,,CATAL
+5415,snowbrush ceanothus,Ceanothus,velutinus,,,CEVE
+6441,trumpet tree,Cecropia,obtusifolia,,,CEOB
+6443,pumpwood,Cecropia,schreberiana,,,CESC9
+6444,pumpwood,Cecropia,spp.,,,CECRO
+6445,Spanish cedar,Cedrela,odorata,,,CEOD
+5423,Deodar cedar,Cedrus,deodara,,,CEDE2
+6447,pochote,Ceiba,acuminata,,,CEAC4
+6448,pochote,Ceiba,aesculifolia,,,CEAE2
+6449,kapoktree,Ceiba,pentandra,,,CEPE2
+461,sugarberry,Celtis,laevigata,,,CELA
+463,netleaf hackberry,Celtis,laevigata,reticulata,,CELAR
+462,hackberry,Celtis,occidentalis,,,CEOC
+6452,Celtis paniculata,Celtis,paniculata,,,CEPA6
+460,hackberry spp.,Celtis,spp.,,,CELTI
+6454,almex,Celtis,trinervia,,,CETR3
+5432,common buttonbush,Cephalanthus,occidentalis,,,CEOC2
+6457,St. John's bread,Ceratonia,siliqua,,,CESI3
+6459,chuti,Cerbera,dilatata,,,CEDI12
+6460,emeridech,Cerbera,floribunda,,,CEFL2
+6461,leva,Cerbera,manghas,,,CEMA20
+6462,chiute,Cerbera,odollam,,,CEOD2
+6463,Cerbera spp,Cerbera,spp,,,CERBE
+5435,katsura tree,Cercidiphyllum,japonicum,,,CEJA2
+471,eastern redbud,Cercis,canadensis,,,CECA4
+5436,California redbud,Cercis,orbiculata,,,CEOR9
+475,curlleaf mountain-mahogany,Cercocarpus,ledifolius,,,CELE3
+6468,lady of the night cactus,Cereus,hexagonus,,,CEHE3
+6469,Cereus hildmannianus,Cereus,hildmannianus,,,CEHI3
+6470,sweetpotato cactus,Cereus,spp.,,,CEREU
+6472,biut,Ceriops,tagal,,,CETA2
+6473,orange jessamine,Cestrum,aurantiacum,,,CEAU2
+6474,day jessamine,Cestrum,diurnum,,,CEDI6
+6475,galen del monte,Cestrum,laurifolium,,,CELA2
+6477,night jessamine,Cestrum,nocturnum,,,CENO
+6478,jessamine,Cestrum,spp.,,,CESTR
+41,Port-Orford-cedar,Chamaecyparis,lawsoniana,,,CHLA
+42,Alaska yellow-cedar,Chamaecyparis,nootkatensis,,,CHNO
+5443,hinoki false cypress,Chamaecyparis,obtusa,,,CHOB8
+40,white-cedar spp.,Chamaecyparis,spp.,,,CHAMA4
+43,Atlantic white-cedar,Chamaecyparis,thyoides,,,CHTH2
+6481,jointed sandmat,Chamaesyce,articulata,,,CHAR8
+6482,koko,Chamaesyce,atrococca,,,CHAT2
+6483,ekoko,Chamaesyce,celastroides,,,CHCE
+6492,Herbsts sandmat,Chamaesyce,herbstii,,,CHHE3
+6493,kokomalei,Chamaesyce,kuwaleana,,,CHKU
+6494,alpine sandmat,Chamaesyce,olowaluana,,,CHOL3
+6495,Koolau Range sandmat,Chamaesyce,rockii,,,CHRO2
+6496,sandmat,Chamaesyce,spp.,,,CHAMA15
+6497,Napali coast papala,Charpentiera,densiflora,,,CHDE3
+6498,ellipticleaf papala,Charpentiera,elliptica,,,CHEL
+6499,broadleaf papala,Charpentiera,obovata,,,CHOB2
+6500,Koolau Range papala,Charpentiera,ovata,,,CHOV2
+6503,papala,Charpentiera,spp.,,,CHARP
+6504,Waianae Range papala,Charpentiera,tomentosa,,,CHTO3
+6507,Domins club,Cheirodendron,dominii,,,CHDO3
+6508,Fauries club,Cheirodendron,fauriei,,,CHFA
+6509,olapa,Cheirodendron,forbesii,,,CHFO4
+6510,lapalapa,Cheirodendron,platyphyllum,,,CHPL
+6513,cheirodendron,Cheirodendron,spp.,,,CHEIR
+6514,olapalapa,Cheirodendron,trigynum,,,CHTR2
+6517,alaweo,Chenopodium,oahuense,,,CHOA
+6518,goosefoot,Chenopodium,spp.,,,CHENO
+5462,desert willow,Chilopsis,linearis,,,CHLI2
+6519,hueso,Chionanthus,axilliflorus,,,CHAX2
+6520,bridgotree,Chionanthus,compactus,,,CHCO12
+6521,white rosewood,Chionanthus,domingensis,,,CHDO4
+6522,hueso prieto,Chionanthus,holdridgei,,,CHHO4
+6523,cabra blanca,Chionanthus,ligustrinus,,,CHLI6
+6525,vitiensis,Chionanthus,vitiensis,,,CHVI22
+6526,puntaj jayuya,Chione,seminervis,,,CHSE5
+6528,fatpork,Chione,venosa,,,CHVE4
+6529,african teak,Chlorophora,excelsa,,,CHEX5
+6532,silk-floss tree,Chorisia,speciosa,,,CHSP13
+6535,icaco coco plum,Chrysobalanus,icaco,,,CHIC
+431,"giant chinkapin, golden chinkapin",Chrysolepis,chrysophylla,chrysophylla,,CHCHC4
+6539,bastard redwood,Chrysophyllum,argenteum,,,CHAR6
+6541,star apple,Chrysophyllum,cainito,,,CHCA10
+6542,satinleaf,Chrysophyllum,oliviforme,,,CHOL
+6543,camito de perro,Chrysophyllum,pauciflorum,,,CHPA31
+6546,Chamissos manfern,Cibotium,chamissoi,,,CICH
+6547,hapuu,Cibotium,glaucum,,,CIGL
+6545,Hawaiian tree fern,Cibotium,heleniae,,,CIHE7
+6548,hapuu li,Cibotium,menziesii,,,CIME8
+6549,manfern,Cibotium,spp.,,,CIBOT
+6552,quinine,Cinchona,pubescens,,,CIPU
+6553,cinchona,Cinchona,spp.,,,CINCH
+6554,cassia,Cinnamomum,aromaticum,,,CIAR8
+6555,Padang cassia,Cinnamomum,burmannii,,,CIBU2
+858,camphortree,Cinnamomum,camphora,,,CICA
+6557,ochod,Cinnamomum,carolinense,,,CICA2
+6559,laurel avispillo,Cinnamomum,elongatum,,,CIEL2
+6560,avispillo,Cinnamomum,montanum,,,CIMO3
+6561,ochod,Cinnamomum,pedatinervium,,,CIPE6
+6562,matieu,Cinnamomum,sessilifolium,,,CISE2
+6563,cinnamon,Cinnamomum,spp.,,,CINNA2
+6564,cinnamon,Cinnamomum,verum,,,CIVE2
+6565,juniper berry,Citharexylum,caudatum,,,CICA8
+859,Florida fiddlewood,Citharexylum,fruticosum,,,CIFR
+6567,spiny fiddlewood,Citharexylum,spinosum,,,CISP3
+6568,fiddlewood,Citharexylum,spp.,,,CITHA
+6569,threespike fiddlewood,Citharexylum,tristachyum,,,CITR7
+6570,samoensis,Citronella,samoensis,,,CISA2
+6572,Lime (Tipolo),Citrus,aurantifolia,,,CIAU
+6578,"grapefruit, kahet magas",Citrus,grandis,,,CIGR
+6579,limon china,Citrus,hystrix,,,CIHY2
+6580,"kahet, wild orange",Citrus,macroptera,,,CIMA10
+6581,Citrus maxima,Citrus,maxima,,,CIMA5
+6582,Citrus medica,Citrus,medica,,,CIME3
+6583,"calamondin, kingkang",Citrus,mitis,,,CIMI3
+6584,Citrus reticulata,Citrus,reticulata,,,CIRE3
+860,citrus spp.,Citrus,spp.,,,CITRU2
+6573,key lime,Citrus,xaurantiifolia,,,CIAU7
+6574,sour orange,Citrus,xaurantium,,,CIAU8
+6575,lemon,Citrus,xlimon,,,CILI5
+6576,grapefruit,Citrus,xparadisi,,,CIPA3
+6577,sweet orange,Citrus,xsinensis,,,CISI3
+481,yellowwood,Cladrastis,kentukea,,,CLKE
+6586,koee,Claoxylon,carolinianum,,,CLCA15
+6588,Claoxylon fallax,Claoxylon,fallax,,,CLFA6
+6589,Claoxylon longiracemosum,Claoxylon,longiracemosum,,,CLLO5
+6590,"katteknau, katot",Claoxylon,marianum,,,CLMA25
+6591,poola,Claoxylon,sandwicense,,,CLSA
+6592,claoxylon,Claoxylon,spp.,,,CLAOX
+6593,Cleistanthus carolinianus,Cleistanthus,carolinianus,,,CLCA18
+6594,Cleistanthus insularis,Cleistanthus,insularis,,,CLIN8
+6595,Cleistanthus,Cleistanthus,spp.,,,CLEIS5
+6597,oha wai nui,Clermontia,arborescens,,,CLAR4
+6601,Kauai clermontia,Clermontia,clermontioides,,,CLCL
+6604,Kohala Mountain clermontia,Clermontia,drepanomorpha,,,CLDR2
+6605,haha aiakamanu,Clermontia,fauriei,,,CLFA
+6606,bog clermontia,Clermontia,grandiflora,,,CLGR3
+6610,oha kepau,Clermontia,hawaiiensis,,,CLHA4
+6611,forest clermontia,Clermontia,kakeana,,,CLKA
+6612,Waipio Valley clermontia,Clermontia,kohalae,,,CLKO
+6596,oha wai nui Clermontia,Clermontia,leptoclada,,,CLLE3
+6613,hillside clermontia,Clermontia,lindseyana,,,CLLI3
+6614,Maui clermontia,Clermontia,micrantha,,,CLMI3
+6615,Mauna Loa clermontia,Clermontia,montis-loa,,,CLMO5
+6616,Oahu clermontia,Clermontia,oblongifolia,,,CLOB2
+6620,Wailai Pali clermontia,Clermontia,pallida,,,CLPA6
+6621,smallflower clermontia,Clermontia,parviflora,,,CLPA8
+6622,pele clermontia,Clermontia,peleana,,,CLPE2
+6625,Waioiani clermontia,Clermontia,persicifolia,,,CLPE3
+6626,Hamakua clermontia,Clermontia,pyrularia,,,CLPY2
+6627,Clermontia singuliflora,Clermontia,singuliflora,,,CLSI3
+6628,clermontia,Clermontia,spp.,,,CLERM
+6629,Haleakala clermontia,Clermontia,tuberculata,,,CLTU2
+6630,swampforest clermontia,Clermontia,waimeae,,,CLWA2
+6631,haggarbush,Clerodendrum,aculeatum,,,CLAC2
+5523,rose glorybower,Clerodendrum,bungei,,,CLBU
+6632,stickbush,Clerodendrum,chinense,,,CLCH4
+6633,Natal glorybower,Clerodendrum,glabrum,,,CLGL2
+6634,turks turbin,Clerodendrum,indicum,,,CLIN
+6635,velvetleaf glorybower,Clerodendrum,macrostegium,,,CLMA24
+6636,glorybower,Clerodendrum,spp.,,,CLERO2
+5529,mountain sweetpepperbush,Clethra,acuminata,,,CLAC3
+6637,teta prieta,Cleyera,albopunctata,,,CLAL4
+6639,jackass breadnut,Clibadium,erosum,,,CLER
+6641,Clidemia cymosa,Clidemia,cymosa,,,CLCY5
+6642,soapbush,Clidemia,hirta,,,CLHI3
+6645,palm tree,Clinostigma,carolinense,,,CLCA21
+6644,Philippine pigeonwings,Clitoria,fairchildiana,,,CLFA5
+6646,cupeillo,Clusia,clusioides,,,CLCL2
+6648,Grundlach's attorney,Clusia,gundlachii,,,CLGU
+6650,cupey de monte,Clusia,minor,,,CLMI2
+6651,Scotch attorney,Clusia,rosea,,,CLRO
+6652,attorney,Clusia,spp.,,,CLUSI
+6653,deepwoods fern,Cnemidaria,horrida,,,CNHO
+6655,treadsoftly,Cnidoscolus,aconitifolius,,,CNAC
+6658,uvilla,Coccoloba,costata,,,COCO8
+863,"tietongue, pigeon-plum",Coccoloba,diversifolia,,,CODI8
+6660,whitewood,Coccoloba,krugii,,,COKR
+6661,puckhout,Coccoloba,microstachya,,,COMI
+6662,pale seagrape,Coccoloba,pallida,,,COPA24
+6663,grandleaf seagrape,Coccoloba,pubescens,,,COPU
+6664,uvera,Coccoloba,pyrifolia,,,COPY
+6665,ortegon,Coccoloba,rugosa,,,CORU4
+6666,uvero de monte,Coccoloba,sintenisii,,,COSI2
+6668,Swartz's pigeonplum,Coccoloba,swartzii,,,COSW
+6669,Bahama pigeonplum,Coccoloba,tenuifolia,,,COTE9
+6670,seagrape,Coccoloba,uvifera,,,COUV
+6671,false chiggergrape,Coccoloba,venosa,,,COVE
+907,Florida silver palm,Coccothrinax,argentata,,,COAR
+6673,Coccothrinax barbadensis,Coccothrinax,barbadensis,,,COBA3
+6679,silk cottontree,Cochlospermum,vitifolium,,,COVI
+908,coconut palm,Cocos,nucifera,,,CONU
+6681,coconut palm,Cocos,spp.,,,COCOS
+6683,garden croton,Codiaeum,variegatum,,,COVA3
+6684,Arabian coffee,Coffea,arabica,,,COAR2
+6686,Coffea liberica,Coffea,liberica,,,COLI8
+6685,robusta coffee,Coffea,robusta,,,CORO8
+6687,coffee,Coffea,spp.,,,COFFE
+6688,Cojoba arborea,Cojoba,arborea,,,COAR9
+6689,abata cola,Cola,acuminata,,,COAC4
+6691,"uab, chuchab",Colona,scabra,,,COSC13
+6693,common snakebark,Colubrina,arborescens,,,COAR3
+6694,Asian nakedwood,Colubrina,asiatica,,,COAS3
+864,soldierwood,Colubrina,elliptica,,,COEL2
+6697,kauila,Colubrina,oppositifolia,,,COOP
+6699,nakedwood,Colubrina,spp.,,,COLUB
+6700,Urban's nakedwood,Colubrina,verrucosa,,,COVE6
+5559,bladder senna,Colutea,arborescens,,,COAR6
+6702,ochaol,Combretum,tetralophum,,,COTE15
+6703,Mao,Commersonia,bartramia,,,COBA17
+6705,poison ash,Comocladia,dodonaea,,,CODO
+6706,carrasco,Comocladia,glabra,,,COGL4
+867,Bluewood,Condalia,hookeri,,,COHO
+987,buttonwood-mangrove,Conocarpus,erectus,,,COER2
+6709,mangrove,Conocarpus,spp.,,,CONOC
+6710,Luquillo Mountain snailwood,Conostegia,rufescens,,,CORU17
+6711,Consolea moniliformis,Consolea,moniliformis,,,COMO8
+6712,Consolea rubescens,Consolea,rubescens,,,CORU8
+6714,copaiba,Copaifera,officinalis,,,COOF2
+6716,forest mirrorplant,Coprosma,foliosa,,,COFO2
+6717,koi,Coprosma,kauensis,,,COKA
+6718,Oahu mirrorplant,Coprosma,longifolia,,,COLO4
+6719,alpine mirrorplant,Coprosma,montana,,,COMO3
+6720,Maui mirrorplant,Coprosma,ochracea,,,COOC3
+6721,pubescent mirrorplant,Coprosma,pubens,,,COPU8
+6722,woodland mirrorplant,Coprosma,rhynchocarpa,,,CORH
+6724,mirrorplant,Coprosma,spp.,,,COPRO
+6726,olena,Coprosma,waimeae,,,COWA4
+6728,Spanish elm,Cordia,alliodora,,,COAL
+6729,Tou,Cordia,aspera,,,COAS6
+8651,Anacahuita Texas Olive,Cordia,boissieri,,,COBO2
+6730,muneco,Cordia,borinquensis,,,COBO3
+6731,red manjack,Cordia,collococca,,,COCO5
+6733,fragrant manjack,Cordia,dichotoma,,,CODI18
+6735,smooth manjack,Cordia,laevigata,,,COLA12
+6736,Cordia micronesica,Cordia,micronesica,,,COMI6
+6737,clammy cherry,Cordia,obliqua,,,COOB3
+6738,San Bartolome,Cordia,rickseckeri,,,CORI
+6739,Puerto Rico manjack,Cordia,rupicola,,,CORU5
+865,largeleaf geigertree,Cordia,sebestena,,,COSE2
+6741,cordia,Cordia,spp.,,,CORDI
+6742,kou,Cordia,subcordata,,,COSU2
+6743,mucilage manjack,Cordia,sulcata,,,COSU3
+6744,tiplant,Cordyline,fruticosa,,,COFR2
+6745,cordyline,Cordyline,spp.,,,CORDY2
+6748,roughleaf dogwood,Cornus,drummondii,,,CODR
+491,flowering dogwood,Cornus,florida,,,COFL2
+5591,kousa dogwood,Cornus,kousa,,,COKO2
+492,Pacific dogwood,Cornus,nuttallii,,,CONU4
+490,dogwood spp.,Cornus,spp.,,,CORNU
+6746,nigua,Cornutia,obovata,,,COOB4
+6747,azulejo,Cornutia,pyramidata,,,COPY2
+5599,American hazelnut,Corylus,americana,,,COAM3
+5600,Turkish hazelnut,Corylus,colurna,,,COCO30
+6749,redgum,Corymbia,calophylla,,,COCA48
+6750,Corymbia citriodora,Corymbia,citriodora,,,COCI4
+6751,redflower gum,Corymbia,ficifolia,,,COFI7
+6752,red bloodwood,Corymbia,gummifera,,,COGU4
+6754,karaka nut,Corynocarpus,laevigatus,,,COLA6
+6755,corynocarpus,Corynocarpus,spp.,,,CORYN2
+5603,European smoketree,Cotinus,coggygria,,,COCO10
+996,smoketree,Cotinus,obovatus,,,COOB2
+6756,cannonball tree,Couroupita,guianensis,,,COGU3
+503,Brainerd's hawthorn,Crataegus,brainerdii,,,CRBR3
+504,pear hawthorn,Crataegus,calpodendron,,,CRCA
+505,fireberry hawthorn,Crataegus,chrysocarpa,,,CRCH
+501,cockspur hawthorn,Crataegus,crus-galli,,,CRCR2
+506,broadleaf hawthorn,Crataegus,dilatata,,,CRDI
+507,fanleaf hawthorn,Crataegus,flabellata,,,CRFL
+502,downy hawthorn,Crataegus,mollis,,,CRMO2
+508,oneseed hawthorn,Crataegus,monogyna,,,CRMO3
+509,scarlet hawthorn,Crataegus,pedicellata,,,CRPE
+5091,Washington hawthorn,Crataegus,phaenopyrum,,,CRPH
+500,hawthorn spp.,Crataegus,spp.,,,CRATA
+5092,fleshy hawthorn,Crataegus,succulenta,,,CRSU5
+5093,dwarf hawthorn,Crataegus,uniflora,,,CRUN
+6758,sacred garlic pear,Crateva,religiosa,,,CRRE12
+6760,"houka, calabash",Crescentia,alata,,,CRAL11
+6761,common calabash tree,Crescentia,cujete,,,CRCU
+6762,higuerito,Crescentia,linearifolia,,,CRLI5
+6763,higuero de sierra,Crescentia,portoricensis,,,CRPO6
+6765,Critonia portoricensis,Critonia,portoricensis,,,CRPO7
+6767,maidenberry,Crossopetalum,rhacoma,,,CRRH
+6769,Saitamu,Crossostylis,biflora,,,CRBI9
+6771,longbeak rattlebox,Crotalaria,longirostrata,,,CRLO3
+6773,wild marrow,Croton,astroites,,,CRAS3
+6772,croton,Croton,croton spp.,,,CROTO
+6774,Croton flavens,Croton,flavens,,,CRFL23
+6775,sabinon,Croton,poecilanthus,,,CRPO4
+6779,laulilii,Cryptocarya,elegans,,,CREL8
+6781,holio,Cryptocarya,mannii,,,CRMA8
+6778,Cryptocarya oreophila,Cryptocarya,oreophila,,,CROR5
+6783,cryptocarya,Cryptocarya,spp.,,,CRYPT2
+6784,laulilii,Cryptocarya,turbinata,,,CRTU4
+6786,Japanese cedar,Cryptomeria,japonica,,,CRJA3
+6787,Japanese cedar,Cryptomeria,spp.,,,CRYPT4
+5776,storehousebush,Cudrania,tricuspidata,,,CUTR2
+6788,Chinese fir,Cunninghamia,lanceolata,,,CULA
+6790,wild ackee,Cupania,americana,,,CUAM
+6792,guara blanca,Cupania,triquetra,,,CUTR
+866,carrotwood,Cupaniopsis,anacardioides,,,CUAN4
+5800,Leyland cypress,Cupressocyparis,leylandii,,,CULE2
+51,Arizona cypress,Cupressus,arizonica,,,CUAR
+52,Baker or Modoc cypress,Cupressus,bakeri,,,CUBA
+53,Tecate cypress,Cupressus,forbesii,,,CUFO2
+6795,cedar-of-Goa,Cupressus,lusitanica,,,CULU2
+56,MacNab's cypress,Cupressus,macnabiana,,,CUMA
+54,Monterey cypress,Cupressus,macrocarpa,,,CUMA2
+55,Sargent's cypress,Cupressus,sargentii,,,CUSA3
+6796,Italian cypress,Cupressus,sempervirens,,,CUSE2
+50,cypress,Cupressus,spp.,,,CUPRE
+6800,Haleakala cyanea,Cyanea,aculeatiflora,,,CYAC4
+6801,palmtree cyanea,Cyanea,arborea,,,CYAR10
+6802,Kauai cyanea,Cyanea,fissa,,,CYFI6
+6805,Degeners cyanea,Cyanea,floribunda,,,CYFL4
+6806,Kilauea Mauna cyanea,Cyanea,giffardii,,,CYGI5
+6807,wetforest cyanea,Cyanea,hamatiflora,,,CYHA6
+6810,Oahu cyanea,Cyanea,hardyi,,,CYHA7
+6811,prickly cyanea,Cyanea,horrida,,,CYHO6
+6812,Limahuli Valley cyanea,Cyanea,kuhihewa,,,CYKU3
+6813,Kunths cyanea,Cyanea,kunthiana,,,CYKU
+6814,giant kokee cyanea,Cyanea,leptostegia,,,CYLE5
+6815,purple cyanea,Cyanea,macrostegia,,,CYMA10
+6818,Marks cyanea,Cyanea,marksii,,,CYMA14
+6819,hairy cyanea,Cyanea,pilosa,,,CYPI4
+6822,pohaku cyanea,Cyanea,pohaku,,,CYPO5
+6823,Molokai cyanea,Cyanea,procera,,,CYPR8
+6824,manyfruit cyanea,Cyanea,pycnocarpa,,,CYPY
+6825,oakleaf cyanea,Cyanea,quercifolia,,,CYQU
+6826,plateau delissea,Cyanea,rivularis,,,CYRI4
+6827,pua kala,Cyanea,solenocalyx,,,CYSO2
+6828,cyanea,Cyanea,spp.,,,CYANE
+6829,Kaiholena cyanea,Cyanea,stictophylla,,,CYST5
+6830,Mt. Kaala cyanea,Cyanea,superba,,,CYSU8
+6833,aku aku,Cyanea,tritomantha,,,CYTR6
+6834,parrotfeather treefern,Cyathea,andina,,,CYAN
+6835,West Indian treefern,Cyathea,arborea,,,CYAR
+6837,Coopers cyathea,Cyathea,cooperi,,,CYCO18
+6838,olioli,Cyathea,decurrens,,,CYDE16
+6839,Jamaican treefern,Cyathea,furfuracea,,,CYFU
+6840,olioli,Cyathea,lunulata,,,CYLU5
+6841,olioli,Cyathea,medullaris,,,CYME12
+6842,kattar,Cyathea,nigricans,,,CYNI7
+6843,small treefern,Cyathea,parvula,,,CYPA7
+6844,kattar,Cyathea,ponapeana,,,CYPO11
+6847,treefern,Cyathea,spp.,,,CYATH
+6848,helecho gigante,Cyathea,tenera,,,CYTE10
+6849,olioli,Cyathea,truncata,,,CYTR11
+6850,Cybianthus sintenisii,Cybianthus,sintenisii,,,CYSI
+6852,queen sago,Cycas,circinalis,,,CYCI3
+6853,remiang,Cycas,revoluta,,,CYRE11
+6854,Cycas,Cycas,spp.,,,CYCAS
+6855,ola,Cyclophyllum,barbatum,,,CYBA7
+5818,quince,Cydonia,oblonga,,,CYOB2
+6857,oreganillo falso,Cynometra,portoricensis,,,CYPO2
+6858,gulos,Cynometra,ramiflora,,,CYRA8
+6859,eeme,Cynometra,yokotae,,,CYYO
+6860,tree-tomato,Cyphomandra,betacea,,,CYBE3
+6862,swamp titi,Cyrilla,racemiflora,,,CYRA
+6865,forest cyrtandra,Cyrtandra,giffardii,,,CYGI3
+6863,cyrtandra,Cyrtandra,pulchella,,,CYPU13
+6864,Cyrtandra,Cyrtandra,ramosissima,,,CYRA3
+6866,cyrtandra,Cyrtandra,spp.,,,CYRTA
+6867,candletree,Dacryodes,excelsa,,,DAEX
+6868,Dalbergia retusa,Dalbergia,retusa,,,DARE6
+6869,Indian rosewood,Dalbergia,sissoo,,,DASI
+6870,cocobolo,Dalbergia,tucurensis,,,DATU
+6871,burn nose,Daphnopsis,americana,,,DAAM2
+6872,Heller's cieneguillo,Daphnopsis,helleriana,,,DAHE2
+6873,emajagua de sierra,Daphnopsis,philippiana,,,DAPH
+6875,Hawaii delissea,Delissea,fallax,,,DEFA
+6876,cutleaf delissea,Delissea,laciniata,,,DELA4
+6877,Niihau delissea,Delissea,niihauensis,,,DENI
+6880,smallflower delissea,Delissea,parviflora,,,DEPA9
+6881,delissea,Delissea,spp.,,,DELIS
+6882,leechleaf delissea,Delissea,undulata,,,DEUN2
+6883,royal poinciana,Delonix,regia,,,DERE
+6884,delonix,Delonix,spp.,,,DELON
+6885,salato,Dendrocnide,harveyi,,,DEHA5
+6886,kahtat,Dendrocnide,latifolia,,,DELA13
+6887,Dendrocnide,Dendrocnide,spp.,,,DENDR16
+6888,angelica tree,Dendropanax,arboreus,,,DEAR
+6889,palo de vaca,Dendropanax,laurifolius,,,DELA3
+6891,redpalm,Dictyosperma,album,,,DIAL13
+6896,chulta,Dillenia,indica,,,DIIN6
+6898,shrubby dillenia,Dillenia,suffruticosa,,,DISU11
+6899,Dimocarpus longan,Dimocarpus,longan,,,DILO7
+6900,mabolo,Diospyros,blancoi,,,DIBL3
+6902,Mabolo,Diospyros,discolor,,,DIDI9
+6903,Black sapote,Diospyros,ebenaster,,,DIEB
+6904,anume,Diospyros,elliptica,,,DIEL3
+6905,Diospyros ferrea,Diospyros,ferrea,,,DIFE5
+6906,elama,Diospyros,hillebrandii,,,DIHI4
+6907,persimmon,Diospyros,kaki,,,DIKA2
+6909,black apple,Diospyros,revoluta,,,DIRE6
+6910,auauli,Diospyros,samoensis,,,DISA16
+6911,lama,Diospyros,sandwicensis,,,DISA10
+6912,Chinese persimmon,Diospyros,sintenisii,,,DISI3
+520,persimmon spp.,Diospyros,spp.,,,DIOSP
+522,Texas persimmon,Diospyros,texana,,,DITE3
+521,common persimmon,Diospyros,virginiana,,,DIVI5
+6921,otot,Discocalyx,ponapensis,,,DIPO
+6923,jaboncillo,Ditta,myricoides,,,DIMY
+6927,Florida hopbush,Dodonaea,viscosa,,,DOVI
+6928,rru,Dolichandrone,spathacea,,,DOSP3
+6930,Ceylon gooseberry,Dovyalis,hebecarpa,,,DOHE2
+6932,fragrant dracaena,Dracaena,fragrans,,,DRFR2
+6933,Dracaena multiflora,Dracaena,multiflora,,,DRMU2
+6934,song of India,Dracaena,reflexa,,,DRRE6
+6937,cafeillo,Drypetes,alba,,,DRAL5
+6938,varital,Drypetes,glauca,,,DRGL2
+6939,rosewood,Drypetes,ilicifolia,,,DRIL
+6940,guiana plum,Drypetes,lateriflora,,,DRLA3
+6941,kevert,Drypetes,nitida,,,DRNI3
+6942,Drypetes,Drypetes,spp.,,,DRYPE
+6943,none,Drypetes,vitiensis,,,DRVI5
+6947,Mauna Kea dubautia,Dubautia,arborea,,,DUAR
+6944,Dubautia,Dubautia,demissifolia,,,DUDE
+6945,Dubautia,Dubautia,fallax,,,DUFA2
+6948,forest dubautia,Dubautia,knudsenii,,,DUKN
+6952,Kauai dubautia,Dubautia,microcephala,,,DUMI
+6946,Dubautia,Dubautia,montana,,,DUMO2
+6953,plantainleaf dubautia,Dubautia,plantaginea,,,DUPL
+6957,netvein dubautia,Dubautia,reticulata,,,DURE2
+6958,dubautia,Dubautia,spp.,,,DUBAU
+6961,golden dewdrops,Duranta,erecta,,,DUER
+6965,Durian,Durio,zibethinus,,,DUZI
+6966,Dypsis lutescens,Dypsis,lutescens,,,DYLU
+6968,maota mea,Dysoxylum,huntii,,,DYHU2
+6969,maota,Dysoxylum,maota,,,DYMA
+6970,mamala,Dysoxylum,samoense,,,DYSA
+6971,Dysoxylum,Dysoxylum,spp.,,,DYSOX
+868,Blackbead ebony,Ebenopsis,ebano,,,EBEB
+523,Anacua knockaway,Ehretia,anacua,,,EHAN
+997,Russian-olive,Elaeagnus,angustifolia,,,ELAN
+6973,oil nut palm,Elaeis,guineensis,,,ELGU
+6975,kalia,Elaeocarpus,bifidus,,,ELBI
+6976,syatak,Elaeocarpus,carolinensis,,,ELCA20
+6977,`a`mati`e,Elaeocarpus,floridanus,,,ELFL6
+6978,Elaeocarpus graeffei,Elaeocarpus,graeffei,,,ELGR
+6979,sapatua,Elaeocarpus,grandis,,,ELGR6
+6980,joga,Elaeocarpus,joga,,,ELJO
+6974,Kosrae elaeocarpus,Elaeocarpus,Kaneh,,,ELKU2
+6981,Elaeocarpus kerstingianus,Elaeocarpus,kerstingianus,,,ELKE
+6982,"maratte, opop",Elaeocarpus,kusanoi,,,ELKU
+6983,Elaeocarpus,Elaeocarpus,spp.,,,ELAEO
+6984,aamatie,Elaeocarpus,tonganus,,,ELTO4
+6985,Elaeocarpus,Elaeocarpus,ulianus,,,ELUL
+6990,taputoi,Elattostachys,falcata,,,ELFA3
+6992,utuutu,Eleocharis,dulcis,,,ELDU3
+6994,elaeocarpa,Endiandra,elaeocarpa,,,ENEL
+6996,monkeysoap,Enterolobium,cyclocarpum,,,ENCY
+6998,loquat,Eriobotrya,japonica,,,ERJA3
+6999,loquat,Eriobotrya,spp.,,,ERIOB
+7000,blacktorch,Erithalis,fruticosa,,,ERFR4
+7004,machete,Erythrina,berteriana,,,ERBE3
+7005,coral erythrina,Erythrina,corallodendron,,,ERCO22
+7006,crybabytree,Erythrina,crista-galli,,,ERCR6
+7007,cock's spur,Erythrina,eggersii,,,EREG
+7008,bucayo,Erythrina,fusca,,,ERFU2
+7011,mountain immortelle,Erythrina,poeppigiana,,,ERPO5
+7012,wili wili,Erythrina,sandwicensis,,,ERSA11
+7013,erythrina,Erythrina,spp.,,,ERYTH
+7014,gatae palagi,Erythrina,subumbrans,,,ERSU15
+7015,tiger's claw,Erythrina,variegata,,,ERVA7
+7016,tiger's claw,Erythrina,variegata,orientalis,,ERVAO
+7017,acuminatissimum,Erythrospermum,acuminatissimum,,,ERAC10
+7019,swamp-redwood,Erythroxylum,areolatum,,,ERAR17
+7021,ratwood,Erythroxylum,rotundifolium,,,ERRO3
+7022,rufous false cocaine,Erythroxylum,rufum,,,ERRU4
+7024,Urban's false cocaine,Erythroxylum,urbanii,,,ERUR4
+7025,southern mahogany,Eucalyptus,botryoides,,,EUBO2
+7026,applebox,Eucalyptus,bridgesiana,,,EUBR2
+512,river redgum,Eucalyptus,camaldulensis,,,EUCA2
+7028,argyle apple,Eucalyptus,cinerea,,,EUCI80
+7030,sugargum,Eucalyptus,cladocalyx,,,EUCL
+7031,yate,Eucalyptus,cornuta,,,EUCO3
+7032,narrowleaf red ironbark,Eucalyptus,crebra,,,EUCR
+7033,roundleaf gum,Eucalyptus,deanei,,,EUDE
+7034,Indonesian gum,Eucalyptus,deglupta,,,EUDE2
+511,Tasmanian bluegum,Eucalyptus,globulus,,,EUGL
+7038,tuart,Eucalyptus,gomphocephala,,,EUGO
+7039,mountain graygum,Eucalyptus,goniocalyx,,,EUGO2
+513,grand eucalyptus,Eucalyptus,grandis,,,EUGR12
+7041,white box,Eucalyptus,hemiphloia,,,EUHE12
+7043,spotted gum,Eucalyptus,maculata,,,EUMA23
+7044,jarrah,Eucalyptus,marginata,,,EUMA4
+7045,Australian tallowwood,Eucalyptus,microcorys,,,EUMI
+7046,gray ironbark,Eucalyptus,paniculata,,,EUPA
+7047,blackbutt,Eucalyptus,pilularis,,,EUPI
+7048,black ironbox,Eucalyptus,raveretiana,,,EURA4
+7049,redmahogany,Eucalyptus,resinifera,,,EURE2
+514,swampmahogany,Eucalyptus,robusta,,,EURO2
+7051,Western Australian floodedgum,Eucalyptus,rudis,,,EURU2
+7052,black peppermint,Eucalyptus,salicifolia,,,EUSA17
+7053,Sydney bluegum,Eucalyptus,saligna,,,EUSA
+7054,red ironbark,Eucalyptus,sideroxylon,,,EUSI2
+510,eucalyptus spp.,Eucalyptus,spp.,,,EUCAL
+7056,forest redgum,Eucalyptus,tereticornis,,,EUTE
+7057,manna gum,Eucalyptus,viminalis,,,EUVI
+7059,"edebsachel, chedebsachel",Eugenia,aquea,,,EUAQ
+7060,white stopper,Eugenia,axillaris,,,EUAX
+7061,blackrodwood,Eugenia,biflora,,,EUBI
+7062,Sierra de Cayey stopper,Eugenia,boqueronensis,,,EUBO3
+7063,guayabota de sierra,Eugenia,borinquensis,,,EUBO4
+7065,cloves,Eugenia,caryophyllus,,,EUCA16
+7066,redberry stopper,Eugenia,confusa,,,EUCO4
+7067,lathberry,Eugenia,cordata,,,EUCO5
+7068,lathberry,Eugenia,cordata,sintenisii,,EUCOS
+7069,sperry guava,Eugenia,corozalensis,,,EUCO13
+7071,serrette guave,Eugenia,domingensis,,,EUDO
+7072,guasabara,Eugenia,eggersii,,,EUEG
+7075,smooth rodwood,Eugenia,glabrata,,,EUGL6
+7076,Luquillo Mountain stopper,Eugenia,haematocarpa,,,EUHA4
+7078,"macupa, wax apple",Eugenia,javanica,,,EUJA4
+7079,nioi,Eugenia,koolauensis,,,EUKO
+7081,privet stopper,Eugenia,ligustrina,,,EULI
+7082,"makupa, malay apple",Eugenia,malaccensis,,,EUMA5
+7084,birdcherry,Eugenia,monticola,,,EUMO
+7086,Eugenia nitida,Eugenia,nitida,,,EUNI2
+7087,orenged,Eugenia,palauensis,,,EUPA3
+7088,agatelang,Eugenia,palumbis,,,EUPA28
+7089,rockmyrtle,Eugenia,procera,,,EUPR4
+7090,Christmas cherry,Eugenia,pseudopsidium,,,EUPS
+7091,mountain stopper,Eugenia,reinwardtiana,,,EURE7
+873,red stopper,Eugenia,rhombea,,,EURH
+7093,serrasuela,Eugenia,serrasuela,,,EUSE9
+7094,sessileleaf stopper,Eugenia,sessiliflora,,,EUSE10
+7096,stopper,Eugenia,spp.,,,EUGEN
+7098,Stahl's stopper,Eugenia,stahlii,,,EUST3
+7099,luluhut,Eugenia,stelechantha,,,EUST24
+7100,Stewardson's stopper,Eugenia,stewardsonii,,,EUST6
+7101,rebotel,Eugenia,suzukii,,,EUSU9
+7102,atoto,Eugenia,thompsonii,,,EUTH4
+7103,Underwood's stopper,Eugenia,underwoodii,,,EUUN
+7104,Surinam cherry,Eugenia,uniflora,,,EUUN2
+7105,aridland stopper,Eugenia,xerophytica,,,EUXE
+7123,Euodia hortensis,Euodia,hortensis,,,EUHO5
+7124,kertub,Euodia,nitida,,,EUNI8
+7125,beror,Euodia,palawensis,,,EUPA29
+7126,Euodia ponapensis,Euodia,ponapensis,,,EUPO15
+7127,Euodia,Euodia,spp.,,,EUODI
+7128,Euodia trichantha,Euodia,trichantha,,,EUTR13
+5965,burningbush,Euonymus,alatus,,,EUAL13
+7109,Mexican shrubby spurge,Euphorbia,cotinifolia,,,EUCO24
+7110,Kauai spurge,Euphorbia,haeleeleana,,,EUHA2
+7111,mottled spurge,Euphorbia,lactea,,,EULA8
+7112,Indian spurgetree,Euphorbia,neriifolia,,,EUNE4
+7113,manchineel berry,Euphorbia,petiolaris,,,EUPE8
+7114,poinsettia,Euphorbia,pulcherrima,,,EUPU9
+7115,spurge,Euphorbia,spp.,,,EUPHO
+7116,Indiantree spurge,Euphorbia,tirucalli,,,EUTI
+7117,Longan,Euphoria,longana,,,EULO7
+7119,anini,Eurya,sandwicensis,,,EUSA6
+7120,eurya,Eurya,spp.,,,EURYA
+7129,blinding tree,Excoecaria,agallocha,,,EXAG
+7131,hulumoa,Exocarpos,gaudichaudii,,,EXGA
+7132,exocarpos,Exocarpos,spp.,,,EXOCA
+7133,kotop,Exorrhiza,ponapensis,,,EXPO2
+7135,Caribbean princewood,Exostema,caribaeum,,,EXCA
+7136,plateado,Exostema,ellipticum,,,EXEL
+7137,Exostema sanctae-luciae,Exostema,sanctae-luciae,,,EXSA2
+874,"butterbough, inkwood",Exothea,paniculata,,,EXPA
+7141,pualulu,Fagraea,berteroana,,,FABE
+7142,ksid,Fagraea,ksid,,,FAKS
+7143,Fagraea,Fagraea,spp.,,,FAGRA
+531,American beech,Fagus,grandifolia,,,FAGR
+5983,European beech,Fagus,sylvatica,,,FASY
+7144,peacocksplume,Falcataria,moluccana,,,FAMO
+7145,peacocksplume,Falcataria,spp.,,,FALCA2
+915,other palms,Family Arecaceae,not listed above,,,ARECA
+7146,false coffee,Faramea,occidentalis,,,FAOC
+7148,Jamaican cherry fig,Ficus,americana,,,FIAM
+876,Florida strangler fig,Ficus,aurea,,,FIAU
+7149,Indian banyan,Ficus,benghalensis,,,FIBE2
+7150,weeping fig,Ficus,benjamina,,,FIBE
+7151,edible fig,Ficus,carica,,,FICA
+877,"wild banyantree, shortleaf fig",Ficus,citrifolia,,,FICI
+7152,Ficus copiosa,Ficus,copiosa,,,FICO2
+7154,brown-woolly fig,Ficus,drupacea,,,FIDR3
+7155,Indian rubberplant,Ficus,elastica,,,FIEL
+7156,mati,Ficus,godeffroyi,,,FIGO
+7158,Ficus lutea,Ficus,lutea,,,FILU
+7159,fiddleleaf fig,Ficus,lyrata,,,FILY
+7160,Chinese banyan,Ficus,microcarpa,,,FIMI2
+7162,tibig,Ficus,nota,,,FINO3
+7163,aoa,Ficus,obliqua,,,FIOB3
+7164,amate,Ficus,obtusifolia,,,FIOB
+7165,aoa,Ficus,prolixa,,,FIPR2
+7166,peepul tree,Ficus,religiosa,,,FIRE3
+7167,Port Jackson fig,Ficus,rubiginosa,,,FIRU4
+7168,"lulk, banyan",Ficus,saffordii,,,FISA
+7169,mati vao,Ficus,scabra,,,FISC3
+7171,fig,Ficus,spp.,,,FICUS
+7173,jaguey,Ficus,stahlii,,,FIST
+7174,sycamore fig,Ficus,sycomorus,,,FISY2
+7175,Chinese banyan,Ficus,thonningii,,,FITH2
+7176,mati,Ficus,tinctoria,,,FITI2
+7177,jaguey blanco,Ficus,trigonata,,,FITR
+7178,mati,Ficus,uniauriculata,,,FIUN
+7179,higo,Ficus,virens,,,FIVI3
+7180,Finschia chloroxantha,Finschia,chloroxantha,,,FICH
+7181,Chinese parasoltree,Firmiana,simplex,,,FISI2
+7182,burrdaisytree,Fitchia,speciosa,,,FISP3
+7184,governor's plum,Flacourtia,indica,,,FLIN
+7185,batoko plum,Flacourtia,inermis,,,FLIN3
+7186,filimoto,Flacourtia,rukam,,,FLRU2
+7188,Queensland maple,Flindersia,brayleyana,,,FLBR
+7190,Flueggea acidoton,Flueggea,acidoton,,,FLAC
+7191,poumuli,Flueggea,flexuosa,,,FLFL4
+7192,mehamehame,Flueggea,neowawraea,,,FLNE
+7193,bushweed,Flueggea,spp.,,,FLUEG
+7194,inkbush,Forestiera,eggersiana,,,FOEG
+7195,caca ravet,Forestiera,rhamnifolia,,,FORH
+7196,Florida swampprivet,Forestiera,segregata,,,FOSE
+7198,oval kumquat,Fortunella,margarita,,,FOMA2
+7200,California buckthorn,Frangula,californica,,,FRCA12
+7202,West Indian buckthorn,Frangula,sphaerosperma,,,FRSPL
+7203,Franklin tree,Franklinia,alatamaha,,,FRAL
+541,white ash,Fraxinus,americana,,,FRAM2
+5491,Berlandier ash,Fraxinus,berlandieriana,,,FRBE
+548,Carolina ash,Fraxinus,caroliniana,,,FRCA3
+5492,European ash,Fraxinus,excelsior,,,FREX80
+542,Oregon ash,Fraxinus,latifolia,,,FRLA
+543,black ash,Fraxinus,nigra,,,FRNI
+5493,Caucasian ash,Fraxinus,oxycarpa,,,FROX
+544,green ash,Fraxinus,pennsylvanica,,,FRPE
+545,pumpkin ash,Fraxinus,profunda,,,FRPR
+546,blue ash,Fraxinus,quadrangulata,,,FRQU
+540,ash spp.,Fraxinus,spp.,,,FRAXI
+549,Texas ash,Fraxinus,texensis,,,FRTE
+7206,shamel ash,Fraxinus,uhdei,,,FRUH
+547,velvet ash,Fraxinus,velutina,,,FRVE2
+7207,Bolivian fuchsia,Fuchsia,boliviana,,,FUBO
+7208,shrubby fuchsia,Fuchsia,paniculata,,,FUPA2
+7209,fuchsia,Fuchsia,spp.,,,FUCHS
+7210,silkrubber,Funtumia,elastica,,,FUEL
+7212,Gourka,Garcinia,dulcis,,,GADU3
+7213,lemon saptree,Garcinia,hessii,,,GAHE5
+7214,mangosteen,Garcinia,mangostana,,,GAMA10
+7215,tilol,Garcinia,matsudai,,,GAMA8
+7216,none,Garcinia,myrtifolia,,,GAMY
+7217,konpuil,Garcinia,ponapensis,,,GAPO4
+7218,palo de cruz,Garcinia,portoricensis,,,GAPO2
+7219,tilol,Garcinia,rumiyo,,,GARU3
+7221,Garcinia,Garcinia,spp.,,,GARCI
+7223,Garcinia xanthochymus,Garcinia,xanthochymus,,,GAXA
+7224,forest gardenia,Gardenia,brighamii,,,GABR
+7225,Oahu gardenia,Gardenia,mannii,,,GAMA6
+7226,Remys gardenia,Gardenia,remyi,,,GARE
+7227,gardenia,Gardenia,spp.,,,GARDE
+7228,Tahitian gardenia,Gardenia,taitensis,,,GATA
+7229,manuai vivao,Garuga,floribunda,,,GAFL8
+7231,llume,Gaussia,attenuata,,,GAAT
+7233,taipoipo,Geniostoma,rupestre,,,GERU3
+7235,jagua,Genipa,americana,,,GEAM
+7237,arbol de Navidad,Gesneria,pedunculosa,,,GEPE4
+561,"ginkgo, maidenhair tree",Ginkgo,biloba,,,GIBI2
+7239,bastard gregre,Ginoria,rohrii,,,GIRO
+7241,Gironniera celtidifolia,Gironniera,celtidifolia,,,GICE2
+551,waterlocust,Gleditsia,aquatica,,,GLAQ
+550,honeylocust spp.,Gleditsia,spp.,,,GLEDI
+552,honeylocust,Gleditsia,triacanthos,,,GLTR
+7245,quickstick,Gliricidia,sepium,,,GLSE2
+7247,masame,Glochidion,cuspidatum,,,GLCU
+7257,Glochidion kanehirae,Glochidion,kanehirae,,,GLKA
+7248,Glochidion marianum,Glochidion,marianum,,,GLMA9
+7249,masame,Glochidion,ramiflorum,,,GLRA4
+7250,Glochidion,Glochidion,spp.,,,GLOCH
+7255,flower axistree,Glycosmis,parviflora,,,GLPA4
+7251,belau,Gmelina,elliptica,,,GMEL
+7252,blacheos,Gmelina,palawensis,,,GMPA
+7253,Gmelina,Gmelina,spp.,,,GMELI
+7254,Gnetum gnemon,Gnetum,gnemon,,,GNGN
+7256,mata buey,Goetzea,elegans,,,GOEL
+7258,grand merisier,Gomidesia,lindeniana,,,GOLI
+7260,Goniothalamus carolinensis,Goniothalamus,carolinensis,,,GOCA2
+555,loblolly-bay,Gordonia,lasianthus,,,GOLA
+7262,Creole cotton,Gossypium,barbadense,,,GOBA
+7264,Gossypium hirsutum,Gossypium,hirsutum,,,GOHIH2
+7268,Graffenrieda ottoschulzii,Graffenrieda,ottoschulzii,,,GROT
+7272,kahiliflower,Grevillea,banksii,,,GRBA
+7273,silkoak,Grevillea,robusta,,,GRRO
+7274,grevillea,Grevillea,spp.,,,GREVI
+7275,fau ui,Grewia,crenata,,,GRCR4
+7279,lignum-vitae,Guaiacum,officinale,,,GUOF
+7280,holywood,Guaiacum,sanctum,,,GUSA
+7282,paipai,Guamia,mariannae,,,GUMA4
+882,"beeftree, longleaf blolly",Guapira,discolor,,,GUDI
+7285,black mampoo,Guapira,fragrans,,,GUFR
+7286,corcho prieto,Guapira,obtusata,,,GUOB
+7288,alligatorwood,Guarea,glabra,,,GUGL3
+7290,American muskwood,Guarea,guidonia,,,GUGU
+7294,haya minga,Guatteria,blainii,,,GUBL
+7295,haya blanca,Guatteria,caribaea,,,GUCA2
+7298,bastardcedar,Guazuma,ulmifolia,,,GUUL
+7299,hammock velvetseed,Guettarda,elliptica,,,GUEL
+7300,frogwood,Guettarda,krugii,,,GUKR
+7302,cucubano de vieques,Guettarda,odorata,,,GUOD
+7303,cucubano,Guettarda,ovalifolia,,,GUOV
+7305,roseta,Guettarda,pungens,,,GUPU
+7306,wild guave,Guettarda,scabra,,,GUSC
+7307,puapua,Guettarda,speciosa,,,GUSP3
+7309,cucubano de monte,Guettarda,valenzuelana,,,GUVA
+7311,rhoifolia,Guioa,rhoifolia,,,GURH
+7312,Guioa,Guioa,spp.,,,GUIOA
+7313,"bochela uchererak, uch",Gulubia,palauensis,,,GUPA
+7315,West Indian false box,Gyminda,latifolia,,,GYLA
+7317,oysterwood,Gymnanthes,lucida,,,GYLU
+571,Kentucky coffeetree,Gymnocladus,dioicus,,,GYDI
+7319,vilivili,Gyrocarpus,americanus,,,GYAM2
+7321,bloodwoodtree,Haematoxylum,campechianum,,,HACA2
+7327,palo de hueso,Haenianthus,salicifolius,,,HASAO
+581,Carolina silverbell,Halesia,carolina,,,HACA3
+582,two-wing silverbell,Halesia,diptera,,,HADI3
+583,little silverbell,Halesia,parviflora,,,HAPA2
+580,silverbell spp.,Halesia,spp.,,,HALES
+7328,mountain silverbell,Halesia,tetraptera,,,HATE3
+7329,Ozark witchhazel,Hamamelis,vernalis,,,HAVE2
+7331,American witchhazel,Hamamelis,virginiana,,,HAVI4
+7330,scarletbush,Hamelia,patens,,,HAPA3
+7332,Haplolobus floribundus,Haplolobus,floribundus,,,HAFL
+7334,fa`aili,Harpullia,arborea,,,HAAR4
+7335,haujillo,Havardia,pallens,,,HAPA10
+7336,false locust,Hebestigma,cubense,,,HECU10
+7338,denticulata,Hedycarya,denticulata,,,HEDE14
+7340,Hedycarya,Hedycarya,spp.,,,HEDYC2
+7341,cigarbush,Hedyosmum,arborescens,,,HEAR
+7343,Fosbergs starviolet,Hedyotis,fosbergii,,,HEFO5
+7344,manono,Hedyotis,hillebrandii,,,HEHI8
+7345,starviolet,Hedyotis,spp.,,,HEDYO2
+7346,variable starviolet,Hedyotis,terminalis,,,HETE21
+7347,screwtree,Helicteres,jamaicensis,,,HEJA
+7349,white moho,Heliocarpus,popayanensis,,,HEPO4
+7350,heliocarpus,Heliocarpus,spp.,,,HELIO
+7353,camasey peludo,Henriettea,fascicularis,,,HEFA5
+7354,MacFadyen's camasey,Henriettea,macfadyenii,,,HEMA11
+7355,thinleaf camasey,Henriettea,membranifolia,,,HEME5
+7357,jusillo,Henriettea,squamulosum,,,HESQ
+7359,ufa,Heritiera,littoralis,,,HELI9
+7360,ufa halemtano,Heritiera,longipetiolata,,,HELO12
+7362,Heritiera,Heritiera,spp.,,,HERIT2
+7368,Hernandia labyrinthica,Hernandia,labyrinthica,,,HELA27
+7363,pipi,Hernandia,moerenhoutiana,,,HEMO13
+7364,"pua, Chinese lantern tree",Hernandia,nymphaeifolia,,,HENY
+7365,Hernandia ovigera,Hernandia,ovigera,,,HEOV4
+7366,mago,Hernandia,sonora,,,HESO
+7367,Hernandia,Hernandia,spp.,,,HERNA
+7370,Lanai island-aster,Hesperomannia,arborescens,,,HEAR9
+7371,Maui island-aster,Hesperomannia,arbuscula,,,HEAR10
+7372,Kauai island-aster,Hesperomannia,lydgatei,,,HELY
+7373,island-aster,Hesperomannia,spp.,,,HESPE8
+7374,toyon,Heteromeles,arbutifolia,,,HEAR5
+7376,toyon,Heteromeles,spp.,,,HETER5
+7377,palma brava,Heterospathe,elata,,,HEEL9
+7381,para rubber tree,Hevea,brasiliensis,,,HEBR8
+7384,hau kuahiwi,Hibiscadelphus,bombycinus,,,HIBO2
+7385,lava hau kuahiwi,Hibiscadelphus,crucibracteatus,,,HICR
+7386,Kauai hau kuahiwi,Hibiscadelphus,distans,,,HIDI
+7387,Kilauea hau kuahiwi,Hibiscadelphus,giffardianus,,,HIGI
+7388,Hualalai hau kuahiwi,Hibiscadelphus,hualalaiensis,,,HIHU
+7389,hau kuahiwi,Hibiscadelphus,puakuahiwi,,,HIPU2
+7390,hibiscadelphus,Hibiscadelphus,spp.,,,HIBIS
+7391,Maui hau kuahiwi,Hibiscadelphus,wilderianus,,,HIWI
+7392,Woods hau kuahiwi,Hibiscadelphus,woodii,,,HIWO
+7393,white rosemallow,Hibiscus,arnottianus,,,HIAR
+7397,Brackenridges rosemallow,Hibiscus,brackenridgei,,,HIBR
+7401,lemonyellow rosemallow,Hibiscus,calyphyllus,,,HICA6
+7402,red Kauai rosemallow,Hibiscus,clayi,,,HICL
+7403,mahoe,Hibiscus,elatus,,,HIEL
+7404,red rosemallow,Hibiscus,kokio,,,HIKO
+7407,largeleaf rosemallow,Hibiscus,macrophyllus,,,HIMA5
+7408,Dixie rosemallow,Hibiscus,mutabilis,,,HIMU3
+7409,seaside mahoe,Hibiscus,pernambucensis,,,HIPE3
+7410,shoeblackplant,Hibiscus,rosa-sinensis,,,HIRO3
+7411,rosemallow,Hibiscus,spp.,,,HIBIS2
+7412,sea hibiscus,Hibiscus,tiliaceus,,,HITI
+7413,white Kauai rosemallow,Hibiscus,waimeae,,,HIWA
+883,manchineel,Hippomane,mancinella,,,HIMA2
+7418,teta de burra cinarron,Hirtella,rugosa,,,HIRU2
+7420,pigeonberry,Hirtella,triandra,,,HITR3
+8008,fanuamamala,Homalanthus,acuminatus,,,HOAC4
+8009,fanuamamala,Homalanthus,nutans,,,HONU3
+8010,Homalanthus,Homalanthus,spp.,,,HOMAL6
+7422,white cogwood,Homalium,racemosum,,,HORA
+7424,Homalium whitmeeanum,Homalium,whitmeeanum,,,HOWH
+7427,"chemeklachel, eumail",Horsfieldia,amklaal,,,HOAM2
+7428,ersachel,Horsfieldia,novoguineensis,,,HONO2
+7429,Horsfieldia nunu,Horsfieldia,nunu,,,HONU2
+7430,chersachel,Horsfieldia,palauensis,,,HOPA10
+7431,Horsfieldia,Horsfieldia,spp.,,,HORSF2
+7432,Japanese raisintree,Hovenia,dulcis,,,HODU2
+7434,sandbox tree,Hura,crepitans,,,HUCR
+7438,cedro macho,Hyeronima,clusioides,,,HYCL
+7440,nightblooming cactus,Hylocereus,spp.,,,HYLOC
+7441,nightblooming cactus,Hylocereus,undatus,,,HYUN3
+7442,stinkingtoe,Hymenaea,courbaril,,,HYCO
+7445,inkwood,Hypelate,trifoliata,,,HYTR
+7446,limestone snakevine,Hyperbaena,laurifolia,,,HYLA8
+7448,Canary Island St. Johnswort,Hypericum,canariense,,,HYCA11
+7453,Hawaii holly,Ilex,anomala,,,ILAN
+7454,English holly,Ilex,aquifolium,,,ILAQ80
+7455,dahoon,Ilex,cassine,,,ILCA
+7456,te,Ilex,cookii,,,ILCO3
+7457,maconcona,Ilex,guianensis,,,ILGU
+7458,Caribbean holly,Ilex,macfadyenii,,,ILMA
+6438,catberry,Ilex,mucronata,,,ILMU
+7459,Puerto Rico holly,Ilex,nitida,,,ILNI
+591,American holly,Ilex,opaca,,,ILOP
+7460,mate,Ilex,paraguariensis,,,ILPA3
+7462,gongolin,Ilex,sideroxyloides,,,ILSI
+7463,Sintenis' holly,Ilex,sintenisii,,,ILSI2
+7464,holly,Ilex,spp.,,,ILEX
+7465,Urban's holly,Ilex,urbaniana,,,ILUR
+7466,Ilex urbaniana,Ilex,urbaniana,riedlaei,,ILURR
+7469,yaupon,Ilex,vomitoria,,,ILVO
+7472,ice cream bean,Inga,edulis,,,INED
+7470,sacky sac bean,Inga,laurina,,,INLA
+7471,Inga nobilis,Inga,nobilis,,,INNOQ
+7467,inga,Inga,spp.,,,INGA
+7474,river koko,Inga,vera,,,INVE
+7475,ifi,Inocarpus,fagifer,,,INFA3
+7477,ifilele,Intsia,bijuga,,,INBI
+7479,palo de hierro,Ixora,ferrea,,,IXFE
+7481,white jungleflame,Ixora,thwaitesii,,,IXTH
+7482,black poui,Jacaranda,mimosifolia,,,JAMI
+7483,jacaranda,Jacaranda,spp.,,,JACAR
+7485,braceletwood,Jacquinia,armillaris,,,JAAR2
+7487,bois bande,Jacquinia,berteroi,,,JABE
+7490,chirriador,Jacquinia,umbellata,,,JAUM
+7491,Barbados nut,Jatropha,curcas,,,JACU2
+7492,wild oilnut,Jatropha,hernandiifolia,,,JAHE
+7493,coralbush,Jatropha,multifida,,,JAMU
+7494,nettlespurge,Jatropha,spp.,,,JATRO
+604,southern California black walnut,Juglans,californica,,,JUCA
+601,butternut,Juglans,cinerea,,,JUCI
+603,northern California black walnut,Juglans,hindsii,,,JUHI
+7495,West Indian walnut,Juglans,jamaicensis,,,JUJA
+606,Arizona walnut,Juglans,major,,,JUMA
+605,Texas walnut,Juglans,microcarpa,,,JUMI
+602,black walnut,Juglans,nigra,,,JUNI
+7496,English walnut,Juglans,regia,,,JURE80
+600,walnut spp.,Juglans,spp.,,,JUGLA
+61,Ashe juniper,Juniperus,ashei,,,JUAS
+62,California juniper,Juniperus,californica,,,JUCA7
+59,redberry juniper,Juniperus,coahuilensis,,,JUCO11
+63,alligator juniper,Juniperus,deppeana,,,JUDE2
+60,Drooping juniper,Juniperus,flaccida,,,JUFL
+69,oneseed juniper,Juniperus,monosperma,,,JUMO
+64,western juniper,Juniperus,occidentalis,,,JUOC
+65,Utah juniper,Juniperus,osteosperma,,,JUOS
+58,Pinchot juniper,Juniperus,pinchotii,,,JUPI
+66,Rocky Mountain juniper,Juniperus,scopulorum,,,JUSC2
+57,redcedar/juniper spp.,Juniperus,spp.,,,JUNIP
+67,southern redcedar,Juniperus,virginiana,silicicola,,JUVIS
+68,eastern redcedar,Juniperus,virginiana,,,JUVI
+7497,ketoguit,Kayea,pacifica,,,KAPA4
+7499,Khaya anthotheca,Khaya,anthotheca,,,KHAN
+7501,Senegal mahogany,Khaya,senegalensis,,,KHSE2
+7503,Kigelia africana,Kigelia,africana,,,KIAF
+7506,guest tree,Kleinhovia,hospita,,,KLHO
+7508,Koanophyllon polyodon,Koanophyllon,polyodon,,,KOPO
+7515,goldenrain tree,Koelreuteria,paniculata,,,KOPA
+7509,Molokai treecotton,Kokia,cookei,,,KOCO2
+7510,Hawaii treecotton,Kokia,drynarioides,,,KODR
+7511,Kauai treecotton,Kokia,kauaiensis,,,KOKA
+7512,Wailupe Valley treecotton,Kokia,lanceolata,,,KOLA2
+7513,treecotton,Kokia,spp.,,,KOKIA
+7514,leadwood,Krugiodendron,ferreum,,,KRFE
+7516,burgan,Kunzea,ericoides,,,KUER
+7517,Kunzea,Kunzea,spp.,,,KUNZE
+7518,summit labordia,Labordia,fagraeoidea,,,LAFA2
+7519,bog labordia,Labordia,hedyosmifolia,,,LAHE2
+7520,mountain labordia,Labordia,hirtella,,,LAHI5
+7521,Waianae Range labordia,Labordia,kaalae,,,LAKA
+7522,Wahiawa Mountain labordia,Labordia,lydgatei,,,LALY2
+7523,labordia,Labordia,spp.,,,LABOR
+7524,paleflower labordia,Labordia,tinifolia,,,LATI2
+7528,Lanai labordia,Labordia,triflora,,,LATR4
+7529,Nevada peavine,Labordia,waiolani,,,LAWA3
+7531,golden chain tree,Laburnum,anagyroides,,,LAAN2
+7530,cuero de rana,Laetia,procera,,,LAPR2
+7532,crapemyrtle,Lagerstroemia,indica,,,LAIN
+7533,pride of India,Lagerstroemia,speciosa,,,LASP
+988,white-mangrove,Laguncularia,racemosa,,,LARA2
+7539,Langsat,Lansium,domesticum,,,LADO2
+7541,nino de cota,Laplacea,portoricensis,,,LAPO
+6212,European larch,Larix,decidua,,,LADE2
+71,tamarack (native),Larix,laricina,,,LALA
+72,subalpine larch,Larix,lyallii,,,LALY
+73,western larch,Larix,occidentalis,,,LAOC
+70,larch spp.,Larix,spp.,,,LARIX
+7543,bluelatan,Latania,loddigesii,,,LALO
+7550,henna,Lawsonia,inermis,,,LAIN5
+7552,Krug's roughleaf,Leandra,krugiana,,,LEKR
+7556,pitahaya,Leptocereus,quadricostatus,,,LEQU
+7558,large-leaf yellow teatree,Leptospermum,morrisonii,,,LEMO20
+7559,common teatree,Leptospermum,petersonii,,,LEPE23
+7560,common teatree,Leptospermum,polygalifolim,,,LEPO22
+7561,broom teatree,Leptospermum,scoparium,,,LESC2
+7562,teatree,Leptospermum,spp.,,,LEPTO4
+7564,Leucaena insularum,Leucaena,insularum,,,LEIN31
+7565,white leadtree,Leucaena,leucocephala,,,LELE10
+869,Great leucaene,Leucaena,pulverulenta,,,LEPU3
+7567,littleleaf leadtree,Leucaena,retusa,,,LERE5
+7566,leadtree,Leucaena,spp.,,,LEUCA
+7569,Maria laurel,Licaria,brittoniana,,,LIBR5
+7570,Puerto Rico cinnamon,Licaria,parvifolia,,,LIPA9
+7573,pepperleaf sweetwood,Licaria,triandra,,,LITR
+7574,Amur privet,Ligustrum,amurense,,,LIAM
+7577,Japanese privet,Ligustrum,japonicum,,,LIJA
+7578,glossy privet,Ligustrum,lucidum,,,LILU2
+7579,California privet,Ligustrum,ovalifolium,,,LIOV
+7575,Chinese privet,Ligustrum,sinense,,,LISI
+7576,privet,Ligustrum,spp.,,,LIGUS2
+7580,southern spicebush,Lindera,melissifolia,,,LIME7
+6234,bog spicebush,Lindera,subcoriacea,,,LISU8
+611,sweetgum,Liquidambar,styraciflua,,,LIST2
+621,yellow-poplar,Liriodendron,tulipifera,,,LITU
+7583,Lychee,Litchi,chinensis,,,LICH4
+631,tanoak,Lithocarpus,densiflorus,,,LIDE3
+7586,papaono,Litsea,samoensis,,,LISA8
+7587,Litsea,Litsea,spp.,,,LITSE
+7588,fountain palm,Livistona,chinensis,,,LICH3
+7590,geno geno,Lonchocarpus,domingensis,,,LODO5
+7591,geno,Lonchocarpus,glaucifolius,,,LOGL2
+7592,broadleaf lancepod,Lonchocarpus,heptaphyllus,,,LOHE7
+7593,Amur honeysuckle,Lonicera,maackii,,,LOMA6
+7595,vinegartree,Lophostemon,confertus,,,LOCO9
+7598,Egg Fruit / Canistel,Lucuma,nervosa,,,LUNE4
+7600,luehea,Luehea,speciosa,,,LUSP11
+7602,"bakauaine, nana",Lumnitzera,littorea,,,LULI8
+7606,Lunania ekmanii,Lunania,ekmanii,,,LUEK
+7604,lunania,Lunania,spp.,,,LUNAN
+7608,St. Thomas staggerbush,Lyonia,rubiginosa,,,LYRU2
+884,false tamarind,Lysiloma,latisiliquum,,,LYLA3
+7614,"macadamia nut tree, pengua",Macadamia,integrifolia,,,MAIN8
+7616,Macadamia,Macadamia,spp.,,,MACAD
+7617,Macadamia Nut,Macadamia,tetraphylla,,,MATE16
+7618,bedel,Macaranga,carolinensis,,,MACA25
+7619,Macaranga grayana,Macaranga,grayana,,,MAGR
+7620,lau pata,Macaranga,harveyana,,,MAHA9
+7621,pengua,Macaranga,mappa,,,MAMA28
+7623,macaranga,Macaranga,spp.,,,MACAR
+7625,lau fatu,Macaranga,stipulosa,,,MAST7
+7626,parasol leaf tree,Macaranga,tanarius,,,MATA3
+7627,Macaranga thompsonii,Macaranga,thompsonii,,,MATH3
+7628,palo de hoz,Machaerium,lunatum,,,MALU2
+7630,Puerto Rico alfilerillo,Machaonia,portoricensis,,,MAPO6
+641,Osage-orange,Maclura,pomifera,,,MAPO
+7632,Maclura tinctoria,Maclura,tinctoria,,,MATI3
+7633,umbrella-tree,Maesopsis,eminii,,,MAEM2
+651,cucumbertree,Magnolia,acuminata,,,MAAC
+655,mountain or Fraser magnolia,Magnolia,fraseri,,,MAFR
+652,southern magnolia,Magnolia,grandiflora,,,MAGR4
+654,bigleaf magnolia,Magnolia,macrophylla,,,MAMA2
+7635,Puerto Rico magnolia,Magnolia,portoricensis,,,MAPO2
+657,pyramid magnolia,Magnolia,pyramidata,,,MAPY
+7636,laurel magnolia,Magnolia,splendens,,,MASP
+650,magnolia spp.,Magnolia,spp.,,,MAGNO
+658,umbrella magnolia,Magnolia,tripetala,,,MATR
+653,sweetbay,Magnolia,virginiana,,,MAVI2
+7638,Mallotus palauensis,Mallotus,palauensis,,,MAPA6
+7639,kamala tree,Mallotus,philippensis,,,MAPH4
+7641,mallotus,Mallotus,spp.,,,MALLO
+7642,Mallotus tiliifolius,Mallotus,tiliifolius,,,MATI4
+7643,Singapore holly,Malpighia,coccigera,,,MACO11
+7644,Barbados cherry,Malpighia,emarginata,,,MAEM
+7645,palo bronco,Malpighia,fucata,,,MAFU2
+7646,wild crapemyrtle,Malpighia,glabra,,,MAGL6
+7647,cowhage cherry,Malpighia,infestissima,,,MAIN5
+7648,bastard cherry,Malpighia,linearis,,,MALI2
+662,southern crab apple,Malus,angustifolia,,,MAAN3
+7649,Siberian crab apple,Malus,baccata,,,MABA
+663,sweet crab apple,Malus,coronaria,,,MACO5
+7650,Japanese flowering crab apple,Malus,floribunda,,,MAFL80
+661,Oregon crab apple,Malus,fusca,,,MAFU
+664,prairie crab apple,Malus,ioensis,,,MAIO
+7651,paradise apple,Malus,pumila,,,MAPU
+660,apple spp.,Malus,spp.,,,MALUS
+7652,mammee apple,Mammea,americana,,,MAAM2
+7653,manapau,Mammea,glauca,,,MAGL12
+7654,chopak,Mammea,odorata,,,MAOD2
+7655,Mammea,Mammea,spp.,,,MAMME
+885,mango,Mangifera,indica,,,MAIN3
+7657,kanit,Mangifera,minor,,,MAMI3
+7658,saipan mango,Mangifera,odorata,,,MAOD
+7659,mango,Mangifera,spp.,,,MANGI
+7660,ceara rubbertree,Manihot,glaziovii,,,MAGL5
+7661,manihot,Manihot,spp.,,,MANIH
+7662,bulletwood,Manilkara,bidentata,,,MABI5
+7663,Surinam bulletwood,Manilkara,bidentata,,surinamensis,MABIS
+7664,pani,Manilkara,dissecta,,,MADI14
+7666,kohle,Manilkara,hoshinoi,,,MAHO5
+7667,wild dilly,Manilkara,jaimiqui,,,MAJA2
+7669,zapote de costa,Manilkara,pleeana,,,MAPL2
+7671,Manilkara,Manilkara,spp.,,,MANIL
+7672,udeuid,Manilkara,udoido,,,MAUD
+7673,nisperillo,Manilkara,valenzuela,,,MAVA3
+7674,sapodilla,Manilkara,zapota,,,MAZA
+7677,palo de cana,Mappia,racemosa,,,MARA3
+7679,"bkau, apgau",Maranthes,corymbosa,,,MACO
+7680,dermarm,Marattia,fraxinea,,,MAFR11
+7682,bastard hogberry,Margaritaria,nobilis,,,MANO
+7684,beruquillo,Marlierea,sintenisii,,,MASI3
+7688,Matayba apetala,Matayba,apetala,,,MAAP5
+7689,negra lora,Matayba,domingensis,,,MADO2
+7695,Caribbean mayten,Maytenus,cymosa,,,MACY2
+7697,Puerto Rico mayten,Maytenus,elongata,,,MAEL3
+7698,white cinnamon,Maytenus,laevigata,,,MALA8
+715,Maytenus palauica,Maytenus,palauica,,,MAPA28
+7699,ponce mayten,Maytenus,ponceana,,,MAPO5
+7700,luluhut,Maytenus,thompsonii,,,MATH4
+7702,Mecranium latifolium,Mecranium,latifolium,,,MELA7
+7704,Medusanthera carolinensis,Medusanthera,carolinensis,,,MECA21
+7705,matamo,Medusanthera,samoensis,,,MESA11
+7706,Medusanthera,Medusanthera,spp.,,,MEDUS2
+992,melaleuca,Melaleuca,quinquenervia,,,MEQU
+7709,melaleuca,Melaleuca,spp.,,,MELAL
+7710,alom,Melanolepis,multiglandulosa,,,MEMU10
+7712,Melastoma candidum,Melastoma,candidum,,,MECA9
+7713,Melastoma sanguineum,Melastoma,sanguineum,,,MESA3
+993,chinaberry,Melia,azedarach,,,MEAZ
+7716,melia,Melia,spp.,,,MELIA
+7717,Spanish lime,Melicoccus,bijugatus,,,MEBI
+7719,mokihana,Melicope,anisata,,,MEAN3
+7720,Ballous melicope,Melicope,balloui,,,MEBA2
+7721,uahiapele,Melicope,barbigera,,,MEBA3
+7722,Waianae Range melicope,Melicope,christophersenii,,,MECH2
+7723,manena,Melicope,cinerea,,,MECI6
+7724,kukaemoa,Melicope,clusiifolia,,,MECL
+7725,piloula,Melicope,cruciata,,,MECR5
+7726,leiohiiaka,Melicope,elliptica,,,MEEL2
+7727,Haleakala melicope,Melicope,haleakalae,,,MEHA7
+7728,Haupa Mountain melicope,Melicope,haupuensis,,,MEHA3
+7729,mokihana kukae moa,Melicope,hawaiensis,,,MEHA4
+7730,Monoa melicope,Melicope,hiiakae,,,MEHI6
+7731,Honolulu melicope,Melicope,hosakae,,,MEHO2
+7732,Kaala melicope,Melicope,kaalaensis,,,MEKA2
+7733,Olokele Valley melicope,Melicope,knudsenii,,,MEKN
+7750,soopini,Melicope,latifolia,,,MERE8
+7734,Kaholuamanu melicope,Melicope,macropus,,,MEMA6
+7735,Makaha Valley melicope,Melicope,makahae,,,MEMA7
+7736,Molokai melicope,Melicope,molokaiensis,,,MEMO6
+7737,alani,Melicope,mucronulata,,,MEMU4
+7738,Oahu melicope,Melicope,oahuensis,,,MEOA
+7739,Makawao melicope,Melicope,obovata,,,MEOB4
+7740,Honokahua melicope,Melicope,orbicularis,,,MEOR4
+7741,Hana melicope,Melicope,ovalis,,,MEOV
+7742,eggshape melicope,Melicope,ovata,,,MEOV2
+7743,pale melicope,Melicope,pallida,,,MEPA6
+7744,Lihue melicope,Melicope,paniculata,,,MEPA7
+7745,boxfruit alani,Melicope,peduncularis,,,MEPE9
+7746,Kohala Summit melicope,Melicope,pseudoanisata,,,MEPS
+7747,hairy melicope,Melicope,puberula,,,MEPU4
+7748,fourangle melicope,Melicope,quadrangularis,,,MEQU3
+7749,kapu melicope,Melicope,radiata,,,MERA2
+7751,roundleaf melicope,Melicope,rotundifolia,,,MERO3
+7752,St. Johns melicope,Melicope,saint-johnii,,,MESA4
+7753,Mt. Kaala melicope,Melicope,sandwicensis,,,MESA5
+7754,melicope,Melicope,spp.,,,MELIC3
+7755,volcanic melicope,Melicope,volcanica,,,MEVO
+7756,alani wai,Melicope,waialealae,,,MEWA2
+7757,Monoa melicope,Melicope,wawraeana,,,MEWA4
+7758,kipuka piaula,Melicope,zahlbruckneri,,,MEZA
+7759,samoensis,Melicytus,samoensis,,,MESA9
+7763,aguacatillo,Meliosma,herbertii,,,MEHE
+7764,cacaillo,Meliosma,obtusifolia,,,MEOB2
+7766,mao,Melochia,aristata,,,MEAR16
+7767,melochia,Melochia,spp.,,,MELOC
+7768,teabush,Melochia,tomentosa,,,METO4
+7769,hierba del soldado,Melochia,umbellata,,,MEUM3
+7771,sayafe,Melochia,villosissima,villosissima,,MEVIV
+7770,sayafe,Melochia,villosissima var compacta,,,MEVIC4
+7774,faniok,Merrilliodendron,megacarpum,,,MEME12
+7776,fagufagu,Meryta,macrophylla,,,MEMA16
+7777,omechidel,Meryta,senfftiana,,,MESE11
+7778,Meryta,Meryta,spp.,,,MERYT
+7779,dawn redwood,Metasequoia,glyptostroboides,,,MEGL8
+886,Florida poisontree,Metopium,toxiferum,,,METO3
+7781,collina,Metrosideros,collina,,,MEPOP2
+7782,ohia,Metrosideros,macropus,,,MEMA4
+7783,ohia lehua,Metrosideros,polymorpha,,,MEPO5
+7792,lehua papa,Metrosideros,rugosa,,,MERU2
+7793,lehua,Metrosideros,spp.,,,METRO
+7794,lehua ahihi,Metrosideros,tremuloides,,,METR5
+7795,Kauai bottlebrush,Metrosideros,waialealae,,,MEWA
+7798,ivory-nut palm,Metroxylon,amicarum,,,MEAM4
+7799,sago palm,Metroxylon,sagu,,,MESA7
+7800,Metroxylon,Metroxylon,spp.,,,METRO2
+7801,Orange Champak,Michelia,champaca,,,MICH4
+7804,saquiyac,Miconia,affinis,,,MIAF
+7805,velvet tree,Miconia,calvescens,,,MICA20
+7806,Puerto Rico johnnyberry,Miconia,foveolata,,,MIFO
+7807,camasey de costilla,Miconia,impetiolaris,,,MIIM
+7808,smooth johnnyberry,Miconia,laevigata,,,MILA8
+7803,hairy johnnyberry,Miconia,lanata,,,MILA10
+7810,camasey cuatrocanales,Miconia,mirabilis,,,MIMI3
+7812,camasey racimoso,Miconia,pachyphylla,,,MIPA7
+7813,granadillo bobo,Miconia,prasina,,,MIPR3
+7814,auquey,Miconia,punctata,,,MIPU9
+7815,ridge johnnyberry,Miconia,pycnoneura,,,MIPY2
+7816,camasey felpa,Miconia,racemosa,,,MIRA2
+7817,peralejo,Miconia,rubiginosa,,,MIRU4
+7818,jau jau,Miconia,serrulata,,,MISE2
+7819,mountain johnnyberry,Miconia,sintenisii,,,MISI2
+7821,forest johnnyberry,Miconia,subcorymbosa,,,MISU3
+7822,rajador,Miconia,tetrandra,,,MITE4
+7823,camasey tomaso,Miconia,thomasiana,,,MITH
+7824,talafulu,Micromelum,minutum,,,MIMI23
+7828,caimitillo verde,Micropholis,garciniifolia,,,MIGA
+7829,Micropholis guyanensis,Micropholis,guyanensis,,,MIGU2
+7831,pinnata,Millettia,pinnata,,,MIPI9
+7833,elegant mimosa,Mimosa,arenosa,,,MIAR4
+7835,"bulletwood, elengi",Mimusops,elengi,,,MIEL4
+7839,monodora,Monodora,spp.,,,MONOD
+7841,treedaisy,Montanoa,hibiscifolia,,,MOHI
+7842,montanoa,Montanoa,spp.,,,MONTA
+7845,Morella cerifera,Morella,cerifera,,,MOCE2
+7846,firetree,Morella,faya,,,MOFA
+7847,Morella holdridgeana,Morella,holdridgeana,,,MOHO3
+7848,bayberry,Morella,spp.,,,MOREL2
+7849,Indian mulberry,Morinda,citrifolia,,,MOCI3
+7850,ngel,Morinda,latibractea,,,MOLA12
+7851,Morinda pedunculata,Morinda,pedunculata,,,MOPE2
+7852,morinda,Morinda,spp.,,,MORIN
+7853,noni kuahiwi,Morinda,trimera,,,MOTR
+7855,horseradishtree,Moringa,oleifera,,,MOOL
+7857,ratapple,Morisonia,americana,,,MOAM
+681,white mulberry,Morus,alba,,,MOAL
+683,Texas mulberry,Morus,microphylla,,,MOMI
+684,black mulberry,Morus,nigra,,,MONI
+682,red mulberry,Morus,rubra,,,MORU2
+680,mulberry spp.,Morus,spp.,,,MORUS
+7862,murta,Mouriri,domingensis,,,MODO2
+7863,mameyuelo,Mouriri,helleri,,,MOHE
+7865,falseohe,Munroidendron,racemosum,,,MURA3
+7867,strawberrytree,Muntingia,calabura,,,MUCA4
+7868,muntingia,Muntingia,spp.,,,MUNTI
+7869,Murraya exotica,Murraya,exotica,,,MUEX2
+7873,bungeltuu,Musa,coccinea,,,MUCO8
+7874,tama,Musa,nana,,,MUNA
+7872,French plantain,Musa,paradisiaca,,,MUPA3
+7875,tuu banana,Musa,sapientum,,,MUSA
+7876,meia,Musa,spp.,,,MUSA2
+7877,blantalos,Musa,textilis,,,MUTE6
+7878,tikap,Musa,tikap,,,MUTI
+7879,fei banana,Musa,troglodytarum,,,MUTR2
+7880,Mussaenda frondosa,Mussaenda,frondosa,,,MUFR3
+7881,aloalo vao,Mussaenda,raiateensis,,,MURA5
+7882,Mussaenda,Mussaenda,spp.,,,MUSSA
+7883,naio,Myoporum,sandwicense,,,MYSA
+7884,myoporum,Myoporum,spp.,,,MYOPO
+7886,red rodwood,Myrcia,citrifolia,,,MYCI
+7887,cieneguillo,Myrcia,deflexa,,,MYDE
+7888,curame,Myrcia,fallax,,,MYFA3
+7889,guayabacon,Myrcia,leptoclada,,,MYLE
+7890,ausu,Myrcia,paganii,,,MYPA
+7891,punchberry,Myrcia,splendens,,,MYSP
+7892,rodwood,Myrcia,spp.,,,MYRCI
+7893,twinberry,Myrcianthes,fragrans,,,MYFR
+7894,jaboticaba,Myrciaria,cauliflora,,,MYCA9
+7895,guavaberry,Myrciaria,floribunda,,,MYFL
+7899,"yamamomo, strawberry tree",Myrica,rubra,,,MYRU3
+7900,sweetgale,Myrica,spp.,,,MYRIC
+7902,atoneulu,Myristica,hypargyraea,,,MYHY2
+7903,adepurot,Myristica,insularis,,,MYIN3
+7906,Myristica inutilis,Myristica,inutilis,,,MYIN4
+7904,Myristica,Myristica,spp.,,,MYRIS
+7905,cercipo,Myrospermum,frutescens,,,MYFR2
+7907,balsam of Tolu,Myroxylon,balsamum,,,MYBA3
+7910,forest colicwood,Myrsine,alyxifolia,,,MYAL4
+7911,leathery colicwood,Myrsine,coriacea,,,MYCO2
+7912,Myrsine cubana,Myrsine,cubana,,,MYCU2
+7913,summit colicwood,Myrsine,degeneri,,,MYDE2
+7914,mountain colicwood,Myrsine,emarginata,,,MYEM
+7915,streambank colicwood,Myrsine,fernseei,,,MYFE
+7916,Koolau Range colicwood,Myrsine,fosbergii,,,MYFO
+7918,Wahiawa Bog colicwood,Myrsine,helleri,,,MYHE3
+7919,Kauai colicwood,Myrsine,kauaiensis,,,MYKA
+7920,Kokee colicwood,Myrsine,knudsenii,,,MYKN
+7921,Lanai colicwood,Myrsine,lanaiensis,,,MYLA3
+7922,kolea lau nui,Myrsine,lessertiana,,,MYLE2
+7923,Hanapepe River colicwood,Myrsine,mezii,,,MYME2
+7929,Myrsine palauensis,Myrsine,palauensis,,,MYPA7
+7924,swamp colicwood,Myrsine,petiolata,,,MYPE3
+7925,Molokai colicwood,Myrsine,pukooensis,,,MYPU2
+7926,kokea lau lii,Myrsine,sandwicensis,,,MYSA2
+7927,colicwood,Myrsine,spp.,,,MYRSI
+7928,Mt. Kahili colicwood,Myrsine,wawraea,,,MYWA
+7932,Nectandra coriacea,Nectandra,coriacea,,,NECO
+7933,shinglewood,Nectandra,hihua,,,NEHI2
+7934,Nectandra krugii,Nectandra,krugii,,,NEKR
+7935,Nectandra membranacea,Nectandra,membranacea,,,NEME3
+7936,Nectandra patens,Nectandra,patens,,,NEPA4
+7939,Nectandra turbacensis,Nectandra,turbacensis,,,NETU
+7940,saltwood,Neea,buxifolia,,,NEBU
+7942,fao,Neisosperma,oppositifolia,,,NEOP
+7944,kadam,Neolamarckia,cadamba,,,NECA7
+7946,aquilon,Neolaugeria,resinosa,,,NERE2
+7948,afa,Neonauclea,forsteri,,,NEFO2
+7952,Rambutan,Nephelium,lappaceum,,,NELA7
+7953,pulasan,Nephelium,ramboutan-ake,,,NERA3
+7954,maaloa,Neraudia,melastomifolia,,,NEME5
+7956,oleander,Nerium,oleander,,,NEOL
+7958,keahi,Nesoluma,polynesicum,,,NEPO
+7960,Hawaii olive,Nestegis,sandwicensis,,,NESA2
+7961,nestegis,Nestegis,spp.,,,NESTE
+7962,"kalm, aralm",Neuburgia,celebica,,,NECE
+7964,tree tobacco,Nicotiana,glauca,,,NIGL
+7965,tobacco,Nicotiana,spp.,,,NICOT
+7966,smallflower aiea,Nothocestrum,breviflorum,,,NOBR2
+7967,broadleaf aiea,Nothocestrum,latifolium,,,NOLA
+7968,longleaf aiea,Nothocestrum,longifolium,,,NOLO
+7969,Oahu aiea,Nothocestrum,peltatum,,,NOPE
+7970,aiea,Nothocestrum,spp.,,,NOTHO3
+7971,kaala rockwort,Nototrichium,humile,,,NOHU
+7972,Hawaii rockwort,Nototrichium,sandwicense,,,NOSA
+7974,"toechel, teuechel",Nypa,fruticans,,,NYFR2
+691,water tupelo,Nyssa,aquatica,,,NYAQ2
+694,swamp tupelo,Nyssa,biflora,,,NYBI
+692,Ogeechee tupelo,Nyssa,ogeche,,,NYOG
+690,tupelo spp.,Nyssa,spp.,,,NYSSA
+693,blackgum,Nyssa,sylvatica,,,NYSY
+7976,African bird's-eye bush,Ochna,mossambicensis,,,OCMO4
+7977,ochna,Ochna,spp.,,,OCHNA
+7978,Thomas birds-eye bush,Ochna,thomasiana,,,OCTH
+7980,Ochroma pyramidale,Ochroma,pyramidale,,,OCPY
+7982,holei,Ochrosia,compta,,,OCCO
+7983,island yellowwood,Ochrosia,haleakalae,,,OCHA
+7984,Kauai yellowwood,Ochrosia,kauaiensis,,,OCKA
+7985,Hawaii yellowwood,Ochrosia,kilaueaensis,,,OCKI
+7987,langiti,Ochrosia,mariannensis,,,OCMA2
+7986,yellowwood,Ochrosia,spp.,,,OCHRO2
+7990,laurel espada,Ocotea,floribunda,,,OCFL
+7991,black sweetwood,Ocotea,foeniculacea,,,OCFO
+7994,loblolly sweetwood,Ocotea,leucoxylon,,,OCLE
+7996,nemoca,Ocotea,moschata,,,OCMO
+7997,laurel sassafras,Ocotea,nemodaphne,,,OCNE
+7999,laurel de paloma,Ocotea,portoricensis,,,OCPO
+8001,nemoca cimarrona,Ocotea,spathulata,,,OCSP
+8003,Wright's laurel canelon,Ocotea,wrightii,,,OCWR
+8004,olive,Olea,europaea,,,OLEU
+8007,olive,Olea,spp.,,,OLEA
+8000,oleandra fern,Oleandra,neriiformis,,,OLNE
+990,desert ironwood,Olneya,tesota,,,OLTE
+8011,Ophiorrhiza palauensis,Ophiorrhiza,palauensis,,,OPPA4
+8013,cochineal nopal cactus,Opuntia,cochenillifera,,,OPCO4
+8014,tuna cactus,Opuntia,ficus-indica,,,OPFI
+8015,common pricklypear,Opuntia,monacantha,,,OPMO5
+8018,pricklypear,Opuntia,spp.,,,OPUNT
+8019,"amansis, edebsungelked, necklace bead tree",Ormosia,calavensis,,,ORCA12
+8020,peronia,Ormosia,krugii,,,ORKR
+8022,kesiamel,Osmoxylon,oliveri,,,OSOL
+8023,kesiamel,Osmoxylon,pachyphyllum,,,OSPA
+8024,Osmoxylon,Osmoxylon,spp.,,,OSMOX
+718,kesiamel,Osmoxylon,truncatum,,,OSTR
+6479,Knowlton's hophornbeam,Ostrya,knowltonii,,,OSKN
+701,eastern hophornbeam,Ostrya,virginiana,,,OSVI
+8027,pincho palo de rosa,Ottoschulzia,rhodoxylon,,,OTRH
+8029,chicharron amarillo,Ouratea,ilicifolia,,,OUIL
+8030,abey amarillo,Ouratea,littoralis,,,OULI
+8032,guanabanilla,Ouratea,striata,,,OUST
+8033,blacklancewood,Oxandra,lanceolata,,,OXLA4
+8034,haya,Oxandra,laurifolia,,,OXLA5
+711,sourwood,Oxydendrum,arboreum,,,OXAR
+8036,"miich era ngebard, guiana chestnut",Pachira,aquatica,,,PAAQ2
+8037,wild chestnut,Pachira,insignis,,,PAIN7
+8074,Palaquium karrak,Palaquium,karrak,,,PAKA
+8044,gasu,Palaquium,stehlinii,,,PAST24
+8045,tafetan,Palicourea,alpina,,,PAAL9
+8047,red cappel,Palicourea,crocea,,,PACR3
+8049,Palicourea croceoides,Palicourea,croceoides,,,PACR18
+8051,showy cappel,Palicourea,guianensis,,,PAGU
+8054,chertochet,Pandanus,aimiriikensis,,,PAAI
+8055,matal,Pandanus,cominsii,,,PACO51
+8056,ongor,Pandanus,compressus,,,PACO3
+8057,silaue,Pandanus,cylindricus,,,PACY10
+8058,kienpel,Pandanus,dilatatus,,,PADI2
+8059,ongor,Pandanus,divergens,,,PADI29
+8060,pahong,Pandanus,dubius,,,PADU3
+8061,ongor,Pandanus,duriocarpus,,,PADU4
+8062,moak,Pandanus,enchabiensis,,,PAEN
+8063,hara,Pandanus,fischerianus,,,PAFI
+8064,aggag,Pandanus,fragrans,,,PAFR7
+8065,nenketak,Pandanus,hosinoi,,,PAHO6
+8066,pacheren,Pandanus,jaluitensis,,,PAJA3
+8067,buuk,Pandanus,kanehirae,,,PAKA2
+8068,siu,Pandanus,korrensis,,,PAKO2
+8069,lakatwa,Pandanus,lakatwa,,,PALA3
+8070,"erwan, jonmouia",Pandanus,laticanaliculatus,,,PALA4
+8071,"intekul, pasyure",Pandanus,macrocephalus,,,PAMA3
+8072,"ongor, ertochet",Pandanus,macrojeanneretia,,,PAMA32
+8073,menne,Pandanus,menne,,,PAME18
+8092,"lonlin, lajokorer",Pandanus,obliquus,,,PAOB7
+8075,Pandanus odontoides,Pandanus,odontoides,,,PAOD2
+8076,"ongor, ertochet",Pandanus,palawensis,,,PAPA38
+8077,peet,Pandanus,patina,,,PAPA39
+8078,ongor,Pandanus,peliliuensis,,,PAPE
+8079,"alwan, kipal, taip",Pandanus,ponapensis,,,PAPO2
+8080,"deipw, jomineia",Pandanus,pulposus,,,PAPU18
+8081,pathaplip,Pandanus,rectangulatus,,,PARE2
+8082,fasa,Pandanus,reineckei,,,PARE19
+8083,magojokojok,Pandanus,rotundatus,,,PARO2
+8084,screwpine,Pandanus,spp.,,,PANDA
+8085,Tahitian screwpine,Pandanus,tectorius,,,PATE2
+8086,kiparenwel,Pandanus,tolotomensis,,,PATO6
+8087,mojel,Pandanus,trukensis,,,PATR
+8088,common screwpine,Pandanus,utilis,,,PAUT
+8090,berrakelongor,Pandanus,variegatus,,,PAVA4
+8091,rauel,Pangium,edule,,,PAED4
+8099,scratchthroat,Parathesis,crenulata,,,PACR2
+8103,sea,Parinari,insularum,,,PAIN20
+8104,ais,Parinari,laurina,,,PALA5
+8105,Parinari,Parinari,spp.,,,PARIN
+8107,Parkia korom,Parkia,korom,,,PAKO5
+8108,kmekumer,Parkia,parvifoliola,,,PAPA2
+8106,parkia,Parkia,spp.,,,PARKI3
+8110,Parkia timoriana,Parkia,timoriana,,,PATI5
+8111,Jerusalem thorn,Parkinsonia,aculeata,,,PAAC3
+8112,paloverde,Parkinsonia,spp.,,,PARKI2
+8115,Texas paloverde,Parkinsonia,texana,,,PATE10
+8113,cuachilote,Parmentiera,aculeata,,,PAAC13
+8114,candle tree,Parmentiera,cereifera,,,PACE8
+712,"paulownia, empress-tree",Paulownia,tomentosa,,,PATO2
+8121,Peltophorum pterocarpum,Peltophorum,pterocarpum,,,PEPT3
+8123,ngis,Pemphis,acidula,,,PEAC6
+8125,butter tree,Pentadesma,butyracea,,,PEBU4
+8127,jiqi,Pera,bumeliifolia,,,PEBU2
+8129,Pericopsis mooniana,Pericopsis,mooniana,,,PEMO13
+8131,olomea,Perrottetia,sandwicensis,,,PESA3
+7211,avocado,Persea,americana,,,PEAM3
+721,redbay,Persea,borbonia,,,PEBO
+8134,canela,Persea,krugii,,,PEKR
+6511,swamp bay,Persea,palustris,,,PEPA37
+720,bay spp.,Persea,spp.,,,PERSE
+8138,aquacatillo,Persea,urbaniana,,,PEUR2
+8141,bastard stopper,Petitia,domingensis,,,PEDO
+8146,Phaleria nisidai,Phaleria,nisidai,,,PHNI11
+6516,Amur corktree,Phellodendron,amurense,,,PHAM2
+8143,aquilon prieto,Phialanthus,grandifolius,,,PHGR11
+8144,candlewood,Phialanthus,myrtilloides,,,PHMY
+8151,Canary Island date palm,Phoenix,canariensis,,,PHCA13
+8152,date palm,Phoenix,dactylifera,,,PHDA4
+8153,date palm,Phoenix,spp.,,,PHOEN2
+8154,date palm,Phoenix,sylvestris,,,PHSY3
+8155,Chinese  photinia,Photinia,davidiana,,,PHDA5
+8157,Tahitian gooseberry tree,Phyllanthus,acidus,,,PHAC3
+8159,pamakani mahu,Phyllanthus,distichus,,,PHDI10
+8160,gamo de costa,Phyllanthus,juglandifolius,,,PHJU2
+8162,Phyllanthus orbicularis,Phyllanthus,orbicularis,,,PHOR10
+91,Norway spruce,Picea,abies,,,PIAB
+92,Brewer spruce,Picea,breweriana,,,PIBR
+93,Engelmann spruce,Picea,engelmannii,,,PIEN
+94,white spruce,Picea,glauca,,,PIGL
+6533,Sakhalin spruce,Picea,glehnii,,,PIGL7
+95,black spruce,Picea,mariana,,,PIMA
+6538,Serbian spruce,Picea,omorika,,,PIOM2
+96,blue spruce,Picea,pungens,,,PIPU
+97,red spruce,Picea,rubens,,,PIRU
+98,Sitka spruce,Picea,sitchensis,,,PISI
+90,spruce spp.,Picea,spp.,,,PICEA
+8164,Florida bitterbush,Picramnia,pentandra,,,PIPE
+8167,bitterwood,Picrasma,excelsa,,,PIEX
+8169,fustic,Pictetia,aculeata,,,PIAC
+8171,aceitillo,Pilocarpus,racemosus,,,PIRA3
+8173,Royen's tree cactus,Pilosocereus,royenii,,,PIRO6
+8175,allspice,Pimenta,dioica,,,PIDI2
+8177,bayrumtree,Pimenta,racemosa,,,PIRA
+8178,bayrumtree,Pimenta,racemosa,grisea,,PIRAG
+8180,Pimenta,Pimenta,spp.,,,PIMEN
+8181,"chebouch, demailei",Pinanga,insignis,,,PIIN5
+101,whitebark pine,Pinus,albicaulis,,,PIAL
+102,Rocky Mountain bristlecone pine,Pinus,aristata,,,PIAR
+135,Arizona pine,Pinus,arizonica,,,PIAR5
+103,knobcone pine,Pinus,attenuata,,,PIAT
+104,foxtail pine,Pinus,balfouriana,,,PIBA
+105,jack pine,Pinus,banksiana,,,PIBA2
+8183,Caribbean pine,Pinus,caribaea,,,PICA18
+140,Mexican pinyon pine,Pinus,cembroides,,,PICE
+107,sand pine,Pinus,clausa,,,PICL
+108,lodgepole pine,Pinus,contorta,,,PICO
+109,Coulter pine,Pinus,coulteri,,,PICO3
+8189,Japanese red pine,Pinus,densiflora,,,PIDE5
+134,border pinyon,Pinus,discolor,,,PIDI3
+110,shortleaf pine,Pinus,echinata,,,PIEC2
+106,common or two-needle pinyon,Pinus,edulis,,,PIED
+111,slash pine,Pinus,elliottii,,,PIEL
+144,Honduras pine,Pinus,elliottii,elliottii,,PIELE2
+112,Apache pine,Pinus,engelmannii,,,PIEN2
+113,limber pine,Pinus,flexilis,,,PIFL2
+115,spruce pine,Pinus,glabra,,,PIGL2
+116,Jeffrey pine,Pinus,jeffreyi,,,PIJE
+117,sugar pine,Pinus,lambertiana,,,PILA
+118,Chihuahuan pine,Pinus,leiophylla,,,PILE
+142,Great Basin bristlecone pine,Pinus,longaeva,,,PILO
+8184,Chinese red pine,Pinus,massoniana,,,PIMA11
+8185,Merkus pine,Pinus,merkusii,,,PIME2
+133,singleleaf pinyon,Pinus,monophylla,,,PIMO
+143,Arizona pinyon pine,Pinus,monophylla,fallax,,PIMOF
+119,western white pine,Pinus,monticola,,,PIMO3
+120,bishop pine,Pinus,muricata,,,PIMU
+136,Austrian pine,Pinus,nigra,,,PINI
+8186,ocote chino,Pinus,oocarpa,,,PIOO2
+121,longleaf pine,Pinus,palustris,,,PIPA2
+8197,five-needle pine,Pinus,parviflora,,,PIPA12
+8187,Mexican weeping pine,Pinus,patula,,,PIPA13
+8188,maritime pine,Pinus,pinaster,,,PIPI6
+122,ponderosa pine,Pinus,ponderosa,,,PIPO
+123,Table Mountain pine,Pinus,pungens,,,PIPU5
+138,four-leaf or Parry pinyon pine,Pinus,quadrifolia,,,PIQU
+124,Monterey pine,Pinus,radiata,,,PIRA2
+141,Papershell pinyon pine,Pinus,remota,,,PIRE5
+125,red pine,Pinus,resinosa,,,PIRE
+126,pitch pine,Pinus,rigida,,,PIRI
+127,gray or California foothill pine,Pinus,sabiniana,,,PISA2
+128,pond pine,Pinus,serotina,,,PISE
+100,pine spp.,Pinus,spp.,,,PINUS
+114,southwestern white pine,Pinus,strobiformis,,,PIST3
+129,eastern white pine,Pinus,strobus,,,PIST
+130,Scotch pine,Pinus,sylvestris,,,PISY
+131,loblolly pine,Pinus,taeda,,,PITA
+8198,Japansese Black pine,Pinus,thunbergii,,,PITH2
+139,Torrey pine,Pinus,torreyana,,,PITO
+132,Virginia pine,Pinus,virginiana,,,PIVI2
+137,Washoe pine,Pinus,washoensis,,,PIWA
+8190,higuillo de hoja menuda,Piper,aduncum,,,PIAD
+8191,higuillo de limon,Piper,amalago,,,PIAM2
+8192,moth pepper,Piper,blattarum,,,PIBL
+8193,Guyanese pepper,Piper,glabrescens,,,PIGL3
+8194,Jamaican pepper,Piper,hispidum,,,PIHI2
+8195,Caracas pepper,Piper,jacquemontianum,,,PIJA
+8196,marigold pepper,Piper,marginatum,,,PIMA4
+8199,spanish elder,Piper,swartzianum,,,PISW
+8205,Waimea pipturus,Pipturus,albidus,,,PIAL2
+8206,soga,Pipturus,argenteus,,,PIAR8
+8207,pipturus,Pipturus,spp.,,,PIPTU
+8208,stinkwood,Piscidia,carthagenensis,,,PICA5
+887,fishpoison tree,Piscidia,piscipula,,,PIPI3
+8210,piscidia,Piscidia,spp.,,,PISCI
+8211,corcho bobo,Pisonia,albida,,,PIAL3
+8212,Australasian catchbirdtree,Pisonia,brunoniana,,,PIBR3
+8213,grand devils-claws,Pisonia,grandis,,,PIGR6
+8214,aulu,Pisonia,sandwicensis,,,PISA5
+8215,catchbirdtree,Pisonia,spp.,,,PISON
+8216,water mampoo,Pisonia,subcordata,,,PISU
+8217,umbrella catchbirdtree,Pisonia,umbellifera,,,PIUM2
+8218,Kauai catchbirdtree,Pisonia,wagneriana,,,PIWA2
+8219,Chinese pistache,Pistacia,chinensis,,,PICH4
+8220,monkeypod,Pithecellobium,dulce,,,PIDU
+8223,catclaw blackbead,Pithecellobium,unguis-cati,,,PIUN
+8226,Hawaii poisonberry tree,Pittosporum,argentifolium,,,PIAR4
+8227,hoawa,Pittosporum,confertiflorum,,,PICO4
+8225,kamal,Pittosporum,ferrugineum,,,PIFE3
+8228,Waianae Range cheesewood,Pittosporum,flocculosum,,,PIFL4
+8229,Waialeale cheesewood,Pittosporum,gayanum,,,PIGA2
+8230,Koolau Range cheesewood,Pittosporum,glabrum,,,PIGL4
+8231,hoawa,Pittosporum,halophilum,,,PIHA3
+8232,Hawaii cheesewood,Pittosporum,hawaiiense,,,PIHA4
+8233,Kona cheesewood,Pittosporum,hosmeri,,,PIHO
+8234,Kauai cheesewood,Pittosporum,kauaiense,,,PIKA3
+8224,"Mona cheesewood, Pittosporum",Pittosporum,monae,,,PIMO4
+8235,royal cheesewood,Pittosporum,napaliense,,,PINA
+8236,Taiwanese cheesewood,Pittosporum,pentandrum,,,PIPE8
+8238,cheesewood,Pittosporum,spp.,,,PITTO
+8239,cream cheesewood,Pittosporum,terminalioides,,,PITE5
+8240,Australian cheesewood,Pittosporum,undulatum,,,PIUN2
+8241,cape cheesewood,Pittosporum,viridiflorum,,,PIVI5
+8242,alaa,Planchonella,garberi,,,PLGA2
+8243,alaa,Planchonella,grayana,,,PLGR11
+8244,alaa,Planchonella,linggensis,,,PLLI6
+8246,mamalava,Planchonella,samoensis,,,PLSA9
+8247,Planchonella,Planchonella,spp.,,,PLANC
+8248,mamalava,Planchonella,torricellensis,,,PLTO2
+722,"water-elm, planertree",Planera,aquatica,,,PLAQ
+8253,London planetree,Platanus,hybrida,,,PLHY3
+8256,Mexican sycamore,Platanus,mexicana,,,PLME9
+731,American sycamore,Platanus,occidentalis,,,PLOC
+8254,Oriental planetree,Platanus,orientalis,,,PLOR6
+730,California sycamore,Platanus,racemosa,,,PLRA
+729,sycamore spp.,Platanus,spp.,,,PLATA
+732,Arizona sycamore,Platanus,wrightii,,,PLWR2
+8249,Oriental arborvitae,Platycladus,orientalis,,,PLOR80
+8250,Hawaii pilo kea,Platydesma,remyi,,,PLRE4
+8251,Maui pilo kea,Platydesma,spathulata,,,PLSP3
+8252,platydesma,Platydesma,spp.,,,PLATY
+8255,chupa gallo,Pleodendron,macranthum,,,PLMA6
+8257,golden hala pepe,Pleomele,aurea,,,PLAU2
+8258,Maui hala pepe,Pleomele,auwahiensis,,,PLAU5
+8259,Lanai hala pepe,Pleomele,fernaldii,,,PLFE
+8260,Waianae Range hala pepe,Pleomele,forbesii,,,PLFO2
+8261,royal hala pepe,Pleomele,halapepe,,,PLHA3
+8262,Hawaii hala pepe,Pleomele,hawaiiensis,,,PLHA4
+8263,hala pepe,Pleomele,spp.,,,PLEOM
+8266,nosegaytree,Plumeria,alba,,,PLAL
+8268,Singapore graveyard flower,Plumeria,obtusa,,,PLOB2
+8269,Plumeria obtusa,Plumeria,obtusa,obtusa,,PLOBO
+8271,templetree,Plumeria,rubra,,,PLRU2
+8272,Plumeria,Plumeria,spp.,,,PLUME
+8273,yucca plum pine,Podocarpus,coriaceus,,,POCO3
+8274,yew plum pine,Podocarpus,macrophyllus,,,POMA32
+8275,Poitea florida,Poitea,florida,,,POFL20
+8276,Poitea punicea,Poitea,punicea,,,POPU19
+8279,violet tree,Polygala,cowellii,,,POCO5
+8280,crevajosa,Polygala,penaea,,,POPE13
+8283,bungaruau,Polyscias,grandifolia,,,POGR28
+8284,geranium aralia,Polyscias,guilfoylei,,,POGU
+8285,Polyscias macgillivrayi,Polyscias,macgillivrayi,,,POMA
+8286,bngei,Polyscias,nodosa,,,PONO10
+8287,tagitagi,Polyscias,samoensis,,,POSA27
+8288,shield aralia,Polyscias,scutellaria,,,POSC10
+8289,Polyscias,Polyscias,spp.,,,POLYS4
+8290,tava,Pometia,pinnata,,,POPI12
+8292,kattai,Ponapea,hosinoi,,,POHO
+8293,Ponapea ledermanniana,Ponapea,ledermanniana,,,POLE21
+8294,Ponapea,Ponapea,spp.,,,PONAP
+8296,hardy orange,Poncirus,trifoliata,,,POTR4
+8295,kisaks,Pongamia,pinnata,,,POPI4
+752,silver poplar,Populus,alba,,,POAL7
+749,narrowleaf cottonwood,Populus,angustifolia,,,POAN3
+741,balsam poplar,Populus,balsamifera,,,POBA2
+747,black cottonwood,Populus,balsamifera,,trichocarpa,POBAT
+742,eastern cottonwood,Populus,deltoides,,,PODE3
+745,plains cottonwood,Populus,deltoides,,monilifera,PODEM
+748,Fremont cottonwood,Populus,fremontii,,,POFR2
+743,bigtooth aspen,Populus,grandidentata,,,POGR4
+744,swamp cottonwood,Populus,heterophylla,,,POHE4
+753,Lombardy poplar,Populus,nigra,,,PONI
+740,cottonwood and poplar spp.,Populus,spp.,,,POPUL
+746,quaking aspen,Populus,tremuloides,,,POTR5
+8313,Carolina poplar,Populus,x canadensis,,,POCA19
+8314,gray poplar,Populus,x canescens,,,POCA14
+8297,Abiu,Pouteria,caimito,,,POCA43
+8298,"elangel, chelangel",Pouteria,calcarea,,,POCA6
+8299,eggfruit,Pouteria,campechiana,,,POCA23
+8300,cocuyo,Pouteria,dictyoneura,,,PODI5
+8301,redmammee,Pouteria,hotteana,,,POHO4
+8302,bullytree,Pouteria,multiflora,,,POMU6
+8303,lalahag,Pouteria,obovata,,,POOB8
+8304,alaa,Pouteria,sandwicensis,,,POSA11
+8305,mammee sapote,Pouteria,sapota,,,POSA13
+8306,pouteria,Pouteria,spp.,,,POUTE
+8307,ahgao,Premna,obtusifolia,,,PROB
+8308,Premna pubescens,Premna,pubescens,,,PRPU5
+8309,aloalo,Premna,serratifolia,,,PRSE6
+8310,Premna,Premna,spp.,,,PREMN
+8311,Prestoea acuminata,Prestoea,acuminata,,,PRACM
+8315,Hawaii pritchardia,Pritchardia,affinis,,,PRAF
+8316,Maui pritchardia,Pritchardia,arecina,,,PRAR2
+8317,Kilauea pritchardia,Pritchardia,beccariana,,,PRBE
+8318,Mt. Eke pritchardia,Pritchardia,forbesiana,,,PRFO
+8319,Makaleha pritchardia,Pritchardia,hardyi,,,PRHA2
+8320,loulu lelo,Pritchardia,hillebrandii,,,PRHI
+8321,Waianae Range pritchardia,Pritchardia,kaalae,,,PRKA
+8322,Lanai pritchardia,Pritchardia,lanaiensis,,,PRLA3
+8323,loulu,Pritchardia,lanigera,,,PRLA4
+8324,Limahuli Valley pritchardia,Pritchardia,limahuliensis,,,PRLI2
+8325,Molokai pritchardia,Pritchardia,lowreyana,,,PRLO2
+8326,Koolau Range pritchardia,Pritchardia,martii,,,PRMA5
+8327,Alakai Swamp pritchardia,Pritchardia,minor,,,PRMI3
+8328,Kamalo pritchardia,Pritchardia,munroi,,,PRMU3
+8329,fan palm,Pritchardia,pacifica,,,PRPA11
+8330,Waioli Valley pritchardia,Pritchardia,perlmanii,,,PRPE7
+8331,Nihoa pritchardia,Pritchardia,remota,,,PRRE
+8336,lands of papa pritchardia,Pritchardia,schattaueri,,,PRSC
+8337,pritchardia,Pritchardia,spp.,,,PRITC
+8338,stickybud pritchardia,Pritchardia,viscosa,,,PRVI2
+8339,poleline pritchardia,Pritchardia,waialealeana,,,PRWA
+8340,guasimilla,Prockia,crucis,,,PRCR2
+8341,fua lole,Procris,pedunculata,,,PRPE6
+8342,jand,Prosopis,cineraria,,,PRCI4
+756,honey mesquite,Prosopis,glandulosa,,,PRGL2
+8343,mesquite,Prosopis,juliflora,,,PRJU
+8344,kiawe,Prosopis,pallida,,,PRPA4
+758,screwbean mesquite,Prosopis,pubescens,,,PRPU
+755,mesquite spp.,Prosopis,spp.,,,PROSO
+757,velvet mesquite,Prosopis,velutina,,,PRVE
+769,Allegheny plum,Prunus,alleghaniensis,,,PRAL5
+766,American plum,Prunus,americana,,,PRAM
+770,Chickasaw plum,Prunus,angustifolia,,,PRAN3
+771,"sweet cherry, domesticated",Prunus,avium,,,PRAV
+8348,cherry plum,Prunus,cerasifera,,,PRCE2
+772,"sour cherry, domesticated",Prunus,cerasus,,,PRCE
+773,"European plum, domesticated",Prunus,domestica,,,PRDO
+768,bitter cherry,Prunus,emarginata,,,PREM
+6696,cherry laurel,Prunus,laurocerasus,,,PRLA5
+774,"Mahaleb cherry, domesticated",Prunus,mahaleb,,,PRMA
+8346,West Indian cherry,Prunus,myrtifolia,,,PRMY
+765,Canada plum,Prunus,nigra,,,PRNI
+8347,western cherry laurel,Prunus,occidentalis,,,PROC
+761,pin cherry,Prunus,pensylvanica,,,PRPE2
+764,peach,Prunus,persica,,,PRPE3
+8349,Prunus serotina,Prunus,serotina,,capuli,PRSEC
+762,black cherry,Prunus,serotina,,,PRSE2
+6707,Japanese flowering cherry,Prunus,serrulata,,,PRSE3
+760,cherry and plum spp.,Prunus,spp.,,,PRUNU
+763,chokecherry,Prunus,virginiana,,,PRVI
+8357,Yoshino flowering cherry,Prunus,x yedoensis,,,PRYE
+8352,false breadnut,Pseudolmedia,spuria,,,PSSP2
+8353,Florida cherry palm,Pseudophoenix,sargentii,,,PSSA
+201,bigcone Douglas-fir,Pseudotsuga,macrocarpa,,,PSMA
+202,Douglas-fir,Pseudotsuga,menziesii,,,PSME
+200,Douglas-fir spp.,Pseudotsuga,spp.,,,PSEUD7
+8354,mountain guava,Psidium,amplexicaule,,,PSAM
+8355,strawberry guava,Psidium,cattleianum,,,PSCA
+8356,guava,Psidium,guajava,,,PSGU
+8358,Psidium longipes,Psidium,longipes,,,PSLOO
+8359,Sintenis' guava,Psidium,sintenisii,,,PSSI2
+8361,cachimbo-cumun,Psychotria,berteriana,,,PSBE
+8362,palo de cachimbo,Psychotria,brachiata,,,PSBR2
+8363,Browne's wild coffee,Psychotria,brownei,,,PSBR3
+8368,chimei,Psychotria,carolinensis,,,PSCA18
+8413,Psychotria cheathamiana,Psychotria,cheathamiana,,,PSCH4
+8364,Psychotria domingensis,Psychotria,domingensis,,,PSDO2
+8365,Koolau Range wild coffee,Psychotria,fauriei,,,PSFA
+8366,largeflower wild coffee,Psychotria,grandiflora,,,PSGR
+8367,cachimbo grande,Psychotria,grandis,,,PSGR2
+8369,Kauai wild coffee,Psychotria,greenwelliae,,,PSGR3
+8370,Waianae Range wild coffee,Psychotria,hathewayi,,,PSHA2
+8373,kopikoula,Psychotria,hawaiiensis,,,PSHA3
+8377,woodland wild coffee,Psychotria,hexandra,,,PSHE2
+8382,Oahu wild coffee,Psychotria,hexandra,,oahuensis,PSHEO
+8386,milolii kopiwai,Psychotria,hobdyi,,,PSHO
+8387,matalafi,Psychotria,insularum,,,PSIN10
+8388,kopiko kea,Psychotria,kaduana,,,PSKA
+8389,cachimbo de gato,Psychotria,maleolens,,,PSMA4
+8390,aplohkateng,Psychotria,mariana,,,PSYMAR
+8391,cachimbo de maricao,Psychotria,maricaensis,,,PSMA5
+8392,forest wild coffee,Psychotria,mariniana,,,PSMA6
+8393,opiko,Psychotria,mauiensis,,,PSMA7
+8394,thicket wild coffee,Psychotria,microdon,,,PSMI
+8395,floating balsamo,Psychotria,nutans,,,PSNU2
+8397,hairy wild coffee,Psychotria,pubescens,,,PSPU
+8398,Psychotria rhombocarpa,Psychotria,rhombocarpa,,,PSRH2
+8399,Psychotria rotensis,Psychotria,rotensis,,,PSRO2
+8400,wild coffee,Psychotria,spp.,,,PSYCH
+8401,leatherleaf wild coffee,Psychotria,wawrae,,,PSWA2
+6381,Olasina,Psydrax,merrillii,,,CAME35
+8402,alahee,Psydrax,odorata,,,PSOD
+8403,common hoptree,Ptelea,trifoliata,,,PTTR
+8404,Kauai pteralyxia,Pteralyxia,kauaiensis,,,PTKA
+8405,ridged pteralyxia,Pteralyxia,macrocarpa,,,PTMA
+8406,pteralyxia,Pteralyxia,spp.,,,PTERA
+8407,pterocarpus,Pterocarpus,indicus,,,PTIN2
+8408,Burma padauk,Pterocarpus,macrocarpus,,,PTMA7
+8409,Malabar kino,Pterocarpus,marsupium,,,PTMA3
+8410,dragonsblood tree,Pterocarpus,officinalis,,,PTOF
+8411,Chinese wingnut,Pterocarya,stenoptera,,,PTST80
+8412,Ptychococcus ledermannianus,Ptychococcus,ledermannianus,,,PTLE3
+8415,Macarthur feather palm,Ptychosperma,macarthuri,,,PTMA8
+8416,chesdbuuch,Ptychosperma,palauense,,,PTPA
+8418,Ptychosperma,Ptychosperma,spp.,,,PTYCH4
+8419,pomegranate,Punica,granatum,,,PUGR2
+6759,Stansbury cliffrose,Purshia,stansburiana,,,PUST
+8421,Callery pear,Pyrus,calleryana,,,PYCA80
+8423,common pear,Pyrus,communis,,,PYCO
+8426,Chinese pear,Pyrus,pyrifolia,,,PYPY2
+8420,pear,Pyrus,Spp.,,,PYRUS
+8422,swizzlestick tree,Quararibea,turbinata,,,QUTU
+8427,sawtooth oak,Quercus,acutissima,,,QUAC80
+801,California live oak,Quercus,agrifolia,,,QUAG
+802,white oak,Quercus,alba,,,QUAL
+803,Arizona white oak,Quercus,arizonica,,,QUAR
+6768,Arkansas oak,Quercus,arkansana,,,QUAR2
+8429,bastard white oak,Quercus,austrina,,,QUAU
+804,swamp white oak,Quercus,bicolor,,,QUBI
+8513,Buckley oak,Quercus,buckleyi,,,QUBU2
+8437,European turkey oak,Quercus,cerris,,,QUCE
+805,canyon live oak,Quercus,chrysolepis,,,QUCH2
+806,scarlet oak,Quercus,coccinea,,,QUCO2
+807,blue oak,Quercus,douglasii,,,QUDO
+809,northern pin oak,Quercus,ellipsoidalis,,,QUEL
+810,Emory oak,Quercus,emoryi,,,QUEM
+811,Engelmann oak,Quercus,engelmannii,,,QUEN
+812,southern red oak,Quercus,falcata,,,QUFA
+8438,Texas live oak,Quercus,fusiformis,,,QUFU
+814,Gambel oak,Quercus,gambelii,,,QUGA
+815,Oregon white oak,Quercus,garryana,,,QUGA4
+8441,sand live oak,Quercus,geminata,,,QUGE2
+6782,Georgia oak,Quercus,georgiana,,,QUGE
+851,Chisos oak,Quercus,graciliformis,,,QUGR
+8511,Graves oak,Quercus,gravesii,,,QUGR2
+846,gray oak,Quercus,grisea,,,QUGR3
+6785,Havard oak,Quercus,havardii,,,QUHA3
+8449,Darlington oak,Quercus,hemisphaerica,,,QUHE2
+843,silverleaf oak,Quercus,hypoleucoides,,,QUHY
+8450,holly oak,Quercus,ilex,,,QUIL2
+816,scrub oak,Quercus,ilicifolia,,,QUIL
+817,shingle oak,Quercus,imbricaria,,,QUIM
+842,bluejack oak,Quercus,incana,,,QUIN
+818,California black oak,Quercus,kelloggii,,,QUKE
+8514,Lacey oak,Quercus,laceyi,,,QULA
+819,turkey oak,Quercus,laevis,,,QULA2
+820,laurel oak,Quercus,laurifolia,,,QULA3
+821,California white oak,Quercus,lobata,,,QULO
+822,overcup oak,Quercus,lyrata,,,QULY
+823,bur oak,Quercus,macrocarpa,,,QUMA2
+840,dwarf post oak,Quercus,margarettiae,,,QUMA6
+824,blackjack oak,Quercus,marilandica,,,QUMA3
+825,swamp chestnut oak,Quercus,michauxii,,,QUMI
+841,dwarf live oak,Quercus,minima,,,QUMI2
+826,chinkapin oak,Quercus,muehlenbergii,,,QUMU
+6791,myrtle oak,Quercus,myrtifolia,,,QUMY
+827,water oak,Quercus,nigra,,,QUNI
+829,Mexican blue oak,Quercus,oblongifolia,,,QUOB
+844,Oglethorpe oak,Quercus,oglethorpensis,,,QUOG
+813,cherrybark oak,Quercus,pagoda,,,QUPA5
+830,pin oak,Quercus,palustris,,,QUPA2
+6794,durmast oak,Quercus,petraea,,,QUPE2
+831,willow oak,Quercus,phellos,,,QUPH
+8512,Mexican white oak,Quercus,polymorpha,,,QUPO2
+845,dwarf chinkapin oak,Quercus,prinoides,,,QUPR
+832,chestnut oak,Quercus,prinus,,,QUPR2
+8453,pungent oak,Quercus,pungens,,,QUPU
+6797,English oak,Quercus,robur,,,QURO2
+8492,robust oak,Quercus,robusta,,,QURO3
+833,northern red oak,Quercus,rubra,,,QURU
+847,netleaf oak,Quercus,rugosa,,,QURU4
+834,Shumard oak,Quercus,shumardii,,,QUSH
+836,Delta post oak,Quercus,similis,,,QUSI2
+8487,bastard oak,Quercus,sinuata,breviloba,,QUSIB
+808,Durand oak,Quercus,sinuata,sinuata,,QUSIS
+6799,bastard oak,Quercus,sinuata,,,QUSI
+800,oak spp.,Quercus,spp.,,,QUERC
+835,post oak,Quercus,stellata,,,QUST
+8424,cork oak,Quercus,suber,,,QUSU5
+8455,lateleaf oak,Quercus,tardifolia,,,QUTA
+828,Texas red oak,Quercus,texana,,,QUTE
+8457,Toumey oak,Quercus,toumeyi,,,QUTO2
+8459,Sonoran scrub oak,Quercus,turbinella,,,QUTU2
+8461,sandpaper oak,Quercus,vaseyana,,,QUVA5
+837,black oak,Quercus,velutina,,,QUVE
+838,live oak,Quercus,virginiana,,,QUVI
+839,interior live oak,Quercus,wislizeni,,,QUWI2
+8425,white indigoberry,Randia,aculeata,,,RAAC
+8430,togo vao,Rapanea,myricifolia,,,RAMY
+8432,omechidel,Rauvolfia,insularis,,,RAIN8
+8433,palo amargo,Rauvolfia,nitida,,,RANI2
+8434,devils-pepper,Rauvolfia,sandwicensis,,,RASA3
+8435,devils-pepper,Rauvolfia,spp.,,,RAUVO
+8431,poison devils-pepper,Rauvolfia,vomitoria,,,RAVO
+8436,traveler's tree,Ravenala,madagascariensis,,,RAMA7
+8439,tortugo prieto,Ravenia,urbanii,,,RAUR
+8440,vi vao,Reynoldsia,lanutoensis,,,RELA
+8442,ohe makai,Reynoldsia,sandwicensis,,,RESA
+8443,reynoldsia,Reynoldsia,spp.,,,REYNO
+8444,guama,Reynosia,guama,,,REGU
+8445,Krug's darlingplum,Reynosia,krugii,,,REKR
+8447,sloe,Reynosia,uncinata,,,REUN
+6918,common buckthorn,Rhamnus,cathartica,,,RHCA3
+8456,Rheeda,Rheedia,edulis,,,RHED4
+8458,mangle,Rhizophora,apiculata,,,RHAP2
+8460,Rhizophora lamarckii,Rhizophora,lamarckii,,,RHLA12
+989,American mangrove,Rhizophora,mangle,,,RHMA2
+8462,mangle hembra,Rhizophora,mucronata,,,RHMU
+8463,mangrove,Rhizophora,spp.,,,RHIZO
+8464,Rhizophora stylosa,Rhizophora,stylosa,,,RHST8
+8471,Catawba rosebay,Rhododendron,catawbiense,,,RHCA8
+8465,rose myrtle,Rhodomyrtus,spp.,,,RHODO2
+8466,Rhodomyrtus tomentosus,Rhodomyrtus,tomentosa,,,RHTO10
+8475,winged sumac,Rhus,copallinum,,,RHCO
+8477,smooth sumac,Rhus,glabra,,,RHGL
+8479,prairie sumac,Rhus,lanceolata,,,RHLA3
+8467,neneleau,Rhus,sandwicensis,,,RHSA2
+8468,sumac,Rhus,spp.,,,RHUS
+8469,tavai,Rhus,taitensis,,,RHTA
+6924,staghorn sumac,Rhus,typhina,,,RHTY
+8472,castorbean,Ricinus,communis,,,RICO3
+8473,ricinus,Ricinus,spp.,,,RICIN
+8474,Rinorea carolinensis,Rinorea,carolinensis,,,RICA16
+8486,bristly locust,Robinia,hispida,,,ROHI
+902,New Mexico locust,Robinia,neomexicana,,,RONE
+901,black locust,Robinia,pseudoacacia,,,ROPS
+8476,greenheart ebony,Rochefortia,acanthophora,,,ROAC2
+8478,Rochefortia spinosa,Rochefortia,spinosa,,,ROSP8
+8480,Rollinia,Rollinia,deliciosa,,,RODE5
+8481,wild sugar apple,Rollinia,mucosa,,,ROMU3
+8483,cordobancillo,Rondeletia,inermis,,,ROIN4
+8484,cordobancillo peludo,Rondeletia,pilosa,,,ROPI3
+8485,Juan Tomas,Rondeletia,portoricensis,,,ROPO
+8489,Puerto Rico royal palm,Roystonea,borinquena,,,ROBO
+8490,Roystonea elata,Roystonea,elata,,,ROEL
+8491,royal palm,Roystonea,oleracea,,,ROOL
+909,royal palm spp.,Roystonea,spp.,,,ROYST
+8494,Puerto Rico palmetto,Sabal,causiarum,,,SACA
+911,Mexican palmetto,Sabal,mexicana,,,SAME8
+8495,dwarf palmetto,Sabal,minor,,,SAMI8
+912,cabbage palmetto,Sabal,palmetto,,,SAPA
+8499,white hogwood,Sagraea,umbrosa,,,SAUM3
+927,white willow,Salix,alba,,,SAAL2
+921,peachleaf willow,Salix,amygdaloides,,,SAAM2
+923,Bebb willow,Salix,bebbiana,,,SABE2
+924,Bonpland willow,Salix,bonplandiana,,,SABO
+925,coastal plain willow,Salix,caroliniana,,,SACA5
+8502,pussy willow,Salix,discolor,,,SADI
+6954,Elaeagnus willow,Salix,elaeagnos,,,SAEL
+6959,Geyer willow,Salix,geyeriana,,,SAGE2
+8508,Goodding's willow,Salix,gooddingii,,,SAGO
+8501,Salix humboldtiana,Salix,humboldtiana,,,SAHU
+6963,red willow,Salix,laevigata,,,SALA3
+8519,yellow willow,Salix,lutea,,,SALU2
+6967,corkscrew willow,Salix,matsudana,,,SAMA13
+922,black willow,Salix,nigra,,,SANI
+8523,diamondleaf willow,Salix,planifolia,,,SAPL2
+926,balsam willow,Salix,pyrifolia,,,SAPY
+928,Scouler's willow,Salix,scouleriana,,,SASC
+929,weeping willow,Salix,sepulcralis,,,SASE10
+8524,silky willow,Salix,sericea,,,SASE
+920,willow spp.,Salix,spp.,,,SALIX
+8503,"etkeam, cheskeam",Samadera,indica,,,SAIN13
+8505,raintree,Samanea,saman,,,SASA10
+8506,raintree,Samanea,spp.,,,SAMAN
+8527,European black elderberry,Sambucus,nigra,,nigra,SANIN2
+8509,common elderberry,Sambucus,nigra,,,SANIC4
+6991,red elderberry,Sambucus,racemosa,,,SARA2
+8510,raintree,Sambucus,spp.,,,SAMBU
+8556,guayabilla,Samyda,dodecandra,,,SADO7
+8515,"santol, kechapi",Sandoricum,koetjape,,,SAKO4
+8518,sandalwood,Santalum,album,,,SAAL16
+8516,coastal sandalwood,Santalum,ellipticum,,,SAEL2
+8517,forest sandalwood,Santalum,freycinetianum,,,SAFR4
+8521,Haleakala sandalwood,Santalum,haleakalae,,,SAHA3
+8522,mountain sandalwood,Santalum,paniculatum,,,SAPA7
+8525,willowleaf sandalwood,Santalum,salicifolium,,,SASA8
+8526,sandalwood,Santalum,spp.,,,SANTA
+8528,lonomea,Sapindus,oahuense,,,SAOA3
+8529,wingleaf soapberry,Sapindus,saponaria,,,SASA4
+919,western soapberry,Sapindus,saponaria,drummondii,,SASAD
+8531,soapberry,Sapindus,spp.,,,SAPIN
+8532,vitiensis,Sapindus,vitiensis,,,SAVI17
+8533,gumtree,Sapium,glandulosum,,,SAGL5
+8534,maskerekur,Sapium,indicum,,,SAIN2
+8535,hinchahuevos,Sapium,laurifolium,,,SALA25
+8536,milktree,Sapium,laurocerasus,,,SALA8
+8544,uunu,Sarcopygme,pacifica,,,SAPA35
+931,sassafras,Sassafras,albidum,,,SAAL5
+8546,amansa guapo,Savia,sessiliflora,,,SASE6
+8548,"Scaevola, naupaka",Scaevola,cerasifolia,,,SCCE3
+8549,naupaka kuahiwi,Scaevola,chamissoniana,,,SCCH3
+8550,mountain naupaka,Scaevola,gaudichaudiana,,,SCGA2
+8551,forest naupaka,Scaevola,procera,,,SCPR
+8552,naupaka,Scaevola,spp.,,,SCAEV
+8560,Toitoi,Scaevola,taccada,,,SCTA
+8554,Florida boxwood,Schaefferia,frutescens,,,SCFR
+8555,schaefferia,Schaefferia,spp.,,,SCHAE
+888,"octopus tree, schefflera",Schefflera,actinophylla,,,SCAC2
+8557,yuquilla,Schefflera,gleasonii,,,SCGL6
+8558,matchwood,Schefflera,morototonii,,,SCMO10
+8559,samoensis,Schefflera,samoensis,,,SCSA10
+8561,Peruvian peppertree,Schinus,molle,,,SCMO
+8563,Brazilian peppertree,Schinus,terebinthifolius,,,SCTE
+8565,Brazilian firetree,Schizolobium,parahybum,,,SCPA23
+8567,lac tree,Schleichera,oleosa,,,SCOL3
+8571,arana,Schoepfia,arenaria,,,SCAR2
+8572,white beefwood,Schoepfia,obovata,,,SCOB
+8573,gulf graytwig,Schoepfia,schreberi,,,SCSC3
+8577,kuat,Scyphiphora,hydrophyllacea,,,SCHY5
+8583,poumuli,Securinega,flexuosa,,,SEFL9
+8585,poison tree,Semecarpus,kraemeri,,,SEKR3
+8586,tonget,Semecarpus,venenosa,,,SEVE4
+8588,emperor's candlesticks,Senna,alata,,,SEAL4
+8589,flor de San Jose,Senna,atomaria,,,SEAT3
+7023,Argentine senna,Senna,corymbosa,,,SECO9
+8590,Gaudichauds senna,Senna,gaudichaudii,,,SEGA2
+8591,false sicklepod,Senna,multijuga,,,SEMU5
+8592,valamuerto,Senna,pendula,,,SEPE4
+8594,retama prieta,Senna,polyphylla,,,SEPO5
+8595,senna,Senna,septemtrionalis,,,SESE13
+8596,Siamese cassia,Senna,siamea,,,SESI3
+8597,casia amarilla,Senna,spectabilis,,,SESP9
+8598,senna,Senna,spp.,,,SENNA
+8599,Senna sulfurea,Senna,sulfurea,,,SESU10
+8600,glossy shower,Senna,surattensis,,,SESU4
+211,redwood,Sequoia,sempervirens,,,SESE3
+212,giant sequoia,Sequoiadendron,giganteum,,,SEGI2
+8601,ukall,Serianthes,kanehirae,,,SEKA2
+8603,"hayun lago, trongkon guafi",Serianthes,nelsonii,,,SENE9
+8605,vegetable hummingbird,Sesbania,grandiflora,,,SEGR5
+8606,Egyptian riverhemp,Sesbania,sesban,,,SESE8
+8607,riverhemp,Sesbania,spp.,,,SESBA
+8608,Shirakiopsis indica,Shirakiopsis,indica,,,SHIN
+8609,yellow llima,Sida,fallax,,,SIFA
+8610,fanpetals,Sida,spp.,,,SIDA
+8612,saffron plum,Sideroxylon,celastrinum,,,SICE2
+8611,espejuelo,Sideroxylon,cubense,,,SICU7
+890,false mastic,Sideroxylon,foetidissimum,,,SIFO
+8618,Tamaulipan Coma,Sideroxylon,laetevirens,,,SILA4
+381,"chittamwood, gum bumelia",Sideroxylon,lanuginosum,,lanuginosum,SILAL3
+8615,buckthorn bully,Sideroxylon,lycioides,,,SILY
+8613,breakbill,Sideroxylon,obovatum,,,SIOB
+8614,Puerto Rico bully,Sideroxylon,portoricense,,,SIPO3
+891,"white bully, willow bustic",Sideroxylon,salicifolium,,,SISA6
+8616,tough bully,Sideroxylon,tenax,,,SITE2
+895,paradisetree,Simarouba,glauca,,,SIGL3
+8617,simarouba,Simarouba,spp.,,,SIMAR
+8619,aceitillo falso,Simarouba,tulae,,,SITU
+8620,hoja menuda,Siphoneugena,densiflora,,,SIDE6
+8623,motillo,Sloanea,amygdalina,,,SLAM
+8624,bullwood,Sloanea,berteriana,,,SLBE
+8622,bullwood,Sloanea,spp.,,,SLOAN
+8628,American black nightshade,Solanum,americanum,,,SOAM
+8626,Solanum bahamense,Solanum,bahamense,,,SOBAB
+8627,mullein nightshade,Solanum,donianum,,,SODO3
+8629,potatotree,Solanum,erianthum,,,SOER2
+8631,earleaf nightshade,Solanum,mauritianum,,,SOMA3
+8632,forest nightshade,Solanum,nudum,,,SONU4
+8633,cakalaka berry,Solanum,polygamum,,,SOPO
+8634,tabacon aspero,Solanum,rugosum,,,SORU
+8635,nightshade,Solanum,spp.,,,SOLAN
+8636,turkey berry,Solanum,torvum,,,SOTO4
+8639,mangrove,Sonneratia,alba,,,SOAL10
+870,Texas sophora,Sophora,affinis,,,SOAF
+8641,mamani,Sophora,chrysophylla,,,SOCH
+8648,mescal bean,Sophora,secundiflora,,,SOSE3
+8642,necklacepod,Sophora,spp.,,,SOPHO
+8643,silver bush,Sophora,tomentosa,,,SOTO3
+8657,false spiraea,Sorbaria,spp.,,,SORBA
+935,American mountain-ash,Sorbus,americana,,,SOAM3
+936,European mountain-ash,Sorbus,aucuparia,,,SOAU
+937,northern mountain-ash,Sorbus,decora,,,SODE3
+8658,Greene's mountain ash,Sorbus,scopulina,,,SOSC2
+8659,western mountain ash,Sorbus,sitchensis,,,SOSI2
+934,mountain-ash spp.,Sorbus,spp.,,,SORBU
+8660,maras,Soulamea,amara,,,SOAM2
+8644,African tuliptree,Spathodea,campanulata,,,SPCA2
+8645,spathodea,Spathodea,spp.,,,SPATH
+8646,Spiraeanthemum samoense,Spiraeanthemum,samoense,,,SPSA7
+8649,Spondias dulcis,Spondias,dulcis,,,SPDU3
+8650,yellow mombin,Spondias,mombin,,,SPMO
+8656,titmel,Spondias,pinnata,,,SPPI4
+8652,purple mombin,Spondias,purpurea,,,SPPU
+8653,Spondias,Spondias,spp.,,,SPOND
+8654,cobana negra,Stahlia,monosperma,,,STMO
+8655,ngmui,Stemonurus,ammui,,,STAM10
+8664,Panama tree,Sterculia,apetala,,,STAP
+8665,fanaio,Sterculia,fanaiho,,,STFA5
+8666,hazel sterculia,Sterculia,foetida,,,STFO2
+8667,Sterculia palauensis,Sterculia,palauensis,,,STPA20
+8675,Stewartia,Stewartia,koreana,,,STKO2
+8668,silky camellia,Stewartia,malacodendron,,,STMA
+8672,mountain camellia,Stewartia,ovata,,,STOV
+8669,anthropophagorum,Streblus,anthropophagorum,,,STAN9
+8670,Hawaii roughbush,Streblus,pendulinus,,,STPE3
+8671,streblus,Streblus,spp.,,,STREB
+8647,Japanese pagoda tree,Styphnolobium,japonicum,,,STJA9
+8673,American snowbell,Styrax,americanus,,,STAM4
+7083,bigleaf snowbell,Styrax,grandifolius,,,STGR4
+8674,palo de jazmin,Styrax,portoricensis,,,STPO3
+8676,bay cedar,Suriana,maritima,,,SUMA2
+8679,Honduras mahogany,Swietenia,macrophylla,,,SWMA
+940,West Indian mahogany,Swietenia,mahagoni,,,SWMA2
+8678,mahogany,Swietenia,spp.,,,SWIET
+8683,nispero cimarron,Symplocos,lanata,,,SYLA2
+8684,Martinique sweetleaf,Symplocos,martinicensis,,,SYMA
+8685,aceitunilla,Symplocos,micrantha,,,SYMI3
+8687,"chebtui, ebtui",Symplocos,racemosa,,,SYRA6
+8689,turpentine tree,Syncarpia,glomulifera,,,SYGL
+8690,turpentine tree,Syncarpia,spp.,,,SYNCA
+8691,Miracle Berry,Synsepalum,dulcificum,,,SYDU
+7092,Japanese tree lilac,Syringa,reticulata,,,SYRE2
+8693,common lilac,Syringa,vulgaris,,,SYVU
+8694,watery roseapple,Syzygium,aqueum,,,SYAQ
+8695,asi,Syzygium,brevifolium,,,SYBR3
+8696,popona,Syzygium,carolinense,,,SYCA4
+8697,asi vai,Syzygium,clusiifolium,,,SYCL
+896,Java plum,Syzygium,cumini,,,SYCU
+8699,asi vai,Syzygium,dealatum,,,SYDE3
+8700,asi,Syzygium,inophylloides,,,SYIN2
+8701,Syzygium jambos,Syzygium,jambos,,,SYJA
+8702,Malaysian apple,Syzygium,malaccense,,,SYMA2
+8703,popona,Syzygium,richii,,,SYRI3
+8704,nonu vao,Syzygium,samarangense,,,SYSA3
+8705,fena vao,Syzygium,samoense,,,SYSA6
+8706,ohia ha,Syzygium,sandwicense,,,SYSA
+8708,syzygium,Syzygium,spp.,,,SYZYG
+8709,roble amarillo,Tabebuia,chrysantha,,,TACH3
+8710,primavera,Tabebuia,donnell-smithii,,,TADO2
+8712,roble cimarron,Tabebuia,haemantha,,,TAHA
+8713,white cedar,Tabebuia,heterophylla,,,TAHE
+8714,pink tabebuia,Tabebuia,pallida,,,TAPA10
+8715,roble de sierra,Tabebuia,rigida,,,TARI
+8716,pink trumpet-tree,Tabebuia,rosea,,,TARO
+8717,roble colorado,Tabebuia,schumanniana,,,TASC2
+8718,trumpet-tree,Tabebuia,spp.,,,TABEB
+8719,Tabernaemontana aurantiaca,Tabernaemontana,aurantiaca,,,TAAU3
+8720,milkwood,Tabernaemontana,citrifolia,,,TACI
+8722,Pulu,Tabernaemontana,pandacaqui,,,TAPA13
+8723,Tabernaemontana rotensis,Tabernaemontana,rotensis,,,TARO3
+897,tamarind,Tamarindus,indica,,,TAIN2
+8727,Athel tamarisk,Tamarix,aphylla,,,TAAP
+8728,five-stamen tamarisk,Tamarix,chinensis,,,TACH2
+8729,saltcedar,Tamarix,ramosissima,,,TARA
+991,saltcedar,Tamarix,spp.,,,TAMAR2
+8737,manunu,Tarenna,sambucina,,,TASA2
+222,pondcypress,Taxodium,ascendens,,,TAAS
+221,baldcypress,Taxodium,distichum,,,TADI2
+223,Montezuma baldcypress,Taxodium,mucronatum,,,TAMU
+220,baldcypress spp.,Taxodium,spp.,,,TAXOD
+8738,English yew,Taxus,baccata,,,TABA80
+231,Pacific yew,Taxus,brevifolia,,,TABR2
+8739,Japanese yew,Taxus,cuspidata,,,TACU
+232,Florida yew,Taxus,floridana,,,TAFL
+230,yew spp.,Taxus,spp.,,,TAXUS
+8741,chestnutleaf trumpetbush,Tecoma,castanifolia,,,TECA9
+8743,yellow trumpetbush,Tecoma,stans,,,TEST
+8744,teak,Tectona,grandis,,,TEGR
+8745,tectona,Tectona,spp.,,,TECTO
+8749,kehma,Terminalia,carolinensis,,,TECA16
+8750,tropical almond,Terminalia,catappa,,,TECA
+8751,"esemiich, chesemiich",Terminalia,crassipes,,,TECR3
+8752,"esemiich, chesemiich",Terminalia,edulis,,,TEED
+8754,Ivory Coast almond,Terminalia,ivorensis,,,TEIV2
+8755,tropical almond,Terminalia,kaernbachii,,,TEKA4
+8753,strand tree,Terminalia,litoralis,,,TELI7
+8756,East Indian almond,Terminalia,myriocarpa,,,TEMY
+8757,Peruvian almond,Terminalia,oblonga,,,TEOB
+8758,malili,Terminalia,richii,,,TERI3
+8759,talie,Terminalia,samoensis,,,TESA2
+8748,tropical almond,Terminalia,spp.,,,TERMI
+8761,superb terminalia,Terminalia,superba,,,TESU2
+8762,saintedwood,Ternstroemia,heptasepala,,,TEHE3
+8763,palo colorado,Ternstroemia,luquillensis,,,TELU2
+8764,copey vera,Ternstroemia,peduncularis,,,TEPE
+8766,mamey de cura,Ternstroemia,stahlii,,,TEST3
+8767,el yunque colorado,Ternstroemia,subsessilis,,,TESU
+8768,masa,Tetragastris,balsamifera,,,TEBA
+8770,Flynnsohe,Tetraplasandra,flynnii,,,TEFL5
+8771,Koolau Rangeohe,Tetraplasandra,gymnocarpa,,,TEGY
+8772,Hawaii ohe,Tetraplasandra,hawaiensis,,,TEHA2
+8773,ohe ohe,Tetraplasandra,kavaiensis,,,TEKA3
+8774,ohe mauka,Tetraplasandra,oahuensis,,,TEOA
+8775,tetraplasandra,Tetraplasandra,spp.,,,TETRA11
+8776,Mt. Waialeale ohe,Tetraplasandra,waialealae,,,TEWA
+8777,ohe kiko ola,Tetraplasandra,waimeae,,,TEWA3
+8778,stinkingfish,Tetrazygia,angustifolia,,,TEAN2
+8779,Florida clover ash,Tetrazygia,bicolor,,,TEBI
+8780,Puerto Rico clover ash,Tetrazygia,biflora,,,TEBI2
+8781,krekre,Tetrazygia,elaeagnoides,,,TEEL
+8783,cenizo,Tetrazygia,urbanii,,,TEUR
+8784,cacao,Theobroma,cacao,,,THCA
+8786,maga,Thespesia,grandiflora,,,THGR2
+8787,Portia tree,Thespesia,populnea,,,THPO3
+8788,thespesia,Thespesia,spp.,,,THESP
+8789,luckynut,Thevetia,peruviana,,,THPE3
+8793,ceboruquillo,Thouinia,striata,,,THST2
+8794,Puerto Rico ceboruquillo,Thouinia,striata,portoricensis,,THSTP
+913,key thatch palm,Thrinax,morrisii,,,THMO4
+914,Florida thatch palm,Thrinax,radiata,,,THRA2
+241,northern white-cedar,Thuja,occidentalis,,,THOC2
+242,western redcedar,Thuja,plicata,,,THPL
+240,thuja spp.,Thuja,spp.,,,THUJA
+8803,Brazilian glorytree,Tibouchina,granulosa,,,TIGR3
+8804,glorytree,Tibouchina,spp.,,,TIBOU
+8805,princess-flower,Tibouchina,urvilleana,,,TIUR
+951,American basswood,Tilia,americana,,,TIAM
+952,white basswood,Tilia,americana,heterophylla,,TIAMH
+953,Carolina basswood,Tilia,americana,caroliniana,,TIAMC
+8813,littleleaf linden,Tilia,cordata,,,TICO2
+950,basswood spp.,Tilia,spp.,,,TILIA
+8814,Silver linden,Tilia,tomentosa,,,TITO
+8806,Timonius corymbosus,Timonius,corymbosus,,,TICO7
+8800,kehn,Timonius,ledermanii,,,TILE4
+8807,Timonius mollis,Timonius,mollis,,,TIMO4
+8801,tuhke duwehte kamal,Timonius,ponapensis,,,TIPO5
+8808,Timonius,Timonius,spp.,,,TIMON
+8809,Timonius subauritus,Timonius,subauritus,,,TISU3
+8810,Timonius timon,Timonius,timon,,,TITI
+8812,Australian redcedar,Toona,ciliata,,,TOCI
+8811,redcedar,Toona,spp.,,,TOONA
+8816,boje,Torralbasia,cuneifolia,,,TOCU
+251,California torreya (nutmeg),Torreya,californica,,,TOCA
+250,torreya (nutmeg) spp.,Torreya,spp.,,,TORRE
+252,Florida torreya (nutmeg),Torreya,taxifolia,,,TOTA
+8822,olona,Touchardia,latifolia,,,TOLA
+8823,touchardia,Touchardia,spp.,,,TOUCH
+8824,velvetleaf soldierbush,Tournefortia,argentea,,,TOAR2
+8825,cold withe,Tournefortia,filiflora,,,TOFI
+8826,soldierbush,Tournefortia,spp.,,,TOURN
+8830,poison sumac,Toxicodendron,vernix,,,TOVE
+998,Unknown dead hardwood,Tree,broadleaf,,,2TB
+299,Unknown dead conifer,Tree,evergreen,,,2TE
+999,Other or unknown live tree,Tree,unknown,,,2TREE
+8827,magele,Trema,cannabina,,,TRCA33
+8828,Lamarck's trema,Trema,lamarckianum,,,TRLA2
+8829,Jamaican nettletree,Trema,micranthum,,,TRMI2
+8831,oriental trema,Trema,orientalis,,,TROR
+8832,trema,Trema,spp.,,,TREMA
+994,Chinese tallowtree,Triadica,sebifera,,,TRSE6
+8833,broomstick,Trichilia,hirta,,,TRHI3
+8834,gaita,Trichilia,pallida,,,TRPA2
+8836,bariaco,Trichilia,triacantha,,,TRTR8
+8837,Trichospermum ikutai,Trichospermum,ikutai,,,TRIK
+8838,"elsau, oleiulakersus",Trichospermum,ledermannii,,,TRLE8
+8839,maouli,Trichospermum,richii,,,TRRI9
+8842,limeberry,Triphasia,trifolia,,,TRTR7
+8844,ant tree,Triplaris,cumingiana,,,TRCU6
+8843,Triplaris spp.,Triplaris,spp.,,,TRIPL5
+8846,faia,Tristiropsis,obtusangula,,,TROB7
+8848,white ramoon,Trophis,racemosa,,,TRRA4
+261,eastern hemlock,Tsuga,canadensis,,,TSCA
+262,Carolina hemlock,Tsuga,caroliniana,,,TSCA2
+263,western hemlock,Tsuga,heterophylla,,,TSHE
+264,mountain hemlock,Tsuga,mertensiana,,,TSME
+260,hemlock spp.,Tsuga,spp.,,,TSUGA
+8850,muttonwood,Turpinia,occidentalis,,,TUOC
+971,winged elm,Ulmus,alata,,,ULAL
+972,American elm,Ulmus,americana,,,ULAM
+973,cedar elm,Ulmus,crassifolia,,,ULCR
+8851,Chinese elm,Ulmus,parvifolia,,,ULPA
+8852,English elm,Ulmus,procera,,,ULPR
+974,Siberian elm,Ulmus,pumila,,,ULPU
+975,slippery elm,Ulmus,rubra,,,ULRU
+976,September elm,Ulmus,serotina,,,ULSE
+970,elm spp.,Ulmus,spp.,,,ULMUS
+977,rock elm,Ulmus,thomasii,,,ULTH
+981,California-laurel,Umbellularia,californica,,,UMCA
+8859,Mexican buckeye,Ungnadia,speciosa,,,UNSP
+8853,scratchbush,Urera,baccifera,,,URBA
+8854,flameberry,Urera,caracasana,,,URCA2
+8855,ortiga,Urera,chlorocarpa,,,URCH2
+8856,hopue,Urera,glabra,,,URGL
+8857,opuhe,Urera,kaalae,,,URKA
+8858,urera,Urera,spp.,,,URERA
+8860,farkleberry,Vaccinium,arboreum,,,VAAR
+8861,voa vanga,Vangueria,madagascariensis,,,VAMA5
+8866,Manila palm,Veitchia,merrillii,,,VEME3
+995,tungoil tree,Vernicia,fordii,,,VEFO
+8869,mu oil tree,Vernicia,montana,,,VEMO3
+8870,vernicia,Vernicia,spp.,,,VERNI
+8877,nannyberry,Viburnum,lentago,,,VILE
+8878,blackhaw,Viburnum,prunifolium,,,VIPR
+8879,rusty blackhaw,Viburnum,rufidulum,,,VIRU
+8880,Siebold's arrowwood,Viburnum,sieboldii,,,VISI
+8871,lilac chastetree,Vitex,agnus-castus,,,VIAG
+8872,"bars, beokel",Vitex,cofassus,,,VICO17
+8873,higuerillo,Vitex,divaricata,,,VIDI2
+7199,Chinese chastetree,Vitex,negundo,,,VINE2
+8874,smallflower chastetree,Vitex,parviflora,,,VIPA6
+8875,chastetree,Vitex,spp.,,,VITEX
+8876,simpleleaf chastetree,Vitex,trifolia,,,VITR7
+8881,Wallenia lamarckiana,Wallenia,lamarckiana,,,WALA
+8883,California fan palm,Washingtonia,filifera,,,WAFI
+8885,Washington fan palm,Washingtonia,robusta,,,WARO
+8884,ateate,Wedelia,biflora,,,WEBI
+8886,Weinmannia affinis,Weinmannia,affinis,,,WEAF
+8887,bastard briziletto,Weinmannia,pinnata,,,WEPI
+8889,alpine false ohelo,Wikstroemia,bicornuta,,,WIBI
+8890,forest false ohelo,Wikstroemia,furcata,,,WIFU
+8891,montane false ohelo,Wikstroemia,monticola,,,WIMO
+8892,Oahu false ohelo,Wikstroemia,oahuensis,,,WIOA
+8895,Hawaii false ohelo,Wikstroemia,phillyreifolia,,,WIPH2
+8896,Kohala false ohelo,Wikstroemia,pulcherrima,,,WIPU
+8897,variableleaf false ohelo,Wikstroemia,sandwicensis,,,WISA
+8898,Skottsbergs false ohelo,Wikstroemia,skottsbergiana,,,WISK
+8899,false ohelo,Wikstroemia,spp.,,,WIKST
+8900,hairy false ohelo,Wikstroemia,villosa,,,WIVI
+8901,tallow wood,Ximenia,americana,,,XIAM
+8903,lalanyog,Xylocarpus,granatum,,,XYGR
+8904,leilei,Xylocarpus,moluccensis,,,XYMO2
+8905,Xylocarpus,Xylocarpus,spp.,,,XYLOC2
+8914,mission manzanita,Xylococcus,bicolor,,,XYBI
+8906,mucha-gente,Xylosma,buxifolia,,,XYBU
+8907,sawtooth logwood,Xylosma,crenata,,,XYCR
+8908,Hawaii brushholly,Xylosma,hawaiiensis,,,XYHA
+8909,Xylosma nelsonii,Xylosma,nelsonii,,,XYNE2
+8910,spiny logwood,Xylosma,pachyphylla,,,XYPA2
+8911,Xylosma samoensis,Xylosma,samoensis,,,XYSA
+8912,white logwood,Xylosma,schaefferioides,,,XYSC2
+8913,Schwaneck's logwood,Xylosma,schwaneckeana,,,XYSC3
+8915,xylosma,Xylosma,spp.,,,XYLOS
+8916,aloe yucca,Yucca,aloifolia,,,YUAL
+982,Joshua tree,Yucca,brevifolia,,,YUBR
+8918,moundlily yucca,Yucca,gloriosa,,,YUGL2
+8919,bluestem yucca,Yucca,guatemalensis,,,YUGU
+8942,common pricklyash,Zanthoxylum,americanum,,,ZAAM
+8923,Maricao pricklyash,Zanthoxylum,bifoliolatum,,,ZABI
+8924,prickly yellow,Zanthoxylum,caribaeum,,,ZACA3
+8944,Hercules' club,Zanthoxylum,clava-herculis,,,ZACL
+8925,kawau,Zanthoxylum,dipetalum,,,ZADI
+8928,West Indian satinwood,Zanthoxylum,flavum,,,ZAFL
+8929,Hawaii pricklyash,Zanthoxylum,hawaiiense,,,ZAHA
+8930,Kauai pricklyash,Zanthoxylum,kauaense,,,ZAKA
+8931,white pricklyash,Zanthoxylum,martinicense,,,ZAMA
+8932,yellow prickle,Zanthoxylum,monophyllum,,,ZAMO
+8933,Oahu pricklyash,Zanthoxylum,oahuense,,,ZAOA
+8934,dotted pricklyash,Zanthoxylum,punctatum,,,ZAPU2
+8935,niaragato,Zanthoxylum,spinifex,,,ZASP
+8936,pricklyash,Zanthoxylum,spp.,,,ZANTH
+8937,St. Thomas pricklyash,Zanthoxylum,thomasianum,,,ZATH
+8938,Zapoteca portoricensis,Zapoteca,portoricensis,,,ZAPO2
+7243,Japanese zelkova,Zelkova,serrata,,,ZESE80
+8939,Indian jujube,Ziziphus,mauritiana,,,ZIMA
+7246,lotebush,Ziziphus,obtusifolia,,,ZIOB
+8940,cacao rojo,Ziziphus,reticulata,,,ZIRE
+8941,soana,Ziziphus,rignonii,,,ZIRI
+8943,Taylor's jujube,Ziziphus,taylorii,,,ZITA
+8947,common jujube,Ziziphus,zizyphus,,,ZIZI

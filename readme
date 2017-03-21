@@ -1,4 +1,12 @@
 # git/git-hub push-pull proceduces
 
-1. set the desired repository to push local data into
+1. check untracked files
+git status
+2. track files in local repository if any untracked files present
+git add
+3. record changes to the local repository
+git commit -m "a message for the theme of this push"
+4. set the remote url of the github repository
 git remote set-url origin https://github.com/lfeng1/research.git
+5. push the committed files to github 
+git push -u origin master

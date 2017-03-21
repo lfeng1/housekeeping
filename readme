@@ -1,0 +1,4 @@
+# git/git-hub push-pull proceduces
+
+1. set the desired repository to push local data into
+git remote set-url origin https://github.com/lfeng1/research.git
